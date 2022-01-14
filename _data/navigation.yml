@@ -1,0 +1,7 @@
+main:
+ - title: "Home"
+   url: /
+ - title: "Jobs"
+   url: /jobs/
+ - title: "People"
+   url: /people/
