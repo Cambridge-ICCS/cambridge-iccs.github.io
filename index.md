@@ -19,10 +19,13 @@ header:
 #masthead-title {
   display: none; // hide the site title on the home page as the splash has the title
 }
+.main {
+  text-align:justify;
+  font-size:smaller;
+}
 </style>
 
-<div class='left'>
-<p style='text-align:justify'>
+<p class="main">
 Computational modelling is key to modern climate science. But models are becoming
 increasingly complex as we seek to understand our physical world in more depth
 and model it at higher fidelity. The <strong>Institute of Computing

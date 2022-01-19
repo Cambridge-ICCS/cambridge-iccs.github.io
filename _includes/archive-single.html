@@ -27,6 +27,6 @@
       {% include page__meta.html type=include.type %}
       
     {% if post.excerpt %}<p class="archive__item-excerpt"
-  itemprop="description">{{ post.date | date: "%d %B %Y"}} | {{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+  itemprop="description"><b>{{ post.date | date: "%d %B %Y"}}</b> | {{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
   </article>
 </div>
