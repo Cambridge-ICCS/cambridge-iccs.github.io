@@ -16,6 +16,9 @@ sidebar:
   margin-top: 0.25em;
   margin-bottom: 1em;
 }
+.site-title {
+  display: none; // hide the site title on the home page as the splash has the title
+}
 </style>
 
 <div class='left'>
