@@ -42,7 +42,7 @@ github_username:  Cambridge-ICCS
 # Build settings
 # theme: minima
 # remote_theme: mmistakes/minimal-mistakes
-remote_theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-paginate
   - jekyll-feed
