@@ -30,22 +30,9 @@ for Climate Science</strong> studies and supports the role of software engineeri
 intelligence, and data science within climate science.
 </p>
 
-<p style='text-align:justify'>
-<h3>Challenges</h3>
-As the computational models become increasingly complicated, and more data is produced — ‘input’ from observation as well as ‘output’ from the models — there are three pressing challenges which we seek to address:
-<ol>
-<li>Software engineering is required to ensure that the models are robust, resource-efficient, maintainable, extendable, usable, interpretable and sustainable;
-</li>
-<li>Data science is required to ensure that the maximum valuable information is extracted from the various available data streams reliably and credibly;
-</li>
-<li>Computer science is required to develop tools, programming systems, libraries, and even programming languages to support the sustainable and robust development and deployment of increasingly complex models.
-</li>
-</ol>
-</p>
-</div>
-
 <div class='right'>
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<h3 class="archive__subtitle">{{
+site.data.ui-text[site.locale].recent_posts | default: "Recent News Posts" }}</h3>
 
 {% if paginator %}
   {% assign posts = paginator.posts %}

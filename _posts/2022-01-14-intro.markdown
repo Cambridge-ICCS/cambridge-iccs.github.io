@@ -1,7 +1,23 @@
 ---
 layout: posts
-title:  "Introduction"
+title:  "Hello World and press releases"
 date:   2022-01-13 13:01:25 +0000
 categories: main
 ---
-Hello world.
+We are excited to launch the institute!
+
+There have been various press releases about this new institute and the
+wider Virtual Institute for Scientific Software (VISS) of which we are
+a part:
+
+<ul>
+<li><a href="https://www.cam.ac.uk/research/news/cambridge-partners-with-schmidt-futures-in-new-software-engineering-network"><i>Cambridge partners with Schmidt Futures in new software engineering network</a></i> - University of Cambridge</li>
+
+<li><a href="https://www.science.org/content/article/former-google-ceo-invests-computing-help-university-scientists">Former Google CEO invests in computing help for university scientists</a> - Science</li>
+
+<li><a href="https://www.schmidtfutures.com/schmidt-futures-and-leading-research-universities-launch-software-engineering-centers-to-accelerate-scientific-discovery/">
+Schmidt Futures and Leading Research Universities Launch Software Engineering Centers to Accelerate Scientific Discovery</a> - Schmidt Futures
+</a>
+</li>
+<li></li>
+</ul>
