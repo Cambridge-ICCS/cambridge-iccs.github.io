@@ -7,7 +7,7 @@
         {% unless logo_path == empty %}
           <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}"></a>
       {% endunless %}
-        <a class="site-title" href="{{ '/' | relative_url }}">
+        <a class="site-title" id="masthead-title" href="{{ '/' | relative_url }}">
           {{ site.title }}
           {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
       </a>
@@ -24,15 +24,19 @@
           <span class="visually-hidden">{{ site.data.ui-text[site.locale].search_label | default: "Toggle search" }}</span>
           <i class="fas fa-search"></i>
         </button>
-        {% endif %}
+	{% endif %}
+
         <button class="greedy-nav__toggle hidden" type="button">
           <span class="visually-hidden">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle menu" }}</span>
           <div class="navicon"></div>
 	  </button>
 	  <ul class="hidden-links hidden"></ul>
+	  </nav>
+
 	  <img src="/assets/images/cam-logo.jpeg"
-  style='height:50px;margin-left:25px;' description="University of Cambridge logo"/>
-      </nav>
+  style='height:50px;margin-left:25px;' description="University of
+	Cambridge logo"/>
+
     </div>
   </div>
   </div>
