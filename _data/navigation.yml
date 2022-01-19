@@ -1,6 +1,8 @@
 main:
  - title: "Home"
    url: /
+ - title: "About"
+   url: /about.html
  - title: "Jobs"
    url: /jobs.html
  - title: "People"
