@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: posts
 title:  "Introduction"
 date:   2022-01-13 13:01:25 +0000
 categories: main
 ---
-The ICCS
+Hello world.
