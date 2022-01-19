@@ -6,6 +6,9 @@ layout: single
 header:
   overlay_image: /assets/images/mock.png
   overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
+
+sidebar:
+
 ---
 <style>
 .page__title {
@@ -15,6 +18,7 @@ header:
 }
 </style>
 
+<div class='left'>
 <p style='text-align:justify'>
 Computational modelling is key to modern climate science. But models are becoming
 increasingly complex as we seek to understand our physical world in more depth
@@ -35,4 +39,14 @@ As the computational models become increasingly complicated, and more data is pr
 </li>
 </ol>
 </p>
+</div>
 
+<div class='right'>
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+</div>
