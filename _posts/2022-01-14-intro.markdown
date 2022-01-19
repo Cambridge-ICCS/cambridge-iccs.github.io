@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:  "Hello World and Press Releases"
+title:  "Press Releases"
 date:   2022-01-18 13:01:25 +0000
 categories: main
 ---

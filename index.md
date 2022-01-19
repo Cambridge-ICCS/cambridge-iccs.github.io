@@ -7,14 +7,14 @@ header:
   overlay_image: /assets/images/mock.png
   overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
 
-sidebar:
+# sidebar:
 
 ---
 <style>
 .page__title {
   margin-left: 1.25em;
   margin-top: 0.25em;
-  margin-bottom: 1em;
+  margin-bottom: 2em;
 }
 #masthead-title {
   display: none; // hide the site title on the home page as the splash has the title
