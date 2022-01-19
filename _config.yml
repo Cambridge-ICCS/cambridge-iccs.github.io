@@ -26,7 +26,7 @@ header:
   overlay_image: /assets/images/mock.png
   overlay_filter: linear-gradient(rgba(255, 0, 0, 0.5), rgba(0, 255, 255, 0.5))
 
-logo: /assets/images/icon.png
+logo: /assets/images/icon-2.png
 
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -40,8 +40,8 @@ github_username:  Cambridge-ICCS
 
 # Build settings
 # theme: minima
-remote_theme: mmistakes/minimal-mistakes
-# theme: minimal-mistakes-jekyll
+# remote_theme: mmistakes/minimal-mistakes
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-paginate
   - jekyll-feed
