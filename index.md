@@ -11,24 +11,22 @@ header:
 
 ---
 <style>
-.page__title {
-  margin-left: 1.25em;
-  margin-top: 0.25em;
-  margin-bottom: 2em;
-}
 #masthead-title {
   display: none; // hide the site title on the home page as the splash has the title
-}
-.main {
-  text-align:justify;
-  font-size:smaller;
 }
 </style>
 
 <p class="main">
-Computational modelling is key to modern climate science. But models are becoming
-increasingly complex as we seek to understand our physical world in more depth
-and model it at higher fidelity. The <strong>Institute of Computing
-for Climate Science</strong> studies and supports the role of software engineering, computer science, artificial
-intelligence, and data science within climate science.
+<h3>About us</h3>
+
+The <strong>Institute of Computing for Climate Science</strong>
+studies and supports the role of software engineering, computer
+science, artificial intelligence, and data science within climate
+science. 
+
+The institute comprises a collaboration between <a
+href="https://www.zero.cam.ac.uk/">Cambridge Zero</a>, the Departments
+of <a href="https://www.cst.cam.ac.uk">Computer Science and
+Technology</a>, <a href="https://www.damtp.cam.ac.uk/">Applied
+Mathematics and Theoretical Physics</a>, and <a href="https://www.uis.cam.ac.uk/">University Information Services</a>.
 </p>
