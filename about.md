@@ -6,7 +6,7 @@ layout: single
 ---
 
 <p style='text-align:justify'>
-Computational modelling is key to modern climate science. But models are becoming
+Computational modelling is key to climate science. But models are becoming
 increasingly complex as we seek to understand our physical world in more depth
 and model it at higher fidelity. The <strong>Institute of Computing
 for Climate Science</strong> studies and supports the role of software engineering, computer science, artificial
