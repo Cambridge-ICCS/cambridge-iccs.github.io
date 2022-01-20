@@ -33,7 +33,13 @@
 }
 
 .masthead__inner-wrap {
+    padding: 0.5em;
+}
+
+div.masthead {
+    padding-bottom: 0px;
     margin-bottom: -1px;
+    border-bottom: 0px;
 }
 
 #site-nav a {
