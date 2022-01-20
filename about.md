@@ -6,6 +6,12 @@ layout: single
 ---
 
 <p style='text-align:justify'>
+Computational modelling is key to modern climate science. But models are becoming
+increasingly complex as we seek to understand our physical world in more depth
+and model it at higher fidelity. The <strong>Institute of Computing
+for Climate Science</strong> studies and supports the role of software engineering, computer science, artificial
+intelligence, and data science within climate science.
+
 <h3>Challenges</h3>
 As the computational models become increasingly complicated, and more data is produced — ‘input’ from observation as well as ‘output’ from the models — there are three pressing challenges which we seek to address:
 <ol>
@@ -17,3 +23,20 @@ As the computational models become increasingly complicated, and more data is pr
 </li>
 </ol>
 </p>
+
+<h3>Structure and Objectives</h3>
+
+The institute is part of the larger <a
+href="https://www.schmidtfutures.com/our-work/virtual-institute-for-scientific-software/">
+Virtual Institute for Scientific Software (VISS)</a> estbalished by <a
+href="https://www.schmidtfutures.com/">Schmidt Futures</a> addressing
+the growing demand for software engineers with backgrounds in science,
+complex data and mathematics who can build dynamic, scalable, open
+software to facilitate accelerated scientific discovery across fields.
+
+Cambridge's Institute of Computing for Climate Science (ICCS) will
+apply its existing expertise in climate sciences and artificial
+intelligence with the research teams from Schmidt Futures’ Virtual
+Earth Systems Research Institute (VESRI) to address the specific
+computation and research software needs in the area of climate
+modelling.

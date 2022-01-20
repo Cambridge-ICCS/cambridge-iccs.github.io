@@ -9,25 +9,27 @@ layout: single
 .person
 {
  flex: 1;
-  background: #eee;
   float:left;
   padding: 1em;
   margin-right: 10px;
   margin-top: 10px;
   text-align:center;
+  font-size: smaller;
   }
-  .person img {
+.person img {
   object-fit: cover;
-border-radius: 50%;
-clear: right;
-display: block;
-margin: auto;
+  border-radius: 50%;
+  clear: right;
+  display: block;
+  margin: auto;
+  margin-bottom: 2em;
 }
 span.role {
   display: block;
 }
 </style>
 
+<h3>Leadership</h3>
 <div id="container">
 
 <div class="person">

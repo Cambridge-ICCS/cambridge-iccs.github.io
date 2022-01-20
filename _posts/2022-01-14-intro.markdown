@@ -5,7 +5,7 @@ date:   2022-01-18 13:01:25 +0000
 categories: main
 ---
 
-We are happy to now be able to publicly announce the new
+We are happy to publicly announce the new
 Institute of Computing for Climate Change. 
 There have been various press releases about this new institute and the
 wider Virtual Institute for Scientific Software (VISS) of which we are

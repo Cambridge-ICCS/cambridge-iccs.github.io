@@ -70,4 +70,4 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-breadcrumbs: true
+# breadcrumbs: true

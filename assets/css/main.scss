@@ -7,17 +7,75 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.page__title {
-  margin-left: 1.25em;
-  margin-top: 0.25em;
-  margin-bottom: 3em;
+.page__hero--overlay {
+    padding-left: 2em;
 }
 
-.main {
-  text-align:justify;
+.main_content {
   font-size:smaller;
 }
 
 .floatBox {
+    float: right;
+    background: #585858;
+    color: #eee;
+    padding: 1em;
+    margin: 2em;
+    margin-right: 0em;
+    margin-top: 1em;
+    max-width: 18em;
+    text-align: right;
+		   
+}
 
+.masthead, .masthead__inner-wrap, .masthead__menu, #site-nav {
+    background: #333;
+}
+
+.masthead__inner-wrap {
+    margin-bottom: -1px;
+}
+
+#site-nav a {
+    color: #eee;
+}
+
+blockquote::before {
+    content: open-quote;
+}
+blockquote::after {
+  content: close-quote;
+}
+blockquote {
+    quotes: "“" "”" "‘" "’";
+    margin: 0em;
+    margin-bottom: 1em;
+    padding: 0em;
+    padding-left: 1em;
+    font: 0.8rem/1.2 Georgia, serif;
+    text-indent: -0.45em;
+}
+/* If there's support, erase the indent and use the property instead */
+@supports ( hanging-punctuation: first) {
+  blockquote {
+    text-indent: 0;
+    hanging-punctuation: first;
+  }
+}
+
+.markRight {
+    float:right;
+}
+
+.quoteAuthor {
+    font-style: italic;
+    display: block;
+}
+
+#main {
+    margin-top: 0;
+}
+
+.page__hero--overlay {
+    margin-bottom: 0em;
 }
