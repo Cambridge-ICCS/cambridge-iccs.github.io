@@ -2,7 +2,7 @@
 layout:  single
 ---
 
-<b>Coming soon!</b> We will be advertising in late January 2022 a number of roles
+<b>Coming soon!</b> We will be advertising in February 2022 a number of roles
 associated with ICCS.
 
 <h4>Executive Programme Director</h4>
