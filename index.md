@@ -10,6 +10,8 @@ header:
   actions:
     - label: "Join us"
       url: "/jobs.html"
+    - label: "Subscribe to mailing list"
+      url: "https://lists.cam.ac.uk/sympa/subscribe/iccs-computing-for-climate-science?previous_action=info"
 # sidebar:
 
 ---
