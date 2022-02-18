@@ -60,6 +60,7 @@ blockquote {
     padding-left: 1em;
     font: 0.8rem/1.2 Georgia, serif;
     text-indent: -0.45em;
+    border-left-width: 0;
 }
 /* If there's support, erase the indent and use the property instead */
 @supports ( hanging-punctuation: first) {
