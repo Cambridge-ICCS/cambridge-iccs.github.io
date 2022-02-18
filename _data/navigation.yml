@@ -3,6 +3,8 @@ main:
    url: /
  - title: "About"
    url: /about.html
+ - title: "News"
+   url: /news.html
  - title: "Jobs"
    url: /jobs.html
  - title: "People"
