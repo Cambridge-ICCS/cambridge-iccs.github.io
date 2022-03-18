@@ -5,7 +5,7 @@ layout:  single
 
 <h4>Executive Programme Director</h4>
 
-[Job advert, closes April 10th 2022](https://www.jobs.ac.uk/job/COA207/executive-programme-director-institute-of-computing-for-climate-science-fixed-term)
+[Job advert, closes April 10th 2022](https://www.jobs.cam.ac.uk/job/33774/)
 
 <h4>Early-Career Advanced Fellowships (post-doctoral)</h4>
 
