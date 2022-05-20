@@ -3,9 +3,6 @@ layout:  single
 title: ICCS Summer School 2022
 ---
 
-
-# ICCS Summer School 2022
-
 <h4><i>Monday 19th - Friday 23rd September 2022, Cambridge, UK</i></h4>
 
 The inaugural ICCS Summer School will take place as a hybrid event, both online and in person
