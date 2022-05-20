@@ -1,5 +1,6 @@
 ---
 layout:  single
+title: ICCS Summer School 2022
 ---
 
 
