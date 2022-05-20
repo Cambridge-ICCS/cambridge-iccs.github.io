@@ -2,6 +2,21 @@
 layout:  single
 title: ICCS Summer School 2022
 ---
+<style>
+div {
+  font-size:12.5pt;
+  text-align:justify;
+}
+td {
+  font-size:11pt;
+}
+table {
+  width: 120%;
+}
+.page__title {
+  margin-top: 1em;
+}
+</style>
 
 <h4><i>Monday 19th - Friday 23rd September 2022, Cambridge, UK</i></h4>
 
