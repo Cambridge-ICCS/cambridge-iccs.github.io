@@ -11,14 +11,22 @@ td {
   font-size:11pt;
 }
 table {
-  width: 120%;
+  width: 110%;
+  margin-left: -5%;
 }
 .page__title {
   margin-top: 1em;
 }
+.floater {
+  float:right;
+  margin: 2em;
+}
 </style>
 
+<img src="https://live.staticflickr.com/65535/48142231042_2ffd1bf1ba_m.jpg" class="floater /">
+
 <h4><i>Monday 19th - Friday 23rd September 2022, Cambridge, UK</i></h4>
+
 
 The inaugural ICCS Summer School will take place as a hybrid event, both online and in person
 in Cambridge, during the week of Monday 19th September 2022.
