@@ -23,7 +23,7 @@ table {
 The inaugural ICCS Summer School will take place as a hybrid event, both online and in person
 in Cambridge, during the week of Monday 19th September 2022.
 
-The summer school is free to attend and open to anyone with an interest in computational aspects
+The summer school is <ul>free to attend</ul> and open to anyone with an interest in computational aspects
 of climate science research. The summer school will combine a mix of training workshops, scientific
 presentations, group discussions, social/networking activities, a poster reception, and a hackathon on the last day. 
 
