@@ -19,7 +19,8 @@ table {
 }
 .floater {
   float:right;
-  margin: 2em;
+  margin-left: 2em;
+  margin-bottom: 2em;
 }
 </style>
 
