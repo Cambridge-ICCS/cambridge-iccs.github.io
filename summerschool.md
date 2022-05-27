@@ -1,6 +1,6 @@
 ---
 layout:  single
-title: ICCS Summer School 2022
+title: Institute of Computing for Climate Science Summer School 2022
 ---
 <style>
 div {
@@ -29,19 +29,17 @@ table {
 <h4><i>Monday 19th - Friday 23rd September 2022, Cambridge, UK</i></h4>
 
 
-The inaugural ICCS Summer School will take place as a hybrid event, both online and in person
-in Cambridge, during the week of Monday 19th September 2022.
+The inaugural Institute of Computing for Climate Science (ICCS) Summer School will take place as a hybrid event in Cambridge, UK, both virtually and in-person, during the week of Monday 19th September 2022.
 
 The summer school is <span style="text-decoration:underline">free to attend</span> and open to anyone with an interest in computational aspects
 of climate science research. The summer school will combine a mix of training workshops, scientific
-presentations, group discussions, social/networking activities, a poster reception, and a hackathon on the last day. 
+presentations, group discussions, social and community building activities, a poster presentation reception, and a hackathon on the last day. 
 
-The focus of the training workshops will be on best practice software engineering methods.
-There will be chances for networking and fostering collaboration.
-Attendees also have the opportunity to present their work via a poster and/or a lightning talk which 
-may be of particular interst to early-career researchers who wish to get exposure and feedback on their work.
+The focus of the training workshops will be on best practice software engineering methods, with intentional space for networking and fostering collaboration.
+Attendees also have the opportunity to present their work via a poster and/or lightning talk, which 
+may be of particular interest to early-career researchers who wish to get community exposure and feedback on their work.
 
-For members of [VESRI projects](https://www.schmidtfutures.com/our-work/virtual-earth-system-research-institute-vesri/), the summer school is also a chance to network between teams, give presentations on the scientific aims of your projects, and to meet and discuss with the Core team. VESRI leads will have the option to lead a scientific session on the core science underlying their project.
+For members of the Schmidt Futures [VESRI projects](https://www.schmidtfutures.com/our-work/virtual-earth-system-research-institute-vesri/), the summer school is also a chance to network between teams, give presentations on the scientific aims of your projects, and to meet and discuss with the Core team. VESRI leads will have the option to conduct a scientific session on the core science underlying their project.
 
 The current sketch of the programme is as follows:
 
@@ -49,7 +47,7 @@ The current sketch of the programme is as follows:
 | -------------- | -------                    | ----------------------------------------------- |
 | Mon 19th    | <i><span style='color:#999;'>Arrival</span>                           | Poster reception with lunch + Welcome keynote + Science talk |
 | Tue 20th   | Training workshops (x2)    | Training workshop + scientific session + discussion groups |
-| Wed 21st | Training workshop + scientific session  | Lightning talks + __Excursion ([punting](https://en.wikipedia.org/wiki/Punt_(boat))) followed by banquet in college__ |
+| Wed 21st | Training workshop + scientific session  | Lightning talks + __Excursion ([punting](https://en.wikipedia.org/wiki/Punt_(boat)) tour) followed by banquet in college__ |
 | Thu 22nd  | Training workshop + scientific session | Discussion groups + Lightning talks + Hackathon pitches |
 | Fri 23rd    | Hackathon | Hackathon + presentations, culminating in prizes |
 
@@ -78,9 +76,9 @@ The summer school will take place in the [Computer Laboratory](https://www.cst.c
 
 [Directions to the Computer Lab](https://www.cst.cam.ac.uk/directions).
 
-Depending on demand, we may organise a block booking of accommodation at a college which is usually cheaper than a local hotel. Otherwise, Cambridge is replete with good quality hotels and [most colleges also make their rooms available](https://www.universityrooms.com/en-GB/city/cambridge/home/?gclid=Cj0KCQjw-JyUBhCuARIsANUqQ_KO7BKHd9D9yhAt5q80cBarTw0ltRwbJ-GHXpl-zjx4eiIgEqdPeJQaAjzcEALw_wcB) which is an excellent way to soak up more of the Cambridge atmosphere.
+Depending on demand, we may organise a block booking of accommodation at a college or nearby hotel. Otherwise, Cambridge is replete with good quality hotels and [most colleges also make their rooms available](https://www.universityrooms.com/en-GB/city/cambridge/home/?gclid=Cj0KCQjw-JyUBhCuARIsANUqQ_KO7BKHd9D9yhAt5q80cBarTw0ltRwbJ-GHXpl-zjx4eiIgEqdPeJQaAjzcEALw_wcB) which is an excellent way to soak up more of the Cambridge atmosphere.
 
-If you plan to attend in person, please given an indication of which days you will stay in Cambridge in the sign-up.
+If you plan to attend in person, please indicate during the registration process which days you will need accommodation in Cambridge.
 
 #### COVID-19
 
