@@ -82,4 +82,4 @@ If you plan to attend in person, please indicate during the registration process
 
 #### COVID-19
 
-For those attending in-person, we will be closely monitoring the situation and following the guidelines of the UK government at the time of the summer school.
+For those attending in-person, we will be closely monitoring the situation and following the guidelines of the UK government and [the procedures of the University of Cambridge](https://www.cam.ac.uk/coronavirus) at the time of the summer school.
