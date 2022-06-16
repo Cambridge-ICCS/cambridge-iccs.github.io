@@ -67,19 +67,24 @@ session.
 
 ### Sign up
 
-[Please sign up via this web form.](https://docs.google.com/forms/d/1nkL5Q1xB69kATiHdbvcg_z9LuxpIB5D_0KUHF8Hma94/edit)
-
+[Please sign up via this web form.](https://docs.google.com/forms/d/1nkL5Q1xB69kATiHdbvcg_z9LuxpIB5D_0KUHF8Hma94/edit)  
+  
 ### Logistics 
 
-The summer school will take place in the [Computer Laboratory](https://www.cst.cam.ac.uk/):
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2444.788493704551!2d0.09173199999999997!3d52.210891!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8774a3f6e55cd%3A0xabf8227343e684c7!2sComputer%20Laboratory%2C%20University%20of%20Cambridge!5e0!3m2!1sen!2suk!4v1653055464009!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-[Directions to the Computer Lab](https://www.cst.cam.ac.uk/directions).
-
+The summer school will take place in Cambridge, UK (venue to be announced soon).
+  
 Depending on demand, we may organise a block booking of accommodation at a college or nearby hotel. Otherwise, Cambridge is replete with good quality hotels and [most colleges also make their rooms available](https://www.universityrooms.com/en-GB/city/cambridge/home/?gclid=Cj0KCQjw-JyUBhCuARIsANUqQ_KO7BKHd9D9yhAt5q80cBarTw0ltRwbJ-GHXpl-zjx4eiIgEqdPeJQaAjzcEALw_wcB) which is an excellent way to soak up more of the Cambridge atmosphere.
 
 If you plan to attend in person, please indicate during the registration process which days you will need accommodation in Cambridge.
 
 #### COVID-19
+  
+ With attending an in-person multi-day event, we ask that each attendee assess their own personal health risk and do what is comfortable for them and their situation. Below lists our guidelines to hold a safe and low risk event.
 
-For those attending in-person, we will be closely monitoring the situation and following the guidelines of the UK government and [the procedures of the University of Cambridge](https://www.cam.ac.uk/coronavirus) at the time of the summer school.
+    * COVID-19 Vaccination: We strongly encourage that each attendees be fully vaccinated with a booster against COVID-19 to attend this in-person event.
+    
+    * COVID-19 Testing: Prior to attending each day of our event, we will require that all attendees take a provided at-home COVID-19 test confirming their negative status.
+  
+    * Masking: Given the size of the event, masking may be required and will be determined closer to the event. With much of the programming indoors we support the use of a mask for part/all of the event while not eating and drinking, and will provide N95 and KN95 masks to any attendee that would like them. 
+
+We will be closely monitoring the situation and following the guidelines of the UK government and [the procedures of the University of Cambridge](https://www.cam.ac.uk/coronavirus) at the time of the summer school.
