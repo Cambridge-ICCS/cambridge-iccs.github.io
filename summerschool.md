@@ -67,7 +67,19 @@ session.
 
 ### Sign up
 
-[Please sign up via this web form.](https://docs.google.com/forms/d/1nkL5Q1xB69kATiHdbvcg_z9LuxpIB5D_0KUHF8Hma94/edit)  
+[Please sign up via this web form.](https://docs.google.com/forms/d/1nkL5Q1xB69kATiHdbvcg_z9LuxpIB5D_0KUHF8Hma94/edit) 
+  
+#### COVID-19
+  
+With attending an in-person multi-day event, we ask that each attendee assess their own personal health risk and do what is comfortable for them and their situation. Below lists our guidelines to hold a safe and low risk event.
+
+    - COVID-19 Vaccination: We strongly encourage that each attendees be fully vaccinated with a booster against COVID-19 to attend this in-person event.
+    
+    - COVID-19 Testing: Prior to attending each day of our event, we will require that all attendees take a provided at-home COVID-19 test confirming their negative status.
+  
+    - Masking: Given the size of the event, masking may be required and will be determined closer to the event. With much of the programming indoors we support the use of a mask for part/all of the event while not eating and drinking, and will provide N95 and KN95 masks to any attendee that would like them. 
+
+We will be closely monitoring the situation and following the guidelines of the UK government and [the procedures of the University of Cambridge](https://www.cam.ac.uk/coronavirus) at the time of the summer school.
   
 ### Logistics 
 
@@ -77,14 +89,4 @@ Depending on demand, we may organise a block booking of accommodation at a colle
 
 If you plan to attend in person, please indicate during the registration process which days you will need accommodation in Cambridge.
 
-#### COVID-19
-  
- With attending an in-person multi-day event, we ask that each attendee assess their own personal health risk and do what is comfortable for them and their situation. Below lists our guidelines to hold a safe and low risk event.
 
-    * COVID-19 Vaccination: We strongly encourage that each attendees be fully vaccinated with a booster against COVID-19 to attend this in-person event.
-    
-    * COVID-19 Testing: Prior to attending each day of our event, we will require that all attendees take a provided at-home COVID-19 test confirming their negative status.
-  
-    * Masking: Given the size of the event, masking may be required and will be determined closer to the event. With much of the programming indoors we support the use of a mask for part/all of the event while not eating and drinking, and will provide N95 and KN95 masks to any attendee that would like them. 
-
-We will be closely monitoring the situation and following the guidelines of the UK government and [the procedures of the University of Cambridge](https://www.cam.ac.uk/coronavirus) at the time of the summer school.
