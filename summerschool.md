@@ -77,7 +77,7 @@ With attending an in-person multi-day event, we ask that each attendee assess th
 
 - COVID-19 Testing: Prior to attending each day of our event, we will require that all attendees take a provided at-home COVID-19 test confirming their negative status.
   
-- Masking: Given the size of the event, masking may be required and will be determined closer to the event. With much of the programming indoors we support the use of a mask for part/all of the event while not eating and drinking, and will provide N95 and KN95 masks to any attendee that would like them. 
+- Masking: Given the size of the event, masking may be required and will be determined closer to the event. With much of the programming indoors we support the use of a mask for part/all of the event while not eating and drinking, and will provide N95/KN95/FFP2 masks to any attendee that would like them. 
 
 We will be closely monitoring the situation and following the guidelines of the UK government and [the procedures of the University of Cambridge](https://www.cam.ac.uk/coronavirus) at the time of the summer school.
   
