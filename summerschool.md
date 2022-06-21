@@ -24,11 +24,12 @@ table {
 }
 .button {
   background: rgb(252, 86, 3);
-  padding: 1.25em;
-  color: white;
-  font-weight: 800;
-  border-radius: 25px;
+  padding: 1em;
+  color: rgb(255,255,255);
+  border-radius: 10px;
+  text-decoration: none;
   cursor: pointer;
+  display: block-level;
 }
 .button:hover {
   background: rgb(245, 152, 66);
@@ -43,7 +44,7 @@ table {
 
 <h4><i>Monday 19th - Friday 23rd September 2022, Cambridge, UK</i></h4>
 
-<a href="https://web.miniextensions.com/FYT8fFDcuuDlvWEN6Cdg" class="button">Registration (in-person deadline 15th July)</a>
+<a href="https://web.miniextensions.com/FYT8fFDcuuDlvWEN6Cdg" class="button">Registration</a>
 
 
 
