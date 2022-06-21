@@ -16,13 +16,13 @@ table {
 }
 .page__title {
   margin-top: 1em;
-  margin-bottom: -1em;
+  margin-bottom: -0.5em;
 }
 .floater {
   float:right;
   margin-left: 2em;
   margin-bottom: 2em;
-  margin-top: 1em;
+  margin-top: 0.5em;
 }
 a.button {
   background: rgb(230, 126, 23);
@@ -32,7 +32,7 @@ a.button {
   text-decoration: none;
   cursor: pointer;
   display: block-level;
-  margin-top: 2em;
+  margin-top: 3em;
   margin-bottom: 1em;
 }
 a.button:hover {
@@ -47,7 +47,7 @@ a.button:active {
 
 <h4><i>Monday 19th - Friday 23rd September 2022, Cambridge, UK</i></h4>
 
-<a href="https://web.miniextensions.com/FYT8fFDcuuDlvWEN6Cdg" class="button floater">Register</a>
+<a href="https://web.miniextensions.com/FYT8fFDcuuDlvWEN6Cdg" class="button">Register</a>
 
 
 
