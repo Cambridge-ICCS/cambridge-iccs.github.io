@@ -73,7 +73,7 @@ Depending on demand, we may organise a block booking of accommodation at a colle
 
 If you plan to attend in-person, please indicate during the registration process which days you will need accommodation in Cambridge.
 
-[Registration form](https://web.miniextensions.com/FYT8fFDcuuDlvWEN6Cdg)
+<span style="font-size:larger;">[Registration form](https://web.miniextensions.com/FYT8fFDcuuDlvWEN6Cdg)</span>
 
 **Please register by 15th July for those attending in-person as this will affect room/accommodation booking**
   
