@@ -23,19 +23,19 @@ table {
   margin-bottom: 2em;
 }
 .button {
-  background: rgb(252, 86, 3);
+  background: rgb(230, 126, 23);
   padding: 1em;
-  color: rgb(255,255,255);
   border-radius: 10px;
+  color: white;
   text-decoration: none;
   cursor: pointer;
   display: block-level;
+  margin: 1em;
 }
 .button:hover {
   background: rgb(245, 152, 66);
 }
 .button:active {
-  border: inset;
   background: rgb(214, 127, 47);
 }
 </style>
