@@ -22,11 +22,29 @@ table {
   margin-left: 2em;
   margin-bottom: 2em;
 }
+.button {
+  background: rgb(252, 86, 3);
+  padding: 1.25em;
+  color: white;
+  font-weight: 800;
+  border-radius: 25px;
+  cursor: pointer;
+}
+.button:hover {
+  background: rgb(245, 152, 66);
+}
+.button:active {
+  border: inset;
+  background: rgb(214, 127, 47);
+}
 </style>
 
 <img src="https://live.staticflickr.com/65535/48142231042_2ffd1bf1ba_m.jpg" class="floater /">
 
 <h4><i>Monday 19th - Friday 23rd September 2022, Cambridge, UK</i></h4>
+
+<a href="https://web.miniextensions.com/FYT8fFDcuuDlvWEN6Cdg" class="button">Registration (in-person deadline 15th July)</a>
+
 
 
 The inaugural Institute of Computing for Climate Science (ICCS) Summer School will take place as a hybrid event in Cambridge, UK, both virtually and in-person, during the week of Monday 19th September 2022.
