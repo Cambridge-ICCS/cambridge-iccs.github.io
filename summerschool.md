@@ -34,6 +34,7 @@ a.button {
   display: block-level;
   margin-top: 3em;
   margin-bottom: 1em;
+  clear: right;
 }
 a.button:hover {
   background: rgb(245, 152, 66);
@@ -45,9 +46,10 @@ a.button:active {
 
 <img src="https://live.staticflickr.com/65535/48142231042_2ffd1bf1ba_m.jpg" class="floater /">
 
+<a href="https://web.miniextensions.com/FYT8fFDcuuDlvWEN6Cdg" class="button floater">Register</a>
+
 <h4><i>Monday 19th - Friday 23rd September 2022, Cambridge, UK</i></h4>
 
-<a href="https://web.miniextensions.com/FYT8fFDcuuDlvWEN6Cdg" class="button">Register</a>
 
 
 
