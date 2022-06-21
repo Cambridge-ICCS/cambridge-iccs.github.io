@@ -16,13 +16,14 @@ table {
 }
 .page__title {
   margin-top: 1em;
+  margin-bottom: -1em;
 }
 .floater {
   float:right;
   margin-left: 2em;
   margin-bottom: 2em;
 }
-.button {
+a.button {
   background: rgb(230, 126, 23);
   padding: 1em;
   border-radius: 10px;
@@ -30,12 +31,13 @@ table {
   text-decoration: none;
   cursor: pointer;
   display: block-level;
-  margin: 1em;
+  margin-top: 2em;
+  margin-bottom: 1em;
 }
-.button:hover {
+a.button:hover {
   background: rgb(245, 152, 66);
 }
-.button:active {
+a.button:active {
   background: rgb(214, 127, 47);
 }
 </style>
