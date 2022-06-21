@@ -65,10 +65,17 @@ Hackathon, which will take place during the day Friday. On Friday afternoon, eac
 what they have done and a panel of judges will award a number of prizes which will be presented in the final
 session.
 
-### Sign up
+### Logistics and registration
 
-[Please sign up via this web form.](https://docs.google.com/forms/d/1nkL5Q1xB69kATiHdbvcg_)
-**Please sign up by 15th July for those attending in person as this will affect room/accommodation booking**
+The summer school will take place in Cambridge, UK (venue to be announced soon).
+  
+Depending on demand, we may organise a block booking of accommodation at a college or nearby hotel. Otherwise, Cambridge is replete with good quality hotels and [most colleges also make their rooms available](https://www.universityrooms.com/en-GB/city/cambridge/home/?gclid=Cj0KCQjw-JyUBhCuARIsANUqQ_KO7BKHd9D9yhAt5q80cBarTw0ltRwbJ-GHXpl-zjx4eiIgEqdPeJQaAjzcEALw_wcB) which is an excellent way to soak up more of the Cambridge atmosphere.
+
+If you plan to attend in person, please indicate during the registration process which days you will need accommodation in Cambridge.
+
+[Registration form](https://docs.google.com/forms/d/1nkL5Q1xB69kATiHdbvcg_)
+
+**Please register by 15th July for those attending in person as this will affect room/accommodation booking**
   
 #### COVID-19
   
@@ -82,12 +89,5 @@ With attending an in-person multi-day event, we ask that each attendee assess th
 
 We will be closely monitoring the situation and following the guidelines of the UK government and [the procedures of the University of Cambridge](https://www.cam.ac.uk/coronavirus) at the time of the summer school.
   
-### Logistics 
-
-The summer school will take place in Cambridge, UK (venue to be announced soon).
-  
-Depending on demand, we may organise a block booking of accommodation at a college or nearby hotel. Otherwise, Cambridge is replete with good quality hotels and [most colleges also make their rooms available](https://www.universityrooms.com/en-GB/city/cambridge/home/?gclid=Cj0KCQjw-JyUBhCuARIsANUqQ_KO7BKHd9D9yhAt5q80cBarTw0ltRwbJ-GHXpl-zjx4eiIgEqdPeJQaAjzcEALw_wcB) which is an excellent way to soak up more of the Cambridge atmosphere.
-
-If you plan to attend in person, please indicate during the registration process which days you will need accommodation in Cambridge.
 
 
