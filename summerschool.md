@@ -68,6 +68,7 @@ session.
 ### Sign up
 
 [Please sign up via this web form.](https://docs.google.com/forms/d/1nkL5Q1xB69kATiHdbvcg_)
+**Please sign up by 15th July for those attending in person as this will affect room/accommodation booking**
   
 #### COVID-19
   
