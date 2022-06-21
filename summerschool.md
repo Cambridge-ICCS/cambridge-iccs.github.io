@@ -46,7 +46,7 @@ a.button:active {
 
 <h4><i>Monday 19th - Friday 23rd September 2022, Cambridge, UK</i></h4>
 
-<a href="https://web.miniextensions.com/FYT8fFDcuuDlvWEN6Cdg" class="button">Registration</a>
+<a href="https://web.miniextensions.com/FYT8fFDcuuDlvWEN6Cdg" class="button floater">Registration</a>
 
 
 
