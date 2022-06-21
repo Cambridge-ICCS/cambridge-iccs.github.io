@@ -67,7 +67,7 @@ session.
 
 ### Sign up
 
-[Please sign up via this web form.](https://docs.google.com/forms/d/1nkL5Q1xB69kATiHdbvcg_z9LuxpIB5D_0KUHF8Hma94/edit) 
+[Please sign up via this web form.](https://docs.google.com/forms/d/1nkL5Q1xB69kATiHdbvcg_)
   
 #### COVID-19
   
