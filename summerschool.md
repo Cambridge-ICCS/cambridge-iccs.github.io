@@ -55,7 +55,7 @@ a.button:active {
 
 The inaugural Institute of Computing for Climate Science (ICCS) Summer School will take place as a hybrid event in Cambridge, UK, both virtually and in-person, during the week of Monday 19th September 2022.
 
-The summer school is <span style="text-decoration:underline">free to attend</span> and open to Schmidt Futures [VESRI projects](https://www.schmidtfutures.com/our-work/virtual-earth-system-research-institute-vesri/) and CliMA, and any 'friends and family' of those projects (if in doubt, please [ask](mailto:dao29@cam.ac.uk)). The summer school will combine a mix of training workshops, scientific
+The summer school is <span style="text-decoration:underline">free to attend</span> and open to Schmidt Futures [VESRI projects](https://www.schmidtfutures.com/our-work/virtual-earth-system-research-institute-vesri/) and CliMA, and any 'friends and family' (i.e., other collaborators / students known to you) of those projects (if in doubt, please [ask](mailto:dao29@cam.ac.uk)). The summer school will combine a mix of training workshops, scientific
 presentations, group discussions, social and community building activities, a poster presentation reception, and a hackathon on the last day. 
 
 The focus of the training workshops will be on best practice software engineering methods, with intentional space for networking and fostering collaboration.
