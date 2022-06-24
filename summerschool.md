@@ -16,13 +16,13 @@ table {
 }
 .page__title {
   margin-top: 1em;
-  margin-bottom: -0.5em;
+  margin-bottom: 0em;
 }
 .floater {
   float:right;
   margin-left: 2em;
   margin-bottom: 2em;
-  margin-top: 0.5em;
+  margin-top: 1em;
 }
 a.button {
   background: rgb(230, 126, 23);
@@ -55,15 +55,14 @@ a.button:active {
 
 The inaugural Institute of Computing for Climate Science (ICCS) Summer School will take place as a hybrid event in Cambridge, UK, both virtually and in-person, during the week of Monday 19th September 2022.
 
-The summer school is <span style="text-decoration:underline">free to attend</span> and open to anyone with an interest in computational aspects
-of climate science research. The summer school will combine a mix of training workshops, scientific
+The summer school is <span style="text-decoration:underline">free to attend</span> and open to Schmidt Futures [VESRI projects](https://www.schmidtfutures.com/our-work/virtual-earth-system-research-institute-vesri/) and CliMA, and any 'friends and family' of those projects (if in doubt, please [ask](mailto:dao29@cam.ac.uk)). The summer school will combine a mix of training workshops, scientific
 presentations, group discussions, social and community building activities, a poster presentation reception, and a hackathon on the last day. 
 
 The focus of the training workshops will be on best practice software engineering methods, with intentional space for networking and fostering collaboration.
 Attendees also have the opportunity to present their work via a poster and/or lightning talk, which 
 may be of particular interest to early-career researchers who wish to get community exposure and feedback on their work.
 
-For members of the Schmidt Futures [VESRI projects](https://www.schmidtfutures.com/our-work/virtual-earth-system-research-institute-vesri/), the summer school is also a chance to network between teams, give presentations on the scientific aims of your projects, and to meet and discuss with the Core team. VESRI leads will have the option to conduct a scientific session on the core science underlying their project.
+The summer school is also a chance to network between teams, give presentations on the scientific aims of your projects, and to meet and discuss with the Core team. VESRI leads will have the option to conduct a scientific session on the core science underlying their project.
 
 The current sketch of the programme is as follows:
 
