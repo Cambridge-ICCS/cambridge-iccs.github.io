@@ -12,7 +12,6 @@ td {
 }
 table {
   width: 110%;
-  margin-left: -5%;
 }
 .page__title {
   margin-top: 1em;
