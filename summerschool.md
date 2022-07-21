@@ -92,11 +92,10 @@ The summer school will take place in Cambridge, UK (venue to be announced soon).
   
 Depending on demand, we may organise a block booking of accommodation at a college or nearby hotel. Otherwise, Cambridge is replete with good quality hotels and [most colleges also make their rooms available](https://www.universityrooms.com/en-GB/city/cambridge/home/?gclid=Cj0KCQjw-JyUBhCuARIsANUqQ_KO7BKHd9D9yhAt5q80cBarTw0ltRwbJ-GHXpl-zjx4eiIgEqdPeJQaAjzcEALw_wcB) which is an excellent way to soak up more of the Cambridge atmosphere.
 
-If you plan to attend in-person, please indicate during the registration process which days you will need accommodation in Cambridge.
+If you plan to attend in-person, please indicate during the registration process which days you will need accommodation in Cambridge. This is limited and at some point will run out, so register soon to guarantee a place.
 
 <span style="font-size:larger;">[Registration form](https://web.miniextensions.com/FYT8fFDcuuDlvWEN6Cdg)</span>
 
-**Please register by 15th July for those attending in-person as this will affect room/accommodation booking**
   
 #### COVID-19
   
