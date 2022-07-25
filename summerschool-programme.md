@@ -5,12 +5,12 @@ title: Institute of Computing for Climate Science Summer School 2022
 
 <style>
 span.other, span.research, span.sci, span.social, span.workshop, span.hack, span.disc {
-  display: block-level;
-  border-radius: 3px;
+  border-radius: 4px;
   border-style: outset;
+  padding: 3pt;
 }
 span.other {
-  background: #c0cddf;  
+  background: rgb(237, 241, 255);
 }
 span.research {
   background: rgb(255, 233, 179);  
@@ -30,7 +30,8 @@ span.disc {
 }
 span.hack {
   background: black;
-  color: green;
+  color: rgb(120, 255, 145);
+  font-weight: 800;
 }
 </style>
 
