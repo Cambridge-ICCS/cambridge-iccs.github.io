@@ -5,7 +5,9 @@ title: Institute of Computing for Climate Science Summer School 2022
 
 <a href="summerschool.html">Back to Summer School main site</a>
 
-At any point during the week, you can book in a session with one of the RSE teams for advice, or to discuss ongoing projects.
+# Tentative schedule
+
+During the week, you can book in a session with one of the RSE teams for advice, or to discuss ongoing projects.
 
 ## Monday 19th September
 
@@ -29,7 +31,7 @@ At any point during the week, you can book in a session with one of the RSE team
 | 11:00  | 12:30 | Workshop: Testing and Verification |
 | 12:30  | 13:30 | Lunch |
 | 13:30  | 14:20 | Science talk 2 |
-| 14:20  | 15:00 | Mini workshop: Briding Fortran and Python for ML |
+| 14:20  | 15:00 | Mini workshop: Bridging Fortran and Python for ML |
 | 15:00  | 15:30 | Tea break |
 | 15:30  | 17:00 | Invited talk on new frontiers in computational modelling |
 | 17:00  | 19:00 | Drinks reception (open to local heads of groups, with short talks to advertise VESRI work to wide community) |
