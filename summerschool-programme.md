@@ -19,7 +19,7 @@ span.sci {
   background: rgb(255, 227, 243);  
 } 
 span.social {
-  background: rgb(255, 253, 232);  
+  background: rgb(255, 251, 204);  
 } 
 span.workshop {
   background: rgb(217, 255, 204);
