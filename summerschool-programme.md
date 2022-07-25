@@ -15,7 +15,7 @@ span.other {
 span.research {
   background: rgb(250, 238, 210);  
 } 
-span.sci {
+span.sci,span.research {
   background: rgb(255, 227, 243);  
 } 
 span.social {
