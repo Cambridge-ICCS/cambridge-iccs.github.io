@@ -6,7 +6,7 @@ title: Institute of Computing for Climate Science Summer School 2022
 <style>
 span.other, span.research, span.sci, span.social, span.workshop, span.hack, span.disc {
   border-radius: 4px;
-  border-style: outset;
+  /* border-style: outset; */
   padding: 3pt;
 }
 span.other {
@@ -29,9 +29,7 @@ span.disc {
   background: rgb(242, 224, 255);
 }
 span.hack {
-  background: black;
-  color: rgb(120, 255, 145);
-  font-weight: 800;
+  background: rgb(230, 242, 232);
 }
 </style>
 
@@ -66,7 +64,7 @@ During the week, you can book in a session with one of the RSE teams for advice,
 | 14:20  | 15:00 | <span class='workshop'>Mini workshop: Bridging Fortran and Python for ML</span> |
 | 15:00  | 15:30 | Tea break |
 | 15:30  | 17:00 | <span class='research'>Invited talk on new frontiers in computational modelling</span> |
-| 17:00  | 19:00 | <span class='social'>Drinks reception (open to local heads of groups, with short talks to advertise VESRI work to wide community)</span> |
+| 17:00  | 19:00 | <span class='social'>Drinks reception</span> (open to local heads of groups, with short talks to advertise VESRI work to wide community) |
 
 ## Wednesday 21st September
 
