@@ -13,14 +13,13 @@ span.other {
   background: rgb(237, 241, 255);
 }
 span.research {
-  background: rgb(255, 233, 179);  
+  background: rgb(250, 238, 210);  
 } 
 span.sci {
   background: rgb(255, 227, 243);  
 } 
 span.social {
-  background: rgb(240, 165, 36);  
-  color: white;
+  background: rgb(255, 253, 232);  
 } 
 span.workshop {
   background: rgb(217, 255, 204);
