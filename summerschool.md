@@ -40,11 +40,21 @@ a.button:hover {
 a.button:active {
   background: rgb(214, 127, 47);
 }
+a.programme {
+  background: rgb(138, 202, 255);  
+}
+a.programme:hover {
+  background: rgb(153, 209, 255);  
+}
+a.programme:active {
+  background: rgb(102, 186, 255);  
+}
 </style>
 
 <img src="https://live.staticflickr.com/65535/48142231042_2ffd1bf1ba_m.jpg" class="floater /">
 
 <a href="https://web.miniextensions.com/FYT8fFDcuuDlvWEN6Cdg" class="button floater">Register</a>
+<a href="https://cambridge-iccs.github.io/summerschool-programme.html" class="button floater programme">Programme</a>
 
 <h4><i>Monday 19th - Friday 23rd September 2022, Cambridge, UK</i></h4>
 
@@ -95,7 +105,6 @@ Depending on demand, we may organise a block booking of accommodation at a colle
 If you plan to attend in-person, please indicate during the registration process which days you will need accommodation in Cambridge. This is limited and at some point will run out, so register soon to guarantee a place.
 
 <span style="font-size:larger;">[Registration form](https://web.miniextensions.com/FYT8fFDcuuDlvWEN6Cdg)</span>
-
   
 #### COVID-19
   
