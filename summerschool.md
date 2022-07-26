@@ -73,7 +73,7 @@ may be of particular interest to early-career researchers who wish to get commun
 The summer school is also a chance to network between teams, give presentations on the scientific aims of your projects, and to meet and discuss with the Core team. VESRI teams will have the option to conduct a scientific session on the core science underlying their project.
 
 
-<a href="https://cambridge-iccs.github.io/summerschool-programme.html" class="button floater programme">Tentative programme</a>
+<a href="https://cambridge-iccs.github.io/summerschool-programme.html" class="button programme">Tentative programme</a>
 
 <!--
 The current sketch of the programme is as follows:
