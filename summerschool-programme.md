@@ -63,7 +63,7 @@ During the week, you can book in a session with one of the RSE teams for advice,
 | 14:20  | 15:00 | <span class='workshop'>Mini workshop: Bridging Fortran and Python for ML</span> |
 | 15:00  | 15:30 | Tea break |
 | 15:30  | 17:00 | <span class='research'>Invited talk on new frontiers in computational modelling</span> |
-| 17:00  | 19:00 | <span class='social'>Drinks reception</span> (open to local interested parties, e.g. research groups, with short talks to advertise VESRI work to wide community) |
+| 17:00  | 19:00 | <span class='social'>Drinks reception</span> (open to local interested parties, e.g. research groups, with short talks to advertise VESRI work to wider community) |
 
 ## Wednesday 21st September
 
