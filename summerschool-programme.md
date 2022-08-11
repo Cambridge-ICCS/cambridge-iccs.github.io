@@ -1,6 +1,6 @@
 ---
 layout:  single
-title: Institute of Computing for Climate Science Summer School 2022
+title: Institute of Computing for Climate Science Summer School 2022 - Programme
 ---
 
 <style>
@@ -34,9 +34,11 @@ span.hack {
 
 <a href="summerschool.html">Back to Summer School main site</a>
 
-# Tentative schedule
-
 During the week, you can book in a session with one of the RSE teams for advice, or to discuss ongoing projects.
+
+All activities, dinners, and accommodation are free! 
+
+A few details are still beind firmed up but the below gives a good indication of the structure and timing of everything.
 
 ## Monday 19th September
 
