@@ -105,7 +105,9 @@ session.
 
 The summer school will take place in Cambridge, UK (venue to be announced soon).
   
-Depending on demand, we may organise a block booking of accommodation at a college or nearby hotel. Otherwise, Cambridge is replete with good quality hotels and [most colleges also make their rooms available](https://www.universityrooms.com/en-GB/city/cambridge/home/?gclid=Cj0KCQjw-JyUBhCuARIsANUqQ_KO7BKHd9D9yhAt5q80cBarTw0ltRwbJ-GHXpl-zjx4eiIgEqdPeJQaAjzcEALw_wcB) which is an excellent way to soak up more of the Cambridge atmosphere.
+We have a block booking of private, en-suite bedrooms at the beautiful [Jesus College](https://www.jesus.cam.ac.uk/conferences/accommodation/conference-accommodation), one of the University's constituent colleges conveniently located in the centre of the town and featuring the [oldest buildings used by the University, dating from 1144](https://en.wikipedia.org/wiki/Jesus_College,_Cambridge). If you have already registered, we will send details about this to you. 
+
+If you have not yet registered we still have some spots left as of 11th August. (Otherwise, Cambridge is replete with good quality hotels and [most colleges also make their rooms available](https://www.universityrooms.com/en-GB/city/cambridge/home/?gclid=Cj0KCQjw-JyUBhCuARIsANUqQ_KO7BKHd9D9yhAt5q80cBarTw0ltRwbJ-GHXpl-zjx4eiIgEqdPeJQaAjzcEALw_wcB) which is an excellent way to soak up more of the Cambridge atmosphere).
 
 If you plan to attend in-person, please indicate during the registration process which days you will need accommodation in Cambridge. This is limited and at some point will run out, so register soon to guarantee a place.
 
