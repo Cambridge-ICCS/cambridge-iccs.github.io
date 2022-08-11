@@ -82,6 +82,7 @@ During the week, you can book in a session with one of the RSE teams for advice,
 
 |  Start | End  | Event   |
 | ------ | ----- | ------- |
+| _07:00_  | -    | _Optional_ 5k guided run in Cambridge, lead by Colm and Dominic |
 | 09:00  | 10:30 | <span class='workshop'>Workshop: Training ML models</span> |
 | 10:30  | 11:00 | Tea |
 | 11:00  | 11:50 | <span class='sci'>Science talk 4</span> |
