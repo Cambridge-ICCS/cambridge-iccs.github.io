@@ -125,5 +125,9 @@ With attending an in-person multi-day event, we ask that each attendee assess th
 
 We will be closely monitoring the situation and following the guidelines of the UK government and [the procedures of the University of Cambridge](https://www.cam.ac.uk/coronavirus) at the time of the summer school.
   
+<a name="faq">#### Frequently Asked Questions</a>
 
+- Is there vegetarian or vegan food available, or can you meet my dietary requirements?
+
+All the food provided during the day will be vegetarian. Please include any further dietary requirements in your registration and we will pass them on to the caterers.
 
