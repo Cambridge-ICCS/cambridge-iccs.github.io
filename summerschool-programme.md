@@ -48,7 +48,7 @@ A few details are still being firmed-up, but the below schedule gives a good ind
 | 13:30   | 14:00 | <span class='other'>Welcome and Introduction</span> |
 | 14:00   | 15:00 | <span class='research'>Opening keynote</span> |
 | 15:00   | 15:30 | Tea break |
-| 15:30   | 16:20 | <span class='sci'>Science talk 1</span> |
+| 15:30   | 16:20 | <span class='sci'>Science talk 1 - [Aditi Sheshadri](https://profiles.stanford.edu/aditi-sheshadri), Stanford University, DataWave project</span> |
 | 16:20   | 17:00 | <span class='sci'>Lightning talks</span> | 
 | 17:00   | 18:00 | Carriages for welcome dinner |
 | 18:00   | -     | <span class='social'>Drinks and welcome dinner</span> |
