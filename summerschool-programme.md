@@ -94,7 +94,7 @@ A few details are still being firmed-up, but the below schedule gives a good ind
 | 14:20  | 15:00 | <span class='disc'>Discussion: Future of ML and Deep Learning in Earth Systems modelling</span> |
 | 15:00  | 15:30 | Tea |
 | 15:30  | 17:00 | <span class='other'>Hackathon pitches and introduction</span> |
-| 17:00  | 18:00 | Refreshements and networking for Hackathon |
+| 17:00  | 18:00 | Refreshments and networking for Hackathon |
 
 ## Friday 23rd September
 
