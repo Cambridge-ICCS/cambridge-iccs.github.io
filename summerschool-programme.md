@@ -40,7 +40,7 @@ __All activities, dinners, and accommodation are free!__
 
 A few details are still being firmed-up, but the below schedule gives a good indication of the structure and timing of everything.
 
-## Monday 19th September
+## Monday 19th September, Centre for Mathematical Sciences (MR2)
 
 |  Start | End  | Event   |
 | ------ | ----- | ------- |
@@ -53,7 +53,7 @@ A few details are still being firmed-up, but the below schedule gives a good ind
 | 17:00   | 18:00 | Carriages for welcome dinner |
 | 18:00   | -     | <span class='social'>Drinks and welcome dinner</span> |
 
-## Tuesday 20th September
+## Tuesday 20th September, Centre for Mathematical Sciences (MR2)
 
 |  Start | End  | Event   |
 | ------ | ----- | ------- |
@@ -67,7 +67,7 @@ A few details are still being firmed-up, but the below schedule gives a good ind
 | 15:30  | 17:00 | <span class='research'>Invited talk on new frontiers in computational modelling</span> |
 | 17:00  | 19:00 | <span class='social'>Drinks reception</span> (open to local interested parties, e.g. research groups, with short talks to advertise VESRI work to wider community) |
 
-## Wednesday 21st September
+## Wednesday 21st September, Centre for Mathematical Sciences (MR2)
 
 |  Start | End  | Event   |
 | ------ | ----- | ------- |
@@ -78,9 +78,9 @@ A few details are still being firmed-up, but the below schedule gives a good ind
 | 12:30  | 13:30 | Lunch |
 | 13:30  | 14:30 | <span class='workshop'>Workshop: Pairing and code review </span> |
 | 15:00  | 16:30 | <span class='social'>[Punting](https://en.wikipedia.org/wiki/Punt_(boat)) outing</span> |
-| 19:00  | 22:00 | <span class='social'>College banquet</span> |
+| 19:00  | 22:00 | <span class='social'>Banquet at [Sidney Sussex College](https://www.google.com/maps/place/Sidney+Sussex+College/@52.2074334,0.1207903,17z/data=!3m1!4b1!4m5!3m4!1s0x47d870bdf88751d3:0x5e4958736f1c8744!8m2!3d52.2074334!4d0.1207903?hl=en) </span> |
 
-## Thursday 22nd September
+## Thursday 22nd September, Centre for Mathematical Sciences (MR2)
 
 |  Start | End  | Event   |
 | ------ | ----- | ------- |
@@ -96,7 +96,7 @@ A few details are still being firmed-up, but the below schedule gives a good ind
 | 15:30  | 17:00 | <span class='other'>Hackathon pitches and introduction</span> |
 | 17:00  | 18:00 | Refreshements and networking for Hackathon |
 
-## Friday 23rd September
+## Friday 23rd September - William Gates Building, Intel Lab
 
 |  Start | End  | Event   |
 | ------ | ----- | ------- |
