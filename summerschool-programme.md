@@ -59,7 +59,7 @@ A few details are still being firmed-up, but the below schedule gives a good ind
 | ------ | ----- | ------- |
 | 09:00  | 10:30 | <span class='workshop'>Workshop: Using Git and GitHub effectively</span> |
 | 10:30  | 11:00 | Tea |
-| 11:00  | 12:30 | <span class='workshop'>Workshop: Testing and Verification</span> |
+| 11:00  | 12:30 | <span class='workshop'>Workshop: Testing</span> |
 | 12:30  | 13:30 | Lunch |
 | 13:30  | 14:20 | <span class='sci'>Science talk 2</span> |
 | 14:20  | 15:00 | <span class='workshop'>Mini workshop: Bridging Fortran and Python for ML</span> |
