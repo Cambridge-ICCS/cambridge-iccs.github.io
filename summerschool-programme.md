@@ -51,7 +51,7 @@ A few details are still being firmed-up, but the below schedule gives a good ind
 | 15:30   | 16:20 | <span class='sci'>Science talk 1 - [Aditi Sheshadri](https://profiles.stanford.edu/aditi-sheshadri), Stanford University, DataWave project</span> |
 | 16:20   | 17:00 | <span class='sci'>Lightning talks</span> | 
 | 17:00   | 18:00 | Carriages for welcome dinner |
-| 18:00   | -     | <span class='social'>Drinks and welcome dinner</span> |
+| 18:00   | -     | <span class='social'>Drinks and welcome dinner at [Madingley Hall](https://www.madingleyhall.co.uk/)</span> |
 
 ## Tuesday 20th September, Centre for Mathematical Sciences (MR2)
 
@@ -110,3 +110,4 @@ A few details are still being firmed-up, but the below schedule gives a good ind
 | 16:30  | 16:45 | Short break |
 | 16:45  | 17:00 | <span class='other'>Prize giving</span> |
 | 17:00  | 17:15 | <span class='other'>Closing remarks</span> |
+| 17:15  | 19:00 | <span class='social'><i>Pizza and drinks</i></span>
