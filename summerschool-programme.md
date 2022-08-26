@@ -88,11 +88,10 @@ A few details are still being firmed-up, but the below schedule gives a good ind
 | 09:00  | 10:30 | <span class='workshop'>Workshop: Training ML models with [Dr Will Handley](https://www.kicc.cam.ac.uk/directory/wh260)  </span> |
 | 10:30  | 11:00 | Tea |
 | 11:00  | 11:30 | <span class='workshop'>Workshop: Training ML models [Dr Will Handley](https://www.kicc.cam.ac.uk/directory/wh260)</span>
-| 11:30  | 11:50 | <span class='sci'>Science talk 4 - LEMONTREE</span> |
-| 11:50  | 12:30 | <span class='disc'>Discussion: Data and code management</span> |
+| 11:30  | 12:30 | <span class='disc'>Discussion: Future of ML and Deep Learning in Earth Systems modelling</span> |
 | 12:30  | 13:30 | Lunch |
-| 13:30  | 14:20 | <span class='sci'>Science talk 5</span> |
-| 14:20  | 15:00 | <span class='disc'>Discussion: Future of ML and Deep Learning in Earth Systems modelling</span> |
+| 13:30  | 14:20 | <span class='sci'>Science talk 4</span> |
+| 14:20  | 15:00 | <span class='sci'>Science talk 5 - LEMONTREE</span>
 | 15:00  | 15:30 | Tea |
 | 15:30  | 17:00 | <span class='other'>Hackathon pitches and introduction</span> |
 | 17:00  | 18:00 | Refreshements and networking for Hackathon |
