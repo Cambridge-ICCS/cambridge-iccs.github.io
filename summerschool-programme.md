@@ -77,7 +77,8 @@ A few details are still being firmed-up, but the below schedule gives a good ind
 | 11:50  | 12:30 | <span class='sci'>Lightning talks</span> |
 | 12:30  | 13:30 | Lunch |
 | 13:30  | 14:30 | <span class='workshop'>Workshop: Pairing and code review <i>with [Ben Orchard and Dominic Orchard]()</i> |
-| 15:00  | 16:30 | <span class='social'>[Punting](https://en.wikipedia.org/wiki/Punt_(boat)) outing</span> |
+| 15:30  | 17:00 | <span class='social'>[Punting](https://en.wikipedia.org/wiki/Punt_(boat)) outing</span> |
+| 18:00  | 18:30 | <span class='social'>Walking tour of Jesus College with Dominic</span> |
 | 19:00  | 22:00 | <span class='social'>Banquet at [Sidney Sussex College](https://www.google.com/maps/place/Sidney+Sussex+College/@52.2074334,0.1207903,17z/data=!3m1!4b1!4m5!3m4!1s0x47d870bdf88751d3:0x5e4958736f1c8744!8m2!3d52.2074334!4d0.1207903?hl=en) </span> |
 
 ## Thursday 22nd September, Centre for Mathematical Sciences (MR2)
