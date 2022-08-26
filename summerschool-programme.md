@@ -94,8 +94,8 @@ Those wishing to walk can join Dominic at 08:25 at the Porter's lodge to walk ov
 | 11:00  | 11:30 | <span class='workshop'>Workshop: Questions and followup to Training ML models with [Dr Will Handley](https://www.kicc.cam.ac.uk/directory/wh260)</span>
 | 11:30  | 12:30 | <span class='disc'>Discussion: Future of ML and Deep Learning in Earth Systems modelling</span> |
 | 12:30  | 13:30 | Lunch |
-| 13:30  | 14:20 | <span class='sci'>Science talk 4</span> |
-| 14:20  | 15:00 | <span class='sci'>Science talk 5 - LEMONTREE</span>
+| 13:30  | 14:00 | <span class='sci'>Science talk 4 - LEMONTREE</span> |
+| 14:00  | 14:50 | <span class='sci'>Science talk 5</span>
 | 15:00  | 15:30 | Tea |
 | 15:30  | 17:00 | <span class='other'>Hackathon pitches and introduction</span> |
 | 17:00  | 18:00 | Refreshements and networking for Hackathon |
