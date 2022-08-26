@@ -50,10 +50,13 @@ A few details are still being firmed-up, but the below schedule gives a good ind
 | 15:00   | 15:30 | Tea break |
 | 15:30   | 16:20 | <span class='sci'>Science talk 1 - [Aditi Sheshadri](https://profiles.stanford.edu/aditi-sheshadri), Stanford University, DataWave project</span> |
 | 16:20   | 17:00 | <span class='sci'>Lightning talks</span> | 
-| 17:00   | 18:00 | Carriages for welcome dinner |
+| 17:15   | 18:00 | Carriages for welcome dinner |
 | 18:00   | -     | <span class='social'>Drinks and welcome dinner at [Madingley Hall](https://www.madingleyhall.co.uk/)</span> |
 
 ## Tuesday 20th September, Centre for Mathematical Sciences (MR2)
+
+The walk from Jesus College to the CMS takes about 25 minutes. There will be a mini-bus taxi available leaving from Jesus College at 08:30.
+Those wishing to walk can join Dominic at 08:25 at the Porter's lodge to walk over, going a very scenic route through the old colleges and past the library.
 
 |  Start | End  | Event   |
 | ------ | ----- | ------- |
@@ -85,7 +88,7 @@ A few details are still being firmed-up, but the below schedule gives a good ind
 
 |  Start | End  | Event   |
 | ------ | ----- | ------- |
-| _07:00_  | -    | _Optional_ 5k guided run in Cambridge, lead by Colm and Dominic |
+| _07:00_  | -    | _Optional_ 5k guided run along the river in Cambridge, starting from Jesus College. 25 minute pace with Colm, 35 minute pace with Dominic, and a leisurely 45+ minute pace with Marla for non-runngers. |
 | 09:00  | 10:30 | <span class='workshop'>Workshop: Training ML models with [Dr Will Handley](https://www.kicc.cam.ac.uk/directory/wh260)  </span> |
 | 10:30  | 11:00 | Tea |
 | 11:00  | 11:30 | <span class='workshop'>Workshop: Questions and followup to Training ML models with [Dr Will Handley](https://www.kicc.cam.ac.uk/directory/wh260)</span>
