@@ -98,6 +98,8 @@ A few details are still being firmed-up, but the below schedule gives a good ind
 
 ## Friday 23rd September - William Gates Building, Intel Lab
 
+[Make a Hackathon pitch](https://docs.google.com/forms/d/1wjJXS_rmBsAeqqlLFjtDPae-tJhcNoWYgSCOZbgsmy0/edit?usp=drive_web)
+
 |  Start | End  | Event   |
 | ------ | ----- | ------- |
 | 09:00  | 10:30 | <span class='hack'>Hackathon group work</span> |
