@@ -57,12 +57,12 @@ A few details are still being firmed-up, but the below schedule gives a good ind
 
 |  Start | End  | Event   |
 | ------ | ----- | ------- |
-| 09:00  | 10:30 | <span class='workshop'>Workshop: Using Git and GitHub effectively</span> |
+| 09:00  | 10:30 | <span class='workshop'>Workshop: Using Git and GitHub effectively <i>with [Dominic Orchard](http://dorchard.githuib.io)</i></span> |
 | 10:30  | 11:00 | Tea |
-| 11:00  | 12:30 | <span class='workshop'>Workshop: Testing</span> |
+| 11:00  | 12:30 | <span class='workshop'>Workshop: Testing <i>with [Chris Edsall](https://www.hpc.cam.ac.uk/about-team-christopher-edsall)</i></span> |
 | 12:30  | 13:30 | Lunch |
 | 13:30  | 14:20 | <span class='sci'>Science talk 2</span> |
-| 14:20  | 15:00 | <span class='workshop'>Mini workshop: Bridging Fortran and Python for ML</span> |
+| 14:20  | 15:00 | <span class='workshop'>Mini workshop: Bridging Fortran and Python for ML <i>with [Athena Elafrou and Simon Clifford]</i></span> |
 | 15:00  | 15:30 | Tea break |
 | 15:30  | 17:00 | <span class='research'>Invited talk on new frontiers in computational modelling</span> |
 | 17:00  | 19:00 | <span class='social'>Drinks reception</span> (open to local interested parties, e.g. research groups, with short talks to advertise VESRI work to wider community) |
@@ -76,7 +76,7 @@ A few details are still being firmed-up, but the below schedule gives a good ind
 | 11:00  | 11:50 | <span class='sci'>Science talk 3</span> |
 | 11:50  | 12:30 | <span class='sci'>Lightning talks</span> |
 | 12:30  | 13:30 | Lunch |
-| 13:30  | 14:30 | <span class='workshop'>Workshop: Pairing and code review </span> |
+| 13:30  | 14:30 | <span class='workshop'>Workshop: Pairing and code review <i>with [Ben Orchard and Dominic Orchard]()</span> |
 | 15:00  | 16:30 | <span class='social'>[Punting](https://en.wikipedia.org/wiki/Punt_(boat)) outing</span> |
 | 19:00  | 22:00 | <span class='social'>Banquet at [Sidney Sussex College](https://www.google.com/maps/place/Sidney+Sussex+College/@52.2074334,0.1207903,17z/data=!3m1!4b1!4m5!3m4!1s0x47d870bdf88751d3:0x5e4958736f1c8744!8m2!3d52.2074334!4d0.1207903?hl=en) </span> |
 
