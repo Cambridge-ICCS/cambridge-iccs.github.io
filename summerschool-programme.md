@@ -49,7 +49,8 @@ A few details are still being firmed-up, but the below schedule gives a good ind
 | 14:00   | 15:00 | <span class='research'>Opening keynote</span> |
 | 15:00   | 15:30 | Tea break |
 | 15:30   | 16:20 | <span class='sci'>Science talk 1 - [Aditi Sheshadri](https://profiles.stanford.edu/aditi-sheshadri), Stanford University, DataWave project</span> |
-| 16:20   | 17:00 | <span class='sci'>Short talks 1</span><ul><li>ML-based emulators of sea-ice models - Charlotte Durand</li></ul> | 
+| 16:20   | 17:00 | <span class='sci'>Short talks 1</span> |
+|         |       |  -  ML-based emulators of sea-ice models - Charlotte Durand | 
 | 17:15   | 18:00 | Carriages for welcome dinner |
 | 18:00   | -     | <span class='social'>Drinks and welcome dinner at [Madingley Hall](https://www.madingleyhall.co.uk/)</span> |
 
