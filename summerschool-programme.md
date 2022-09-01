@@ -49,7 +49,7 @@ A few details are still being firmed-up, but the below schedule gives a good ind
 | 14:00   | 15:00 | <span class='research'>Opening keynote</span> |
 | 15:00   | 15:30 | Tea break |
 | 15:30   | 16:20 | <span class='sci'>Science talk 1 - [Aditi Sheshadri](https://profiles.stanford.edu/aditi-sheshadri), Stanford University, DataWave project</span> |
-| 16:20   | 17:00 | <span class='sci'>Lightning talks</span> | 
+| 16:20   | 17:00 | <span class='sci'>Short talks (part 1)</span> | 
 | 17:15   | 18:00 | Carriages for welcome dinner |
 | 18:00   | -     | <span class='social'>Drinks and welcome dinner at [Madingley Hall](https://www.madingleyhall.co.uk/)</span> |
 
@@ -64,7 +64,7 @@ Those wishing to walk can join Dominic at 08:25 at the Porter's lodge to walk ov
 | 10:30  | 11:00 | Tea |
 | 11:00  | 12:30 | <span class='workshop'>Workshop: Testing <i>with [Chris Edsall](https://www.hpc.cam.ac.uk/about-team-christopher-edsall)</i></span> |
 | 12:30  | 13:30 | Lunch |
-| 13:30  | 14:20 | <span class='sci'>Science talk 2</span> |
+| 13:30  | 14:20 | <span class='sci'>Science talk</span> |
 | 14:20  | 15:00 | <span class='workshop'>Mini workshop: Bridging Fortran and Python for ML <i>with [Athena Elafrou and Simon Clifford]()</i></span> |
 | 15:00  | 15:30 | Tea break |
 | 15:30  | 17:00 | <span class='research'>Invited talk on new frontiers in computational modelling</span> |
@@ -76,8 +76,8 @@ Those wishing to walk can join Dominic at 08:25 at the Porter's lodge to walk ov
 | ------ | ----- | ------- |
 | 09:00  | 10:30 | <span class='workshop'>Workshop: CI and GitHub actions</span> |
 | 10:30  | 11:00 | Tea |
-| 11:00  | 11:50 | <span class='sci'>Science talk 3</span> |
-| 11:50  | 12:30 | <span class='sci'>Lightning talks</span> |
+| 11:00  | 11:30 | <span class='sci'>Science talk - LEMONTREE project - [Yicheng Shen](https://www.reading.ac.uk/ges/staff/yicheng-shen)</span> |
+| 11:30  | 12:30 | <span class='sci'>Science talk</span> |
 | 12:30  | 13:30 | Lunch |
 | 13:30  | 14:30 | <span class='workshop'>Workshop: Pairing and code review <i>with [Ben Orchard and Dominic Orchard]()</i> |
 | 15:30  | 17:00 | <span class='social'>[Punting](https://en.wikipedia.org/wiki/Punt_(boat)) outing</span> |
@@ -94,8 +94,8 @@ Those wishing to walk can join Dominic at 08:25 at the Porter's lodge to walk ov
 | 11:00  | 11:30 | <span class='workshop'>Workshop: Questions and followup to Training ML models with [Dr Will Handley](https://www.kicc.cam.ac.uk/directory/wh260)</span>
 | 11:30  | 12:30 | <span class='disc'>Discussion: Future of ML and Deep Learning in Earth Systems modelling</span> |
 | 12:30  | 13:30 | Lunch |
-| 13:30  | 14:00 | <span class='sci'>Science talk 4 - LEMONTREE</span> |
-| 14:00  | 14:50 | <span class='sci'>Science talk 5</span>
+| 13:30  | 14:10 | <span class='sci'>Short talks (part 2)</span> |
+| 14:10  | 15:00 | <span class='sci'>Science talk</span>
 | 15:00  | 15:30 | Tea |
 | 15:30  | 17:00 | <span class='other'>Hackathon pitches and introduction</span> |
 | 17:00  | 18:00 | Refreshements and networking for Hackathon |
