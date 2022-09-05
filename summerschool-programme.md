@@ -48,9 +48,9 @@ A few details are still being firmed-up, but the below schedule gives a good ind
 | 13:30   | 14:00 | <span class='other'>Welcome and Introduction</span> |
 | 14:00   | 15:00 | <span class='research'>Opening keynote - [Alberto Arribas Herranz](https://www.microsoft.com/en-us/research/people/aarribas/)</span> |
 | 15:00   | 15:30 | Tea break |
-| 15:30   | 16:20 | <span class='sci'>Science talk 1 - [Aditi Sheshadri](https://profiles.stanford.edu/aditi-sheshadri), Stanford University, DataWave project</span> |
+| 15:30   | 16:20 | <span class='sci'>Science talk 1 - DataWave - [Aditi Sheshadri](https://profiles.stanford.edu/aditi-sheshadri), Stanford University</span> |
 | 16:20   | 17:00 | <span class='sci'>Short talks 1</span> |
-|         |       |  -  ML-based emulators of sea-ice models - Charlotte Durand | 
+|         |       |  &nbsp; * ML-based emulators of sea-ice models - Charlotte Durand | 
 | 17:15   | 18:00 | Carriages for welcome dinner |
 | 18:00   | -     | <span class='social'>Drinks and welcome dinner at [Madingley Hall](https://www.madingleyhall.co.uk/)</span> |
 
@@ -77,7 +77,7 @@ Those wishing to walk can join Dominic at 08:25 at the Porter's lodge to walk ov
 | ------ | ----- | ------- |
 | 09:00  | 10:30 | <span class='workshop'>Workshop: CI and GitHub actions</span> |
 | 10:30  | 11:00 | Tea |
-| 11:00  | 11:30 | <span class='sci'>Science talk 2- LEMONTREE project - [Yicheng Shen](https://www.reading.ac.uk/ges/staff/yicheng-shen)</span> |
+| 11:00  | 11:30 | <span class='sci'>Science talk 2- LEMONTREE - [Yicheng Shen](https://www.reading.ac.uk/ges/staff/yicheng-shen)</span> Relationships between resprouting and fire regimes |
 | 11:30  | 12:30 | <span class='sci'>Science talk 3</span> |
 | 12:30  | 13:30 | Lunch |
 | 13:30  | 14:30 | <span class='workshop'>Workshop: Pairing and code review <i>with [Ben Orchard and Dominic Orchard]()</i> |
