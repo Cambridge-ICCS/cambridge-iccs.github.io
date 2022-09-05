@@ -48,7 +48,7 @@ A few details are still being firmed-up, but the below schedule gives a good ind
 | 13:30   | 14:00 | <span class='other'>Welcome and Introduction</span> |
 | 14:00   | 15:00 | <span class='research'>Opening keynote - [Alberto Arribas Herranz](https://www.microsoft.com/en-us/research/people/aarribas/)</span> |
 | 15:00   | 15:30 | Tea break |
-| 15:30   | 16:20 | <span class='sci'>Science talk 1 - DataWave - [Aditi Sheshadri](https://profiles.stanford.edu/aditi-sheshadri), Stanford University</span> |
+| 15:30   | 16:20 | <span class='sci'>Science talk: - DataWave - [Aditi Sheshadri](https://profiles.stanford.edu/aditi-sheshadri), Stanford University</span> |
 | 16:20   | 17:00 | <span class='sci'>Short talks 1</span> |
 |         |       |  &nbsp; * ML-based emulators of sea-ice models - Charlotte Durand | 
 | 17:15   | 18:00 | Carriages for welcome dinner |
@@ -61,12 +61,12 @@ Those wishing to walk can join Dominic at 08:25 at the Porter's lodge to walk ov
 
 |  Start | End  | Event   |
 | ------ | ----- | ------- |
-| 09:00  | 10:30 | <span class='workshop'>Workshop: Using Git and GitHub effectively <i>with [Dominic Orchard](http://dorchard.githuib.io)</i></span> |
+| 09:00  | 10:30 | <span class='workshop'>Workshop: __Using Git and GitHub effectively__ <i>with [Dominic Orchard](http://dorchard.githuib.io)</i></span> |
 | 10:30  | 11:00 | Tea |
-| 11:00  | 12:30 | <span class='workshop'>Workshop: Testing <i>with [Chris Edsall](https://www.hpc.cam.ac.uk/about-team-christopher-edsall)</i></span> |
+| 11:00  | 12:30 | <span class='workshop'>Workshop: __Testing__ <i>with [Chris Edsall](https://www.hpc.cam.ac.uk/about-team-christopher-edsall)</i></span> |
 | 12:30  | 13:30 | Lunch |
 | 13:30  | 14:20 | <span class='sci'>Science talk</span> |
-| 14:20  | 15:00 | <span class='workshop'>Mini workshop: Bridging Fortran and Python for ML <i>with [Athena Elafrou and Simon Clifford]()</i></span> |
+| 14:20  | 15:00 | <span class='workshop'>Workshop: __Bridging Fortran and Python for ML__ <i>with [Athena Elafrou and Simon Clifford]()</i></span> |
 | 15:00  | 15:30 | Tea break |
 | 15:30  | 17:00 | <span class='research'>Invited talk on new frontiers in computational modelling</span> |
 | 17:00  | 19:00 | <span class='social'>Drinks reception</span> (open to local interested parties, e.g. research groups, with short talks to advertise VESRI work to wider community) |
@@ -77,10 +77,10 @@ Those wishing to walk can join Dominic at 08:25 at the Porter's lodge to walk ov
 | ------ | ----- | ------- |
 | 09:00  | 10:30 | <span class='workshop'>Workshop: CI and GitHub actions</span> |
 | 10:30  | 11:00 | Tea |
-| 11:00  | 11:30 | <span class='sci'>Science talk 2- LEMONTREE - [Yicheng Shen](https://www.reading.ac.uk/ges/staff/yicheng-shen)</span> Relationships between resprouting and fire regimes |
-| 11:30  | 12:30 | <span class='sci'>Science talk 3</span> |
+| 11:00  | 11:30 | <span class='sci'>Science talk: LEMONTREE - __Relationships between resprouting and fire regimes__, [Yicheng Shen](https://www.reading.ac.uk/ges/staff/yicheng-shen)</span>  |
+| 11:30  | 12:30 | <span class='sci'>Science talk</span> |
 | 12:30  | 13:30 | Lunch |
-| 13:30  | 14:30 | <span class='workshop'>Workshop: Pairing and code review <i>with [Ben Orchard and Dominic Orchard]()</i> |
+| 13:30  | 14:30 | <span class='workshop'>Workshop: __Pairing and code review__ <i>with [Ben Orchard and Dominic Orchard]()</i> |
 | 15:30  | 17:00 | <span class='social'>[Punting](https://en.wikipedia.org/wiki/Punt_(boat)) outing</span> |
 | 18:00  | 18:30 | <span class='social'>Walking tour of Jesus College with Dominic</span> |
 | 19:00  | 22:00 | <span class='social'>Banquet at [Sidney Sussex College](https://www.google.com/maps/place/Sidney+Sussex+College/@52.2074334,0.1207903,17z/data=!3m1!4b1!4m5!3m4!1s0x47d870bdf88751d3:0x5e4958736f1c8744!8m2!3d52.2074334!4d0.1207903?hl=en) </span> |
