@@ -99,7 +99,7 @@ Those wishing to walk can join Dominic at 08:25 at the Porter's lodge to walk ov
 | 14:20  | 15:00 | <span class='sci'>Short talks 2</span>
 | 15:00  | 15:30 | Tea |
 | 15:30  | 17:00 | <span class='other'>Hackathon pitches and introduction</span> |
-| 17:00  | 18:00 | Refreshements and networking for Hackathon |
+| 17:00  | 18:00 | Refreshments and networking for Hackathon |
 
 ## Friday 23rd September - William Gates Building, Intel Lab
 
