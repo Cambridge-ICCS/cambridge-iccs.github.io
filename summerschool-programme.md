@@ -77,10 +77,11 @@ Those wishing to walk can join Dominic at 08:25 at the Porter's lodge to walk ov
 | ------ | ----- | ------- |
 | 09:00  | 10:30 | <span class='workshop'>Workshop: __CI and GitHub actions__</span><br/>Ben Orchard |
 | 10:30  | 11:00 | Tea |
-| 11:00  | 11:30 | <span class='sci'>Science talk: LEMONTREE - __Relationships between resprouting and fire regimes__, [Yicheng Shen](https://www.reading.ac.uk/ges/staff/yicheng-shen)</span>  |
+| 11:00  | 11:30 | <span class='sci'>Science talk: LEMONTREE - __Relationships between resprouting and fire regimes__, [Yicheng Shen](https://www.reading.ac.uk/ges/staff/yicheng-shen)</span> <div class="abstract"><p></p></div> |
 | 11:30  | 12:30 | <span class='sci'>Science talk</span> |
 | 12:30  | 13:30 | Lunch |
-| 13:30  | 14:30 | <span class='workshop'>Workshop: __Pairing and code review__ <i>with [Ben Orchard and Dominic Orchard]()</i> |
+| 13:30  | 14:30 | <span class='workshop'>Workshop: __Pairing and code review__ <i>with [Ben Orchard and Dominic Orchard](Resprouting is a resilience trait that allows individuals to regenerate rapidly following fire. It has profound effects on the speed of post-fire ecosystem recovery and therefore on water- and energy-exchanges with the atmosphere and the carbon cycle. However, the ability to resprout requires investing in carbon storage. Balancing the benefits of rapid recovery of photosynthesis against the costs of carbon storage implies that resprouting is an optimal behaviour in environments where fire is neither too frequent nor too infrequent. Although there is anecdotal support for this assertion, there has been little quantitative investigation of the types of fire regime where resprouting is an optimal strategy. In this study, we use data on the abundance of woody species in Europe and Australia derived from the sPlotOpen database combined with information on whether the species present can resprout or not, derived from regional and global plant trait databases and field information, to examine how changes in the abundance of resprouting species varies with fire return interval and with fire intensity. We show that the proportion of resprouting species decreases as fire return intervals increase, while the abundance of resprouters is maximal at intermediate levels of fire intensity. This work suggests that it should be possible to model the occurrence and abundance of resprouting using an eco-evolutionary optimality approach based on balancing the costs and benefits of resprouting under different fire regimes.![image](https://user-images.githubusercontent.com/32088/188670390-8b958e36-776b-43ab-999c-33a2e12f9ad1.png)
+)</i> |
 | 15:30  | 17:00 | <span class='social'>[Punting](https://en.wikipedia.org/wiki/Punt_(boat)) outing</span> |
 | 18:00  | 18:30 | <span class='social'>Walking tour of Jesus College with Dominic</span> |
 | 19:00  | 22:00 | <span class='social'>Banquet at [Sidney Sussex College](https://www.google.com/maps/place/Sidney+Sussex+College/@52.2074334,0.1207903,17z/data=!3m1!4b1!4m5!3m4!1s0x47d870bdf88751d3:0x5e4958736f1c8744!8m2!3d52.2074334!4d0.1207903?hl=en) </span> |
@@ -118,3 +119,24 @@ Those wishing to walk can join Dominic at 08:25 at the Porter's lodge to walk ov
 | 16:45  | 17:00 | <span class='other'>Prize giving</span> |
 | 17:00  | 17:15 | <span class='other'>Closing remarks</span> |
 | 17:15  | 19:00 | <span class='social'><i>Pizza and drinks</i></span>
+
+      <script>
+      //
+      var abstracts = document.getElementsByClassName("abstract");
+      for (let i=0; i<abstracts.length; i++){
+	  abstracts[i].style.display = "none";
+	  let showButton = document.createElement("span");
+	  showButton.innerHTML = "(abstract)";
+	  showButton.addEventListener("click", function() {
+	      if (abstracts[i].style.display == "none") {
+		  showButton.innerHTML = "(hide)";
+		  abstracts[i].style.display = "";
+	      } else {
+ 		  showButton.innerHTML = "(abstract)";
+		  abstracts[i].style.display = "none";
+              }
+	  });
+	  showButton.className = "showButton";
+	  abstracts[i].parentNode.insertBefore(showButton, abstracts[i]);
+      }
+    </script>
