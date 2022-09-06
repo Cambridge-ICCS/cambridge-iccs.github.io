@@ -45,7 +45,7 @@ A few details are still being firmed-up, but the below schedule gives a good ind
 |  Start | End  | Event   |
 | ------ | ----- | ------- |
 | 12:00   | 13:30 | Registration and welcome lunch with posters |
-| 13:30   | 14:00 | <span class='other'>Welcome and Introduction</span> |
+| 13:30   | 14:00 | <span class='other'>__Welcome and Introduction__</span>, ICCS directors and RSEs |
 | 14:00   | 15:00 | <span class='research'>Opening keynote - [Alberto Arribas Herranz](https://www.microsoft.com/en-us/research/people/aarribas/)</span> |
 | 15:00   | 15:30 | Tea break |
 | 15:30   | 16:20 | <span class='sci'>Science talk: - DataWave - [Aditi Sheshadri](https://profiles.stanford.edu/aditi-sheshadri), Stanford University</span> |
