@@ -120,7 +120,7 @@ Those wishing to walk can join Dominic at 08:25 at the Porter's lodge to walk ov
 | 17:00  | 17:15 | <span class='other'>Closing remarks</span> |
 | 17:15  | 19:00 | <span class='social'><i>Pizza and drinks</i></span>
 
-      <script>
+<script>
       //
       var abstracts = document.getElementsByClassName("abstract");
       for (let i=0; i<abstracts.length; i++){
@@ -139,4 +139,4 @@ Those wishing to walk can join Dominic at 08:25 at the Porter's lodge to walk ov
 	  showButton.className = "showButton";
 	  abstracts[i].parentNode.insertBefore(showButton, abstracts[i]);
       }
-    </script>
+</script>
