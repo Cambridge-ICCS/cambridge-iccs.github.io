@@ -141,7 +141,7 @@ Those wishing to walk can join Dominic at 08:25 at the Porter's lodge to walk ov
 	  let p = document.createElement("p");
 	  p.innerHTML = abstracts[i].innerHTML;
 	  insertAfter(p,abstracts[i]);
-	  abstracts[i].innerHTML = ""
+	  abstracts[i].style.display = "none";
 	  p.style.display = "none";
 	  let showButton = document.createElement("span");
 	  showButton.innerHTML = "(abstract)";
