@@ -108,7 +108,7 @@ Those wishing to walk can join Dominic at 08:25 at the Porter's lodge to walk ov
 | 11:30  | 12:30 | <span class='disc'>Discussion: __Future of ML and Deep Learning in Earth Systems modelling__</span> |
 | 12:30  | 13:30 | Lunch |
 | 13:30  | 14:10 | <span class='sci'>Short talks 2</span> |
-| 14:10  | 15:00 | <span class='sci'>Science talk: M<sup>2</sup>LInES: __Software and Infrastructure for Data-Intensive Climate Science__, <i>[Ryan Abernathey](https://datascience.columbia.edu/people/ryan-abernathey/)</span> |
+| 14:10  | 15:00 | <span class='sci'>Science talk: M<sup>2</sup>LInES: __Software and Infrastructure for Data-Intensive Climate Science__, <i>[Ryan Abernathey](https://datascience.columbia.edu/people/ryan-abernathey/)</i></span> |
 | 15:00  | 15:30 | Tea |
 | 15:30  | 17:00 | <span class='other'>Hackathon pitches and introduction</span> |
 | 17:00  | 18:00 | Refreshments and networking for Hackathon |
