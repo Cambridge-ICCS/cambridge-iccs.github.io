@@ -106,12 +106,11 @@ Those wishing to walk can join Dominic at 08:25 at the Porter's lodge to walk ov
 | _07:00_  | -    | _Optional_ 5k guided run along the river in Cambridge, starting from Jesus College. 25 minute pace with Colm, 35 minute pace with Dominic, and a leisurely 45+ minute pace with Marla for non-runngers. |
 | 09:00  | 10:30 | <span class='workshop'>Workshop: __Training ML models__, [Will Handley](https://www.kicc.cam.ac.uk/directory/wh260)  </span> |
 | 10:30  | 11:00 | Tea |
-| 11:00  | 11:30 | <span class='workshop'>Workshop: __Questions and followup to Training ML models__, [Will Handley](https://www.kicc.cam.ac.uk/directory/wh260)</span>
+| 11:00  | 11:30 | <span class='workshop'>Workshop: __Questions and followup to Training ML models__, [Will Handley](https://www.kicc.cam.ac.uk/directory/wh260)</span> |
 | 11:30  | 12:30 | <span class='disc'>Discussion: __Future of ML and Deep Learning in Earth Systems modelling__</span> |
 | 12:30  | 13:30 | Lunch |
 | 13:30  | 14:10 | <span class='sci'>Short talks 2</span> |
-	| 14:10  | 15:00 | <span class='sci'>Science talk: M<sup>2</sup>LInES: __Software and Infrastructure for Data-Intensive Climate Science__
-	<i>[Ryan Abernathey](https://datascience.columbia.edu/people/ryan-abernathey/)</span>
+| 14:10  | 15:00 | <span class='sci'>Science talk: M<sup>2</sup>LInES: __Software and Infrastructure for Data-Intensive Climate Science__, <i>[Ryan Abernathey](https://datascience.columbia.edu/people/ryan-abernathey/)</span> |
 | 15:00  | 15:30 | Tea |
 | 15:30  | 17:00 | <span class='other'>Hackathon pitches and introduction</span> |
 | 17:00  | 18:00 | Refreshments and networking for Hackathon |
