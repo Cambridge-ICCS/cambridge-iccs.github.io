@@ -77,7 +77,9 @@ Those wishing to walk can join Dominic at 08:25 at the Porter's lodge to walk ov
 | 10:30  | 11:00 | Tea |
 | 11:00  | 12:30 | <span class='workshop'>Workshop: __Testing__ <i>with [Chris Edsall](https://www.hpc.cam.ac.uk/about-team-christopher-edsall)</i></span> |
 | 12:30  | 13:30 | Lunch |
-| 13:30  | 14:20 | <span class='sci'>Science talk: SASIP - [Chris Horvat](http://www.chrv.at/) </span> |
+| 13:30  | 14:20 | <span class='sci'>Science talk: SASIP - __Multi-scale sea ice and ocean modeling. Why and why now?__, [Chris Horvat](http://www.chrv.at/) </span><span class="abstract">Significant changes to Earth's climate are most prominent in the polar regions --- especially in the Arctic, where surface temperatures have risen by up to 3x the global mean. In turn, the decline of Arctic sea ice, land ice, and permafrost has ushered in a new status quo for local food webs, peoples, and climate. New under-ice ecosystems and chemical exchange, alterations to transportation and ways of living, and disrupted atmospheric and oceanic variability are all features of the emergent "New Arctic." In spite (perhaps because) of this, climate models have repeatedly failed to capture these changes, so doubts loom over whether forecasts of Arctic and Antarctic change can be relied upon in the future. Here I'll discuss several newly observed features of the Arctic coupled system and how many are driven by a similar quality: the fragmented and fractal nature of the Arctic sea ice cover, which contemporary modeling frameworks largely ignore. I'll discuss efforts through the Scale Aware Sea Ice Project to observe, diagnose and rectify problems associated with the incorrect treatment of Arctic sea ice. These are led by (1) improved resolved-scale modeling of fragmented sea ice through the neXtSIM sea ice model, (2) new scale-aware parameterizations of ocean turbulence, waves, and air-sea exchange that drive polar change in climate models, and (3) new observations of sea ice and ocean variability for assimilating into cutting-edge forecast models. 
+
+</span> |
 | 14:20  | 15:00 | <span class='workshop'>Workshop: __Bridging Fortran and Python for ML__ <i>with [Athena Elafrou and Simon Clifford]()</i></span> |
 | 15:00  | 15:30 | Tea break |
 | 15:30  | 17:00 | <span class='research'>Invited talk on new frontiers in computational modelling</span> |
@@ -92,7 +94,7 @@ Those wishing to walk can join Dominic at 08:25 at the Porter's lodge to walk ov
 | 11:00  | 11:30 | <span class='sci'>Science talk: LEMONTREE - __Relationships between resprouting and fire regimes__, [Yicheng Shen](https://www.reading.ac.uk/ges/staff/yicheng-shen)</span> <span class="abstract">Resprouting is a resilience trait that allows individuals to regenerate rapidly following fire. It has profound effects on the speed of post-fire ecosystem recovery and therefore on water- and energy-exchanges with the atmosphere and the carbon cycle. However, the ability to resprout requires investing in carbon storage. Balancing the benefits of rapid recovery of photosynthesis against the costs of carbon storage implies that resprouting is an optimal behaviour in environments where fire is neither too frequent nor too infrequent. Although there is anecdotal support for this assertion, there has been little quantitative investigation of the types of fire regime where resprouting is an optimal strategy. In this study, we use data on the abundance of woody species in Europe and Australia derived from the sPlotOpen database combined with information on whether the species present can resprout or not, derived from regional and global plant trait databases and field information, to examine how changes in the abundance of resprouting species varies with fire return interval and with fire intensity. We show that the proportion of resprouting species decreases as fire return intervals increase, while the abundance of resprouters is maximal at intermediate levels of fire intensity. This work suggests that it should be possible to model the occurrence and abundance of resprouting using an eco-evolutionary optimality approach based on balancing the costs and benefits of resprouting under different fire regimes.</span> |
 | 11:30  | 12:30 | <span class='sci'>Science talk: Clima <i>[Valentin Churavy](https://vchuravy.dev/)</i></span> |
 | 12:30  | 13:30 | Lunch |
-| 13:30  | 15:00 | <span class='workshop'>Workshop: __Pairing and code review__ <i>with [Ben Orchard and Dominic Orchard]()</i> |
+| 13:30  | 15:00 | <span class='workshop'>Workshop: __Pairing and code review__, <i>[Ben Orchard and Dominic Orchard]()</i> |
 | 16:00  | 17:30 | <span class='social'>[Punting](https://en.wikipedia.org/wiki/Punt_(boat)) outing</span> |
 | 18:00  | 18:30 | <span class='social'>Walking tour of Jesus College with Dominic</span> |
 | 19:00  | 22:00 | <span class='social'>Banquet at [Sidney Sussex College](https://www.google.com/maps/place/Sidney+Sussex+College/@52.2074334,0.1207903,17z/data=!3m1!4b1!4m5!3m4!1s0x47d870bdf88751d3:0x5e4958736f1c8744!8m2!3d52.2074334!4d0.1207903?hl=en) </span> |
@@ -102,10 +104,10 @@ Those wishing to walk can join Dominic at 08:25 at the Porter's lodge to walk ov
 |  Start | End  | Event   |
 | ------ | ----- | ------- |
 | _07:00_  | -    | _Optional_ 5k guided run along the river in Cambridge, starting from Jesus College. 25 minute pace with Colm, 35 minute pace with Dominic, and a leisurely 45+ minute pace with Marla for non-runngers. |
-| 09:00  | 10:30 | <span class='workshop'>Workshop: Training ML models with [Will Handley](https://www.kicc.cam.ac.uk/directory/wh260)  </span> |
+| 09:00  | 10:30 | <span class='workshop'>Workshop: __Training ML models__, [Will Handley](https://www.kicc.cam.ac.uk/directory/wh260)  </span> |
 | 10:30  | 11:00 | Tea |
-| 11:00  | 11:30 | <span class='workshop'>Workshop: Questions and followup to Training ML models with [Will Handley](https://www.kicc.cam.ac.uk/directory/wh260)</span>
-| 11:30  | 12:30 | <span class='disc'>Discussion: Future of ML and Deep Learning in Earth Systems modelling</span> |
+| 11:00  | 11:30 | <span class='workshop'>Workshop: __Questions and followup to Training ML models__, [Will Handley](https://www.kicc.cam.ac.uk/directory/wh260)</span>
+| 11:30  | 12:30 | <span class='disc'>Discussion: __Future of ML and Deep Learning in Earth Systems modelling__</span> |
 | 12:30  | 13:30 | Lunch |
 | 13:30  | 14:10 | <span class='sci'>Short talks 2</span> |
 	| 14:10  | 15:00 | <span class='sci'>Science talk: M<sup>2</sup>LInES: __Software and Infrastructure for Data-Intensive Climate Science__
