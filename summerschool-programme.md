@@ -58,7 +58,7 @@ A few details are still being firmed-up, but the below schedule gives a good ind
 | ------ | ----- | ------- |
 | 12:00   | 13:30 | Registration and welcome lunch with posters |
 | 13:30   | 14:00 | <span class='other'>__Welcome and Introduction__</span>, ICCS directors and RSEs |
-| 14:00   | 15:00 | <span class='research'>Opening keynote - [Alberto Arribas Herranz](https://www.microsoft.com/en-us/research/people/aarribas/)</span> |
+| 14:00   | 15:00 | <span class='research'>Opening keynote - __Bringing Scale and Trust to Carbon Credits Through Computer Science__, <i>[S. Keshav](https://svr-sk818-web.cl.cam.ac.uk/keshav/wiki/index.php/Main_Page)</i></span><span class="abstract">Carbon credits--especially those derived from nature-based solutions such as reforestation or averted deforestation--are deservedly viewed as being untrustworthy and their use by airlines and oil companies a barely-concealed form of greenwashing. In this talk, I will present a solution to these issues that leverages advances in earth observation, AI, cloud storage, and blockchain. This solution is being prototyped by the Cambridge Center for Carbon Credits (https://4c.cst.cam.ac.uk ) and I will discuss the current status and our vision for the future.</span> |
 | 15:00   | 15:30 | Tea break |
 | 15:30   | 16:20 | <span class='sci'>Science talk: - DataWave - [Aditi Sheshadri](https://profiles.stanford.edu/aditi-sheshadri), Stanford University</span> |
 | 16:20   | 17:00 | <span class='sci'>Short talks 1</span> |
