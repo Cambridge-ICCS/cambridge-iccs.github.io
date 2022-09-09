@@ -20,7 +20,7 @@ table {
 .floater {
   float:right;
   margin-left: 2em;
-  margin-bottom: 2em;
+  margin-bottom: 1em;
 }
 a.button {
   background: rgb(230, 126, 23);
