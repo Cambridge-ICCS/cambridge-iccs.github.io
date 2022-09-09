@@ -49,12 +49,23 @@ a.programme:hover {
 a.programme:active {
   background: rgb(102, 186, 255);  
 }
+a.logistics {
+  background: rgb(202, 138, 255);  
+}
+a.logistics:hover {
+  background: rgb(209, 153, 255);  
+}
+a.logistics:active {
+  background: rgb(186, 102, 255);  
+}
+
 </style>
 
 <img src="https://live.staticflickr.com/65535/48142231042_2ffd1bf1ba_m.jpg" class="floater /">
 
 <a href="https://web.miniextensions.com/FYT8fFDcuuDlvWEN6Cdg" class="button floater">Register</a>
 <a href="https://cambridge-iccs.github.io/summerschool-programme.html" class="button floater programme">Programme</a>
+<a href="https://cambridge-iccs.github.io/summerschool-logistics.html" class="button floater logistics">Logistics</a>
 
 <h4><i>Monday 19th - Friday 23rd September 2022, Cambridge, UK</i></h4>
 
