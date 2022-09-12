@@ -81,7 +81,8 @@ __All activities, dinners, and accommodation are free!__
 ## Monday 19th September, Jesus College
 
 Due to the state funeral for the Queen which is happening on this day,
-we have had to re-organise. Instead, we will have a low-key, informal start and 
+we have had to re-organise and merge Monday's scientific programme into the rest of
+the weak. Instead, we will have a low-key, informal start.
 
 |  Start | End  | Event   |
 | ------ | ----- | ------- |
