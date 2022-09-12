@@ -60,6 +60,7 @@ Due to the state funeral for the Queen which is happening on this day, we will h
 | ------ | ----- | ------- |
 | 12:30   | 14:00 | Lunch in Jesus College |
 | 15:00  | 16:00 | <span class='social'>Walking tour of Jesus College with Dominic</span> |
+| 19:00  | - | <span class='social'>Welcome dinner at [Six Cambridge](https://www.sixcambridge.co.uk/)</span> |
 
 ## Tuesday 20th September, Centre for Mathematical Sciences (MR2)
 
