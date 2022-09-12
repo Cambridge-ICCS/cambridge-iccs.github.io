@@ -78,8 +78,6 @@ During the week, you can book in a session with one of the RSE teams for advice,
 
 __All activities, dinners, and accommodation are free!__ 
 
-A few details are still being firmed-up, but the below schedule gives a good indication of the structure and timing of everything.
-
 ## Monday 19th September, Jesus College
 
 Due to the state funeral for the Queen which is happening on this day,
