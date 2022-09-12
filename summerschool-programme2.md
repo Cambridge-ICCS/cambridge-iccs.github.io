@@ -59,7 +59,7 @@ Due to the state funeral for the Queen which is happening on this day, we will h
 |  Start | End  | Event   |
 | ------ | ----- | ------- |
 | 12:30   | 14:00 | Lunch in Jesus College |
-| 15:00   | 15:30 | Tea break |
+| 15:00  | 16:00 | <span class='social'>Walking tour of Jesus College with Dominic</span> |
 
 ## Tuesday 20th September, Centre for Mathematical Sciences (MR2)
 
@@ -82,12 +82,6 @@ Those wishing to walk can join Dominic at 08:25 at the Porter's lodge to walk ov
 | 18:30   | -     | <span class='social'>Drinks and welcome dinner at [Madingley Hall](https://www.madingleyhall.co.uk/)</span> |
 
 
-|         |       |  &nbsp; * __ML-based emulators of sea-ice models__ - Charlotte Durand | 
-
-<span class='research'>Invited talk on new frontiers in computational modelling</span> |
-
-
-
 ## Wednesday 21st September, Centre for Mathematical Sciences (MR2)
 
 |  Start | End  | Event   |
@@ -97,12 +91,14 @@ Those wishing to walk can join Dominic at 08:25 at the Porter's lodge to walk ov
 | 11:00  | 11:30 | <span class='sci'>Science talk: LEMONTREE - __Relationships between resprouting and fire regimes__, [Yicheng Shen](https://www.reading.ac.uk/ges/staff/yicheng-shen)</span> <span class="abstract">Resprouting is a resilience trait that allows individuals to regenerate rapidly following fire. It has profound effects on the speed of post-fire ecosystem recovery and therefore on water- and energy-exchanges with the atmosphere and the carbon cycle. However, the ability to resprout requires investing in carbon storage. Balancing the benefits of rapid recovery of photosynthesis against the costs of carbon storage implies that resprouting is an optimal behaviour in environments where fire is neither too frequent nor too infrequent. Although there is anecdotal support for this assertion, there has been little quantitative investigation of the types of fire regime where resprouting is an optimal strategy. In this study, we use data on the abundance of woody species in Europe and Australia derived from the sPlotOpen database combined with information on whether the species present can resprout or not, derived from regional and global plant trait databases and field information, to examine how changes in the abundance of resprouting species varies with fire return interval and with fire intensity. We show that the proportion of resprouting species decreases as fire return intervals increase, while the abundance of resprouters is maximal at intermediate levels of fire intensity. This work suggests that it should be possible to model the occurrence and abundance of resprouting using an eco-evolutionary optimality approach based on balancing the costs and benefits of resprouting under different fire regimes.</span> |
 | 11:30   | 12:30 | <span class='sci'>Science talk: - DataWave - [Aditi Sheshadri](https://profiles.stanford.edu/aditi-sheshadri), Stanford University</span> |
 | 12:30  | 13:30 | Lunch |
-
-| 11:30  | 12:30 | <span class='sci'>Science talk: Clima - __Exploring parallel programming in Julia__ <i>[Valentin Churavy](https://vchuravy.dev/)</i></span><span class="abstract">Parallel programming is required to solve large scale computational models in climate science. In this session we will explore the fundamentals of parallel programming with MPI and GPU, as well as performance engineering in Julia. The goal is to provide an intuition of what approaches for parallelism are out there and how one could apply them in their own work. We will use the Julia programming language to explore these concepts, but no prior knowledge of it is required.</span> |
-| 13:30  | 15:00 | <span class='workshop'>Workshop: __Pairing and code review__, <i>[Ben Orchard and Dominic Orchard]()</i> |
-| 16:00  | 17:30 | <span class='social'>[Punting](https://en.wikipedia.org/wiki/Punt_(boat)) outing</span> |
-| 18:00  | 18:30 | <span class='social'>Walking tour of Jesus College with Dominic</span> |
+| 13:30  | 15:00 | <span class='research'>New techniques for expressing computational modelling using FireDrake - [David Ham](https://www.imperial.ac.uk/people/david.ham)</span> |
+| 15:00  | 15:30 | Tea |
+| 16:30  | 17:30 | <span class='social'>[Punting](https://en.wikipedia.org/wiki/Punt_(boat)) outing</span> |
 | 19:00  | 22:00 | <span class='social'>Banquet at [Sidney Sussex College](https://www.google.com/maps/place/Sidney+Sussex+College/@52.2074334,0.1207903,17z/data=!3m1!4b1!4m5!3m4!1s0x47d870bdf88751d3:0x5e4958736f1c8744!8m2!3d52.2074334!4d0.1207903?hl=en) </span> |
+
+
+
+
 
 ## Thursday 22nd September, Centre for Mathematical Sciences (MR2)
 
@@ -112,13 +108,14 @@ Those wishing to walk can join Dominic at 08:25 at the Porter's lodge to walk ov
 | 09:00  | 10:30 | <span class='workshop'>Workshop: __Training ML models__, [Will Handley](https://www.kicc.cam.ac.uk/directory/wh260)  </span> |
 | 10:30  | 11:00 | Tea |
 | 11:00  | 11:30 | <span class='workshop'>Workshop: __Questions and followup to Training ML models__, [Will Handley](https://www.kicc.cam.ac.uk/directory/wh260)</span> |
-| 11:30  | 12:30 | <span class='disc'>Discussion: __Future of ML and Deep Learning in Earth Systems modelling__</span> |
+| 11:30  | 12:30 | <span class='sci'>Science talk: Clima - __Exploring parallel programming in Julia__ <i>[Valentin Churavy](https://vchuravy.dev/)</i></span><span class="abstract">Parallel programming is required to solve large scale computational models in climate science. In this session we will explore the fundamentals of parallel programming with MPI and GPU, as well as performance engineering in Julia. The goal is to provide an intuition of what approaches for parallelism are out there and how one could apply them in their own work. We will use the Julia programming language to explore these concepts, but no prior knowledge of it is required.</span> |
 | 12:30  | 13:30 | Lunch |
 | 13:30  | 14:10 | <span class='sci'>Short talks 2</span> |
+|         |       |  &nbsp; * __ML-based emulators of sea-ice models__ - Charlotte Durand | 
 | 14:10  | 15:00 | <span class='sci'>Science talk: M<sup>2</sup>LInES: __Software and Infrastructure for Data-Intensive Climate Science__, <i>[Ryan Abernathey](https://datascience.columbia.edu/people/ryan-abernathey/)</i></span> |
 | 15:00  | 15:30 | Tea |
-| 15:30  | 17:00 | <span class='other'>Hackathon pitches and introduction</span> |
-| 17:00  | 18:00 | Refreshments and networking for Hackathon |
+| 15:30  | 17:00 | <span class='workshop'>Workshop: __Pairing and code review__, <i>[Ben Orchard and Dominic Orchard]()</i> |
+| 17:00  | 17:30 | <span class='sci'>Short talks 3</span>  |
 
 ## Friday 23rd September - William Gates Building, Intel Lab
 
@@ -126,6 +123,7 @@ Those wishing to walk can join Dominic at 08:25 at the Porter's lodge to walk ov
 
 |  Start | End  | Event   |
 | ------ | ----- | ------- |
+| 15:30  | 17:00 | <span class='other'>Hackathon pitches and introduction</span> |
 | 09:00  | 10:30 | <span class='hack'>Hackathon group work</span> |
 | 10:30  | 11:00 | Tea |
 | 11:00  | 12:30 | <span class='hack'>Hackathon group work</span> |
