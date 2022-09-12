@@ -108,7 +108,7 @@ Those wishing to walk can join Dominic at 08:25 at the Porter's lodge to walk ov
 
 |  Start | End  | Event   |
 | ------ | ----- | ------- |
-| _07:00_  | -    | _Optional_ 5k guided run along the river in Cambridge, starting from Jesus College. 25 minute pace with Dominic, and a leisurely 45+ minute pace with Marla for non-runners. |
+| _07:00_  | -    | _Optional_ 5k guided run along the river in Cambridge, starting from Jesus College. 25-30 minute pace with Dominic, and a leisurely 45+ minute pace with Marla for non-runners. |
 | 09:00  | 10:30 | <span class='workshop'>Workshop: __Training ML models__</span> <i>[Will Handley](https://www.kicc.cam.ac.uk/directory/wh260), University of Cambridge</i> |
 | 10:30  | 11:00 | Tea |
 | 11:00  | 11:30 | <span class='workshop'>Workshop: __Questions and followup to Training ML models__</span> <i>[Will Handley](https://www.kicc.cam.ac.uk/directory/wh260)</i> |
