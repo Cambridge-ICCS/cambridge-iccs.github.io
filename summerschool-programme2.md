@@ -115,7 +115,7 @@ Those wishing to walk can join Dominic at 08:25 at the Porter's lodge to walk ov
 | 14:10  | 15:00 | <span class='sci'>Science talk: M<sup>2</sup>LInES: __Software and Infrastructure for Data-Intensive Climate Science__, <i>[Ryan Abernathey](https://datascience.columbia.edu/people/ryan-abernathey/)</i></span> |
 | 15:00  | 15:30 | Tea |
 | 15:30  | 17:00 | <span class='workshop'>Workshop: __Pairing and code review__, <i>[Ben Orchard and Dominic Orchard]()</i> |
-| 17:00  | 17:30 | <span class='sci'>Short talks 3</span>  |
+| 17:00  | 17:30 | <span class='other'>Hackathon pitches and introduction</span> |
 
 ## Friday 23rd September - William Gates Building, Intel Lab
 
@@ -123,18 +123,17 @@ Those wishing to walk can join Dominic at 08:25 at the Porter's lodge to walk ov
 
 |  Start | End  | Event   |
 | ------ | ----- | ------- |
-| 15:30  | 17:00 | <span class='other'>Hackathon pitches and introduction</span> |
 | 09:00  | 10:30 | <span class='hack'>Hackathon group work</span> |
 | 10:30  | 11:00 | Tea |
 | 11:00  | 12:30 | <span class='hack'>Hackathon group work</span> |
 | 12:30  | 13:30 | Lunch |
-| 13:30  | 15:00 | <span class='hack'>Hackathon group work and preparing short presentation</span> |
+| 13:30  | 15:00 | <span class='hack'>Hackathon group work</span> |
 | 15:00  | 15:30 | Tea |
-| 15:30  | 16:30 | <span class='other'>Group presentations</span> |
-| 16:30  | 16:45 | Short break |
-| 16:45  | 17:00 | <span class='other'>Prize giving</span> |
-| 17:00  | 17:15 | <span class='other'>Closing remarks</span> |
-| 17:15  | 19:00 | <span class='social'><i>Pizza and drinks</i></span>
+| 15:30  | 16:00 | <span class='hack'>Finishing up and preparing short presentation </span> |
+| 16:00  | 17:00 | <span class='other'>Group presentations</span> |
+| 17:00  | 17:15 | Short break |
+| 17:15  | 17:30 | <span class='other'>Prize giving and closing remarks</span> |
+| 17:30  | 19:00 | <span class='social'><i>Pizza and drinks</i></span>
 
 <script>
       //
