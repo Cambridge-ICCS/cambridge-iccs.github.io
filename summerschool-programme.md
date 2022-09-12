@@ -4,6 +4,32 @@ title: Institute of Computing for Climate Science Summer School 2022 - Programme
 ---
 
 <style>
+.floater {
+  float:right;
+  margin-left: 2em;
+  margin-bottom: 1em;
+}
+a.button {
+  background: rgb(230, 126, 23);
+  padding: 1em;
+  border-radius: 10px;
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+  display: block-level;
+  margin-top: 3em;
+  margin-bottom: 1em;
+  clear: right;
+}
+a.logistics {
+  background: rgb(202, 138, 255);  
+}
+a.logistics:hover {
+  background: rgb(209, 153, 255);  
+}
+a.logistics:active {
+  background: rgb(186, 102, 255);  
+}
 span.other, span.research, span.sci, span.social, span.workshop, span.hack, span.disc {
   border-radius: 4px;
   /* border-style: outset; */
@@ -43,6 +69,8 @@ span.hack {
     background: #eee;
 }
 </style>
+
+<a href="https://cambridge-iccs.github.io/summerschool-logistics.html" class="button floater logistics">Logistics</a>
 
 <a href="summerschool.html">Back to Summer School main site</a>
 
