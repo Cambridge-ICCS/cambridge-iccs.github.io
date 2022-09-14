@@ -87,7 +87,7 @@ during the day at Jesus College.
 
 |  Start | End  | Event   |
 | ------ | ----- | ------- |
-| 12:30   | 14:00 | Lunch in Jesus College |
+| 12:30   | 14:00 | Lunch at Jesus College in the [Webb Library](https://www.jesus.cam.ac.uk/webb-library) |
 | 15:00  | 16:00 | <span class='social'>Walking tour of Jesus College with Dominic</span> |
 | 19:00  | - | <span class='social'>Welcome dinner at [Six Cambridge](https://www.sixcambridge.co.uk/)</span> |
 
