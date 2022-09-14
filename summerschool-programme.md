@@ -82,7 +82,8 @@ __All activities, dinners, and accommodation are free!__
 
 Due to the state funeral for the Queen which is happening on this day,
 we have had to re-organise and merge Monday's scientific programme into the rest of
-the weak. Instead, we will have a low-key, informal start.
+the week. Instead, we will have a low-key, informal start with informal networking
+during the day at Jesus College.
 
 |  Start | End  | Event   |
 | ------ | ----- | ------- |
