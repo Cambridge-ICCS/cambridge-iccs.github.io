@@ -67,6 +67,7 @@ span.hack {
     text-align: justify;
     width: 50vw;
     background: #eee;
+    pointer: cursor;
 }
 </style>
 
