@@ -93,7 +93,7 @@ during the day at Jesus College.
 |  Start | End  | Event   |
 | ------ | ----- | ------- |
 | <span class="opt">07:30</span> | <span class="opt">09:00</span> | <span class="opt">Breakfast in Main Hall, Forum for those staying in College</span>|
-| 12:30   | 14:00 | Lunch at Jesus College [Dining Room, West Court (https://www.jesus.cam.ac.uk/sites/default/files/dining_room_floor_plan.pdf) |
+| 12:30   | 14:00 | Lunch at Jesus College [Dining Room, West Court](https://www.jesus.cam.ac.uk/sites/default/files/dining_room_floor_plan.pdf) |
 | 14:00   | 19:00 | Informal networking in the [Webb Library](https://www.jesus.cam.ac.uk/webb-library) |
 | 15:00  | 16:00 | <span class='social'>Walking tour of Jesus College with Dominic</span> |
 | 19:00  | - | <span class='social'>Welcome dinner at [Six Cambridge](https://www.sixcambridge.co.uk/)</span> |
@@ -107,7 +107,7 @@ Those wishing to walk can join Dominic at 08:25 at the Porter's lodge to walk ov
 
 |  Start | End  | Event   |
 | ------ | ----- | ------- |
-| <span class="opt">07:30</span> | <span class="opt">09:00</span> | <span class="opt">Breakfast in Main Hall, Forum for those staying in College</span>|
+| <span class="opt">07:30</span> | <span class="opt">09:00</span> | <span class="opt">Breakfast in [Main Hall, Forum building](https://cambridge-iccs.github.io/assets/images/jesus-college-map-plus-form.png) for those staying in College</span>|
 | 09:00   | 09:30 | <span class='other'>__Welcome and Introduction__</span> <i>ICCS directors and RSEs</i> |
 | 09:30  | 10:30 | <span class='workshop'>Workshop: __Using Git and GitHub effectively__</span> <i>[Dominic Orchard](http://dorchard.githuib.io), ICCS</i> |
 | 10:30  | 11:00 | Tea |
@@ -129,7 +129,7 @@ Those wishing to walk can join Dominic at 08:25 at the Porter's lodge to walk ov
 
 |  Start | End  | Event   |
 | ------ | ----- | ------- |
-| <span class="opt">07:30</span> | <span class="opt">09:00</span> | <span class="opt">Breakfast in Main Hall, Forum for those staying in College</span>|
+| <span class="opt">07:30</span> | <span class="opt">09:00</span> | <span class="opt">Breakfast in [Main Hall, Forum building](https://cambridge-iccs.github.io/assets/images/jesus-college-map-plus-form.png) for those staying in College</span>|
 | 09:00  | 10:30 | <span class='workshop'>Workshop: __CI and GitHub actions__</span> <i>[Ben Orchard](https://github.com/raehik), ICCS</i> |
 | 10:30  | 11:00 | Tea |
 | 11:00  | 11:30 | <span class='sci'>Science talk (LEMONTREE) - __Relationships between resprouting and fire regimes__</span> <i>[Yicheng Shen](https://www.reading.ac.uk/ges/staff/yicheng-shen), University of Reading</i> <span class="abstract">Resprouting is a resilience trait that allows individuals to regenerate rapidly following fire. It has profound effects on the speed of post-fire ecosystem recovery and therefore on water- and energy-exchanges with the atmosphere and the carbon cycle. However, the ability to resprout requires investing in carbon storage. Balancing the benefits of rapid recovery of photosynthesis against the costs of carbon storage implies that resprouting is an optimal behaviour in environments where fire is neither too frequent nor too infrequent. Although there is anecdotal support for this assertion, there has been little quantitative investigation of the types of fire regime where resprouting is an optimal strategy. In this study, we use data on the abundance of woody species in Europe and Australia derived from the sPlotOpen database combined with information on whether the species present can resprout or not, derived from regional and global plant trait databases and field information, to examine how changes in the abundance of resprouting species varies with fire return interval and with fire intensity. We show that the proportion of resprouting species decreases as fire return intervals increase, while the abundance of resprouters is maximal at intermediate levels of fire intensity. This work suggests that it should be possible to model the occurrence and abundance of resprouting using an eco-evolutionary optimality approach based on balancing the costs and benefits of resprouting under different fire regimes.</span> |
@@ -148,7 +148,7 @@ Those wishing to walk can join Dominic at 08:25 at the Porter's lodge to walk ov
 
 |  Start | End  | Event   |
 | ------ | ----- | ------- |
-| <span class="opt">07:30</span> | <span class="opt">09:00</span> | <span class="opt">Breakfast in Main Hall, Forum for those staying in College</span>|
+| <span class="opt">07:30</span> | <span class="opt">09:00</span> | <span class="opt">Breakfast in [Main Hall, Forum building](https://cambridge-iccs.github.io/assets/images/jesus-college-map-plus-form.png) for those staying in College</span>|
 | _07:00_  | -    | _Optional_ 5k guided run along the river in Cambridge, starting from Jesus College. 25-30 minute pace with Dominic, and a leisurely 45+ minute pace with Marla for non-runners. |
 | 09:00  | 10:30 | <span class='workshop'>Workshop: __Training ML models__</span> <i>[Will Handley](https://www.kicc.cam.ac.uk/directory/wh260), University of Cambridge</i> |
 | 10:30  | 11:00 | Tea |
@@ -168,7 +168,7 @@ Those wishing to walk can join Dominic at 08:25 at the Porter's lodge to walk ov
 
 |  Start | End  | Event   |
 | ------ | ----- | ------- |
-| <span class="opt">07:30</span> | <span class="opt">09:00</span> | <span class="opt">Breakfast in Main Hall, Forum for those staying in College</span>|
+| <span class="opt">07:30</span> | <span class="opt">09:00</span> | <span class="opt">Breakfast in [Main Hall, Forum building](https://cambridge-iccs.github.io/assets/images/jesus-college-map-plus-form.png) for those staying in College</span>|
 | 09:00  | 10:30 | <span class='hack'>Hackathon group work</span> |
 | 10:30  | 11:00 | Tea |
 | 11:00  | 12:30 | <span class='hack'>Hackathon group work</span> |
