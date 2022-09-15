@@ -69,6 +69,10 @@ span.hack {
     background: #eee;
     pointer: cursor;
 }
+.opt {
+	color: gray;
+	font-style: italic;
+}
 </style>
 
 <a href="https://cambridge-iccs.github.io/summerschool-logistics.html" class="button floater logistics">Logistics</a>
