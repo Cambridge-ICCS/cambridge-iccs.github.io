@@ -83,7 +83,9 @@ span.hack {
 </ul>
 </div>
 
+
 # In-person participants 
+
 
 <table>
 <tr><td>Jacob Petersen</td><td> Manager, Community, Schmidt Futures </td></tr>  <tr><td> <img src='assets/images/summerschool2022/JacobPetersenHeadshot.jpeg' /> </td><td> <span class='bio'>Jacob Petersen is a Manager of Community at Schmidt Futures. In this role, he designs and implements convenings and community strategy across all programs and initiatives at Schmidt Futures, focusing closely on Talent Ventures.
@@ -139,13 +141,14 @@ Marla studied mechanical engineering at Rensselaer, in New York and went on to c
 <tr><td>Emily Shuckburgh</td><td> Director, ICCS, University of Cambridge </td></tr>  <tr><td>  </td><td> <span class='bio'></span> <br /><br /></td>
 <tr><td>Athena Elafrou</td><td> HPC Consultant, University Information Services, University of Cambridge </td></tr>  <tr><td>  </td><td> <span class='bio'></span> <br /><br /></td>
 <tr><td>Matt Archer</td><td> Research Software Engineer, University of Cambridge </td></tr>  <tr><td>  </td><td> <span class='bio'></span> <br /><br /></td>
-
 </table>
+
 
  # Virtual participants 
 
+
 <table>
-<tr><td>﻿Name</td><td> Professional Title, Organization (form) </td></tr>  <tr><td>  </td><td> <span class='bio'>BioNew Bio (form)</span> <br /><br /></td>
+<tr><td>Name</td><td> Professional Title, Organization (form) </td></tr>  <tr><td>  </td><td> <span class='bio'>BioNew Bio (form)</span> <br /><br /></td>
 <tr><td>Yair Cohen</td><td> Research Scientist, California Institute of Technology </td></tr>  <tr><td> <img src='assets/images/summerschool2022/ScreenShot2022-06-21at2.23.11PM.png' /> </td><td> <span class='bio'>Yair is a Research Scientist with the  Climate Modeling Alliance (CliMA) at CalTech. Yair holds PhD in Atmospheric Sciences from the Hebrew University of Jerusalem. </span> <br /><br /></td>
 <tr><td>Rui Cheng</td><td> PhD, MIT </td></tr>  <tr><td> <img src='assets/images/summerschool2022/RuiCheng.jpeg' /> </td><td> <span class='bio'>Rui is a postdoc at MIT’s  Des Marais Lab. Rui earned her PhD from Caltech where she worked at the Frankenberg Lab. Rui’s research interest includes evaluating vegetation-climate feedbacks, such as carbon, water, and energy fluxes between land and atmosphere, using a fusion of remote sensing techniques, specifically in regions with limited direct measurements, including the Arctic and mountainous regions.</span> <br /><br /></td>
 <tr><td>Yujie Wang</td><td> Postdic, Caltech </td></tr>  <tr><td> <img src='assets/images/summerschool2022/yujie_wang.png' /> </td><td> <span class='bio'>Yujie Wang is a Postdoctoral Scholar Research Associate in Environmental Science and Engineering at CalTech. Yujie holds PhD from the University of Utah and his part of CliMA where he focuses on Model development, leaf gas exchange, and plant acclimation to the climate.</span> <br /><br /></td>
