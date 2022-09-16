@@ -41,6 +41,9 @@ img {
 max-width: 100px;
 max-height: 100px;
 }
+tr.nth-child(0) {
+	text-weight: bold;
+}
 </style>
 
 <a href="summerschool.html">Back to Summer School main site</a>
@@ -50,9 +53,6 @@ max-height: 100px;
 <ul id="contents">
 </ul>
 </div>
-
-# In-person participants 
-
 
 # In-person participants 
 
