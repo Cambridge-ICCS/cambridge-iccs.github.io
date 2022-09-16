@@ -18,9 +18,8 @@ table {
   margin-bottom: 0em;
 }
 .floater {
-  float:right;
-  margin-left: 2em;
-  margin-bottom: 1em;
+float:left; clear:none;
+margin:1em;
 }
 a.button {
   background: rgb(230, 126, 23);
@@ -63,9 +62,14 @@ a.logistics:active {
 
 <img src="https://live.staticflickr.com/65535/48142231042_2ffd1bf1ba_m.jpg" class="floater /">
 
+<div id='top'
 <a href="https://web.miniextensions.com/FYT8fFDcuuDlvWEN6Cdg" class="button floater">Register</a>
 <a href="https://cambridge-iccs.github.io/summerschool-programme.html" class="button floater programme">Programme</a>
-<a href="https://cambridge-iccs.github.io/summerschool-logistics.html" class="button floater logistics">Logistics</a>
+<a href="https://cambridge-iccs.github.io/summerschool-logistics.html"
+class="button floater logistics">Logistics</a>
+<a href="https://cambridge-iccs.github.io/summerschool-logistics.html"
+class="button floater logistics">Participants</a>
+</div>
 
 <h4><i>Monday 19th - Friday 23rd September 2022, Cambridge, UK</i></h4>
 
