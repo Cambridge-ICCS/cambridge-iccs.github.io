@@ -51,8 +51,6 @@ span.hack {
 
 {% include summerschool-head.html %}
 
-<a href="summerschool.html">Back to Summer School main site</a>
-
 During the week, you can book in a session with one of the RSE teams for advice, or to discuss ongoing projects.
 
 __All activities, dinners, and accommodation are free!__ 
