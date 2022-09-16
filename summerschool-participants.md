@@ -45,6 +45,12 @@ max-height: 100px;
 
 <a href="summerschool.html">Back to Summer School main site</a>
 
+<div class="contents">
+<b>Contents of this page:</b>
+<ul id="contents">
+</ul>
+</div>
+
 # In-person participants 
 
 <table>
@@ -104,7 +110,11 @@ Marla studied mechanical engineering at Rensselaer, in New York and went on to c
 
 </table>
 
+ 
+ 
  # Virtual participants 
+ 
+ 
 
 <table>
 <tr><td>﻿Name</td><td> Professional Title, Organization (form) </td></tr>  <tr><td>  </td><td> <span class='bio'>BioNew Bio (form)</span> <br /><br /></td></tr>
