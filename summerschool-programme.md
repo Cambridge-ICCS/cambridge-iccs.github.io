@@ -46,10 +46,21 @@ span.hack {
 .opt {
 	color: gray;
 	font-style: italic;
+	}
+	div {
+  font-size:12.5pt;
+  text-align:justify;
 }
 </style>
 
 {% include summerschool-head.html %}
+
+<style>
+div {
+  font-size:13.5pt;
+  text-align:justify;
+}
+</div>
 
 During the week, you can book in a session with one of the RSE teams for advice, or to discuss ongoing projects.
 
