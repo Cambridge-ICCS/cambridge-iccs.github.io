@@ -41,7 +41,7 @@ img {
 max-width: 100px;
 max-height: 100px;
 }
-tr.nth-child(0) {
+td:nth-child(1) {
 	text-weight: bold;
 	}
 div {
