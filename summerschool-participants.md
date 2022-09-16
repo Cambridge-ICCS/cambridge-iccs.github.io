@@ -37,6 +37,10 @@ background: rgb(245,245,245);
 padding:20px;
 margin:20px;
 }
+img {
+max-width: 100px;
+max-height: 100px;
+}
 </style>
 
 <a href="summerschool.html">Back to Summer School main site</a>
@@ -44,6 +48,7 @@ margin:20px;
 # In-person participants 
 
 
+|---------|---------|
  | Jacob Petersen | Manager, Community, Schmidt Futures | 
   | <img src='assets/images/summerschool2022/JacobPetersenHeadshot.jpeg' /> | <span class='bio'>Jacob Petersen is a Manager of Community at Schmidt Futures. In this role, he designs and implements convenings and community strategy across all programs and initiatives at Schmidt Futures, focusing closely on Talent Ventures.
 Previously, Jacob’s career has spanned more than 10 years in events and philanthropy, with a focus on the environmental nonprofit sector. He came to Schmidt Futures from Ocean Conservancy where he was head of events leading all aspects of their fundraising and programmatic convenings, while also managing a portfolio of individual major donors and corporate partnerships. Prior to that, Jacob worked as the director of special events for the Prevent Cancer Foundation, leading large scale fundraisers including one of Washington, D.C.’s top galas.
@@ -140,7 +145,7 @@ Marla studied mechanical engineering at Rensselaer, in New York and went on to c
 
 # Virtual participants 
 
-
+|---------|---------|
  | ﻿Name | Professional Title, Organization (form) | 
   |  | <span class='bio'>BioNew Bio (form)</span> |
  | Yair Cohen | Research Scientist, California Institute of Technology | 
