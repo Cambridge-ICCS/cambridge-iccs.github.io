@@ -61,4 +61,12 @@ Dominic Orchard</a>
 <span class='role'>Co-director (Computer science)</span>
 </div>
 
+
+<div class="person">
+<a href="">
+<img src="/assets/images/marla_fuchs.jpeg" description="Marla Fuchs portrait photo"  />
+Marla Fuchs</a>
+<span class='role'>Executive Programme Director</span>
+</div>
+
 </div>
