@@ -29,7 +29,7 @@ table {
 
 
 <a href="https://web.miniextensions.com/FYT8fFDcuuDlvWEN6Cdg"
-  class="button floater">Register</a>
+  class="button floater" style="float:right;">Register</a>
 
 
 The inaugural Institute of Computing for Climate Science (ICCS) Summer School will take place as a hybrid event in Cambridge, UK, both virtually and in-person, during the week of Monday 19th September 2022.
