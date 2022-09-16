@@ -62,7 +62,7 @@ a.logistics:active {
 
 <img src="https://live.staticflickr.com/65535/48142231042_2ffd1bf1ba_m.jpg" class="floater /">
 
-<div id='top'
+<div id='top'>
 <a href="https://web.miniextensions.com/FYT8fFDcuuDlvWEN6Cdg" class="button floater">Register</a>
 <a href="https://cambridge-iccs.github.io/summerschool-programme.html" class="button floater programme">Programme</a>
 <a href="https://cambridge-iccs.github.io/summerschool-logistics.html"
