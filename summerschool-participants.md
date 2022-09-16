@@ -75,35 +75,13 @@ span.hack {
 }
 </style>
 
-<a href="https://cambridge-iccs.github.io/summerschool-logistics.html" class="button floater logistics">Logistics</a>
-
 <a href="summerschool.html">Back to Summer School main site</a>
 
-During the week, you can book in a session with one of the RSE teams for advice, or to discuss ongoing projects.
-
-__All activities, dinners, and accommodation are free!__ 
-
-## Monday 19th September, Jesus College
-
-Due to the state funeral for the Queen which is happening on this day,
-we have had to re-organise and merge Monday's scientific programme into the rest of
-the week. Instead, we will have a low-key, informal start with informal networking
-during the day at Jesus College.
-
-|  Start | End  | Event   |
-| ------ | ----- | ------- |
-| <span class="opt">07:30</span> | <span class="opt">09:00</span> | <span class="opt">Breakfast in [Main Hall, Forum building](https://cambridge-iccs.github.io/assets/images/jesus-college-map-plus-form.png) for those staying in College</span>|
-| 12:30   | 14:00 | Lunch at Jesus College [Dining Room, West Court](https://www.jesus.cam.ac.uk/sites/default/files/dining_room_floor_plan.pdf) |
-| 14:00   | 19:00 | Informal networking in the [Webb Library](https://www.jesus.cam.ac.uk/webb-library) |
-| 15:00  | 16:00 | <span class='social'>Walking tour of Jesus College with Dominic</span> |
-| 19:00  | - | <span class='social'>Welcome dinner at [Six Cambridge](https://www.sixcambridge.co.uk/)</span> |
-
-## Tuesday 20th September, Centre for Mathematical Sciences (MR2)
-
-The walk from Jesus College to the CMS takes about 25 minutes. There will be a mini-bus taxi available leaving from Jesus College at 08:30.
-Those wishing to walk can join Dominic at 08:25 at the Porter's lodge to walk over, going a very scenic route through the old colleges and past the library.
-
-[Location of MR2 is in the 'core' part of the Centre for Mathematical Sciences, downstairs](http://www.cms.cam.ac.uk/meeting-rooms)
+<div class="contents">
+<b>Contents of this page:</b>
+<ul id="contents">
+</ul>
+</div>
 
 # In-person participants 
 
