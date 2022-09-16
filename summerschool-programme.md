@@ -93,7 +93,7 @@ during the day at Jesus College.
 |  Start | End  | Event   |
 | ------ | ----- | ------- |
 | <span class="opt">07:30</span> | <span class="opt">09:00</span> | <span class="opt">Breakfast in [Main Hall, Forum building](https://cambridge-iccs.github.io/assets/images/jesus-college-map-plus-form.png) for those staying in College</span>|
-| 12:30   | 14:00 | Lunch at Jesus College [Dining Room, West Court](https://www.jesus.cam.ac.uk/sites/default/files/dining_room_floor_plan.pdf) |
+| 12:00   | 13:00 | Informal buffet lunch at Jesus College [Dining Room, West Court](https://www.jesus.cam.ac.uk/sites/default/files/dining_room_floor_plan.pdf) |
 | 14:00   | 19:00 | Informal networking in the [Webb Library](https://www.jesus.cam.ac.uk/webb-library) |
 | 15:00  | 16:00 | <span class='social'>Walking tour of Jesus College with Dominic</span> |
 | 19:00  | - | <span class='social'>Welcome dinner at [Six Cambridge](https://www.sixcambridge.co.uk/)</span> |
