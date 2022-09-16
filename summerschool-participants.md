@@ -46,7 +46,7 @@ tr.nth-child(0) {
 }
 </style>
 
-<a href="summerschool.html">Back to Summer School main site</a>
+{% include summerschool-head.html %}
 
 <div class="contents">
 <b>Contents of this page:</b>

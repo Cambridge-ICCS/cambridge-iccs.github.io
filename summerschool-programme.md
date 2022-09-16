@@ -75,7 +75,7 @@ span.hack {
 }
 </style>
 
-<a href="https://cambridge-iccs.github.io/summerschool-logistics.html" class="button floater logistics">Logistics</a>
+{% include summerschool-head.html %}
 
 <a href="summerschool.html">Back to Summer School main site</a>
 

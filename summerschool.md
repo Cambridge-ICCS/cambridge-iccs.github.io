@@ -17,59 +17,13 @@ table {
   margin-top: 1em;
   margin-bottom: 0em;
 }
-.floater {
-float:left; clear:none;
-margin:1em;
-}
-a.button {
-  background: rgb(230, 126, 23);
-  padding: 1em;
-  border-radius: 10px;
-  color: white;
-  text-decoration: none;
-  cursor: pointer;
-  display: block-level;
-  margin-top: 3em;
-  margin-bottom: 1em;
-  clear: right;
-}
-a.button:hover {
-  background: rgb(245, 152, 66);
-}
-a.button:active {
-  background: rgb(214, 127, 47);
-}
-a.programme {
-  background: rgb(138, 202, 255);  
-}
-a.programme:hover {
-  background: rgb(153, 209, 255);  
-}
-a.programme:active {
-  background: rgb(102, 186, 255);  
-}
-a.logistics {
-  background: rgb(202, 138, 255);  
-}
-a.logistics:hover {
-  background: rgb(209, 153, 255);  
-}
-a.logistics:active {
-  background: rgb(186, 102, 255);  
-}
+
 
 </style>
 
-<img src="https://live.staticflickr.com/65535/48142231042_2ffd1bf1ba_m.jpg" class="floater /">
+{% include summerschool-head.html %}
 
-<div id='top'>
-<a href="https://web.miniextensions.com/FYT8fFDcuuDlvWEN6Cdg" class="button floater">Register</a>
-<a href="https://cambridge-iccs.github.io/summerschool-programme.html" class="button floater programme">Programme</a>
-<a href="https://cambridge-iccs.github.io/summerschool-logistics.html"
-class="button floater logistics">Logistics</a>
-<a href="https://cambridge-iccs.github.io/summerschool-logistics.html"
-class="button floater logistics">Participants</a>
-</div>
+<img src="https://live.staticflickr.com/65535/48142231042_2ffd1bf1ba_m.jpg" class="floater /">
 
 <h4><i>Monday 19th - Friday 23rd September 2022, Cambridge, UK</i></h4>
 
