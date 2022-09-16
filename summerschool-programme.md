@@ -60,7 +60,7 @@ div {
   font-size:13.5pt;
   text-align:justify;
 }
-</div>
+</style>
 
 During the week, you can book in a session with one of the RSE teams for advice, or to discuss ongoing projects.
 
