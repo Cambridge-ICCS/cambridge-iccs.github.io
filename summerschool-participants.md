@@ -43,7 +43,12 @@ max-height: 100px;
 }
 tr.nth-child(0) {
 	text-weight: bold;
+	}
+div {
+  font-size:12.5pt;
+  text-align:justify;
 }
+
 </style>
 
 {% include summerschool-head.html %}
