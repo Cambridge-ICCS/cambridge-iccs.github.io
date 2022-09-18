@@ -122,7 +122,7 @@ Marla studied mechanical engineering at Rensselaer, in New York and went on to c
 
 </table>
 
-<h1>Virtual participants</h1> 
+<a name="virtual-participants"><h1>Virtual participants</h1></a>
 
 <table>
 <tr><td>Aditi  Sheshadri</td><td> Assistant Professor, Stanford University </td></tr>  <tr><td> <img src='assets/images/summerschool2022/AditiSheshadri.jpeg' /> </td><td> <span class='bio'>Dr. Sheshadri is the Coordinating PI of DataWave. She joined Stanford's Earth System Science department as an assistant professor 2018. Prior to this, she was a Junior Fellow of the Simons Foundation in New York, and a postdoctoral research scientist at Columbia University’s Department of Applied Physics and Applied Math and the Lamont-Doherty Earth Observatory. Dr. Sheshadri holds Ph.D. in Atmospheric Science from MIT's Department of Earth, Atmospheric, and Planetary Sciences, in the Program for Atmospheres, Oceans, and Climate, where she worked with R. Alan Plumb. Dr. Sheshadri is broadly interested in atmosphere and ocean dynamics, climate variability, and general circulation. More particularly, she is interested in fundamental questions in atmospheric dynamics, which she addresses using a combination of theory, observations, and both idealized and comprehensive numerical experiments. Current areas of focus include the dynamics, variability, and change of the mid-latitude jets and storm tracks and the stratospheric polar vortex.</span> <br /><br /></td></tr>
