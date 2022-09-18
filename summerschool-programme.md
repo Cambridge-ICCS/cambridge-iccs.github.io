@@ -53,7 +53,8 @@ span.hack {
   }
   .chairs {
   display:none;
-  color: gray;
+  color: purple;
+  font-weight: bold;
 }
 </style>
 
@@ -210,13 +211,18 @@ function getQueryVariable(variable)
   return -1; //not found 
   }
 
-if (getQueryVariable("chairs") == "true"){
+function showSessionChairs() {
 var chairs = document.getElementsByClassName("chairs");
 for (let i = 0; i < chairs.length; i++){
    chairs[i].innerHTML = "Chair: " + chairs[i].innerHTML;
 	chairs[i].style.display = "block";
-}
+	}
+	}
+
+
+if (getQueryVariable("chairs") == "true"){
+showSessionChairs();
 }
 </script>
 
-<a href="https://cambridge-iccs.github.io/summerschool-programme.html?chairs=true">Show session chairs</a>
+<a onClick="showSessionChairs();">Show session chairs</a>
