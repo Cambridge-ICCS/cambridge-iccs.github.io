@@ -49,7 +49,7 @@ function convert(t) {
 
 var contents = document.getElementById("contents");
 var sections = document.getElementsByTagName("h2");
-for(var i = 1; i < sections.length; i++) {
+for(var i = 0; i < sections.length; i++) {
    let item = sections[i];
    let link = document.createElement("a");
    let li = document.createElement("li");
