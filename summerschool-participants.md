@@ -1,6 +1,6 @@
 ---
 layout:  single
-title: Institute of Computing for Climate Science Summer School 2022 - Logistics
+title: Institute of Computing for Climate Science Summer School 2022 - Participants
 ---
 
 <style>
