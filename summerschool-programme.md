@@ -214,7 +214,9 @@ if (getQueryVariable("chairs") == "true"){
 var chairs = document.getElementsByClassName("chairs");
 for (let i = 0; i < chairs.length; i++){
    chairs[i].innerHTML = "Chair: " + chairs[i].innerHTML;
-	chairs[i].style.display = "block-level";
+	chairs[i].style.display = "block";
 }
 }
 </script>
+
+<a href="https://cambridge-iccs.github.io/summerschool-programme.html?chairs=true">Show session chairs</a>
