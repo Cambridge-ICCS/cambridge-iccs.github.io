@@ -42,6 +42,7 @@ may be of particular interest to early-career researchers who wish to get commun
 
 The summer school is also a chance to network between teams, give presentations on the scientific aims of your projects, and to meet and discuss with the Core team. VESRI teams will have the option to conduct a scientific session on the core science underlying their project.
 
+<i>All activities, dinners, and accommodation are free!</i>
 
 
 <!--

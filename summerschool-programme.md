@@ -67,9 +67,7 @@ div {
 }
 </style>
 
-During the week, you can book in a session with one of the RSE teams for advice, or to discuss ongoing projects.
-
-<i>All activities, dinners, and accommodation are free!</i>
+During the week, you can [book in a session with one of the RSE team](https://docs.google.com/spreadsheets/d/1iINWYEOdEytngnanVqyq2gAi8DJq4kMusvY6_BI3N0A/edit?usp=sharing) for advice, or to discuss ongoing projects.
 
 ## Monday 19th September, Jesus College
 
