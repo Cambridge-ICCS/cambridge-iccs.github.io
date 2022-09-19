@@ -89,7 +89,7 @@ during the day at Jesus College.
 ## Tuesday 20th September, Centre for Mathematical Sciences (MR2)
 
 The walk from Jesus College to the CMS takes about 25 minutes. There will be a mini-bus taxi available leaving from Jesus College at 08:30.
-Those wishing to walk can join Dominic at 08:25 at the Porter's lodge to walk over, going a very scenic route through the old colleges and past the library.
+Those wishing to walk can join Dominic at 08:15 at the Porter's lodge to walk over, going a very scenic route through the old colleges and past the library.
 
 [Location of MR2 is in the 'core' part of the Centre for Mathematical Sciences, downstairs](http://www.cms.cam.ac.uk/meeting-rooms)
 
