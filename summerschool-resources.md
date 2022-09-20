@@ -34,6 +34,9 @@ div {
 
 ## Testing
 
+* [Slides](https://github.com/Cambridge-ICCS/testing/raw/main/presentation/slides.pdf)
+* [GitHub repository](https://github.com/Cambridge-ICCS/testing)
+
 ## CI and GitHub actions
 
 ## Bridging Fortran and Python for ML
