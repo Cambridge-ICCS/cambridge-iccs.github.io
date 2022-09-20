@@ -29,6 +29,9 @@ div {
 
 ## Using Git and GitHub effectively
 
+* [Slides](summerschool-res/git-and-github.pdf)
+* [Exercise](summerschool-res/git-exercise.pdf)
+
 ## Testing
 
 ## CI and GitHub actions
