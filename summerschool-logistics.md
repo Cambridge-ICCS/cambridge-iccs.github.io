@@ -141,7 +141,7 @@ __The accommodation includes breakfast on every day you are staying__, served be
 
 
 
-# Locations and travel during the week
+# Locations and travel during the week (e.g., dinners)
 
 [Maps of the colleges and buildings we will be using](https://www.google.com/maps/d/u/0/viewer?hl=en&ll=52.207831884944866%2C0.09996241467192579&z=15&mid=1kvpTd_oUmudZSElc-YKAlmvRWRSn_c8)
 
@@ -179,7 +179,7 @@ We will go on a punting tour (boat tour) from 4:30-5:30pm on Wednesday. The punt
 
 ## Wednesday evening dinner
 
-Wednesday evening we will be at Sidney Sussex College which is just round the corner from Jesus College, less than 5 minutes on foot.
+Wednesday evening we will be at [Sidney Sussex College](https://www.google.com/maps/place/Sidney+Sussex+College/@52.2074334,0.1207903,17z/data=!3m1!4b1!4m5!3m4!1s0x47d870bdf88751d3:0x5e4958736f1c8744!8m2!3d52.2074334!4d0.1207903?hl=en) which is just round the corner from Jesus College, less than 5 minutes on foot.
 
 ## Friday
 
