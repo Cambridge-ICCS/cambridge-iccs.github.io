@@ -173,6 +173,10 @@ Alternatively, it is easy to catch the [bus from the end of the road](https://ww
 
 Tuesday evening we will be at Madingley Hall which is just outside the city. Transport will be provided, leaving the CMS at 17:45.
 
+## Wednesday punting
+
+We will go on a punting tour (boat tour) from 4:30-5:30pm on Wednesday. The punts will leave from [Scudamore's at the Quayside](https://www.google.com/maps/place/Scudamore's+Quayside+Punting+Station/@52.2097995,0.1166697,17z/data=!3m1!4b1!4m5!3m4!1s0x47d870a34a1b9acd:0xf9c5d731f202f46a!8m2!3d52.2097995!4d0.1166697?hl=en) which is close to Jesus College (just behind, also near Six). People will be walking over from the CMS at around 3:30pm. We recommend wearing warmer clothes. There should be time to go back to your room first if you want to leave luggage and change.
+
 ## Wednesday evening dinner
 
 Wednesday evening we will be at Sidney Sussex College which is just round the corner from Jesus College, less than 5 minutes on foot.
