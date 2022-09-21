@@ -39,6 +39,8 @@ div {
 
 ## CI and GitHub actions
 
+* [Resources (incuding slides and exercises linked here)](https://github.com/raehik/ga-ci)
+
 ## Bridging Fortran and Python for ML
 
 ## Automating forward and inverse geoscientific simulation in Firedrake
