@@ -49,6 +49,8 @@ div {
 
 ## Automating forward and inverse geoscientific simulation in Firedrake
 
+* [Notebooks on Google Colab](https://colab.research.google.com/github/firedrakeproject/ICCS-Cam)
+
 ## Training ML models
 
 ## Pairing and code review
