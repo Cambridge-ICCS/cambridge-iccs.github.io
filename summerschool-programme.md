@@ -147,6 +147,7 @@ Those wishing to walk can join Dominic at 08:15 at the Porter's lodge to walk ov
 | 15:00  | 15:30 | Tea |
 | 15:30  | 17:00 | <span class="chairs">Chris</span><span class='workshop'>Workshop: __Pairing and code review__</span> <i>[Ben Orchard](https://github.com/raehik), and [Dominic Orchard](https://dorchard.github.io/), ICCS</i> |
 | 17:00  | 17:30 | <span class='other'>Hackathon pitches and introduction</span> |
+| 17:30  | 18:30 | <span class='social'>__Wine tasting social__</span> (in MR4) with additional time for extra <span class="sci">__poster presentations__</span>
 
 ## Friday 23rd September - William Gates Building, Intel Lab
 
