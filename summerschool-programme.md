@@ -153,7 +153,7 @@ Those wishing to walk can join Dominic at 08:15 at the Porter's lodge to walk ov
 
 [Make a Hackathon pitch](https://docs.google.com/forms/d/1wjJXS_rmBsAeqqlLFjtDPae-tJhcNoWYgSCOZbgsmy0/edit?usp=drive_web)
 
-[Join a Hackathon team](https://docs.google.com/spreadsheets/d/1xK1xBurCmt-Dpk85QYSxNtvQIICA1vn0h9Ii8OBiLII/edit#gid=0) __please add your name and e-mail__.
+[Join a Hackathon team](https://docs.google.com/spreadsheets/d/1xK1xBurCmt-Dpk85QYSxNtvQIICA1vn0h9Ii8OBiLII/edit#gid=0) __please add your name and e-mail__ (and mark if you are a virtual participant).
 
 |  Start | End  | Event   |
 | ------ | ----- | ------- |
