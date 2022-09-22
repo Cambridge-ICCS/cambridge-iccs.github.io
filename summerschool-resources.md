@@ -53,6 +53,8 @@ div {
 
 ## Training ML models
 
+* [Resources](https://github.com/handley-lab/2022-cambridge-iccs)
+
 ## Pairing and code review
 
 
