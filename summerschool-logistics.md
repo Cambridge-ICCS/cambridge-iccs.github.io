@@ -191,6 +191,34 @@ Friday's hackathon will be hosted in the Intel Laboratory at the [William Gates 
 * Lunches and coffee breaks will be vegetarian and vegan.
 * All provided dietary requirements are taken into account for the meals and dinners.
 
+# Restaurant recommendations and taxi numbers
+
+Here some good restaurants in the centre of the city:
+
+| Restaurants |        |
+---------------------------
+| The Tipsy Vegan 		| 		6-8 Quayside, Bridge Street – 01223 350542 | 
+| La Mimosa (Italian)		| 		Thompson’s Lane – 01223 362525 | 
+| Galleria	(European)		| 		33 Bridge Street – 01223 362054  | 
+| La Margherita (Italian)	| 			15 Magdalene Street – 01223 315232 | 
+| Curry King (Indian)	| 			5 Jordan’s Yard, Bridge Street (in the Mitre pub) – 01223 324351 | 
+| Thaikhun (Thai)			| 		3-5 Quayside, Bridge Street – 01223 613270 | 
+| The Punter (Pub food)	| 			3 Pound Hill – 01223 363322	 | 
+| Thanh Binh (Vietnamese)	| 		17 Magdalene Street – 01223 362456 | 
+| Chinese Canteen (Chinese)	| 		30 Bridge Street – 01223 312415 | 
+| Loch Fyne (Fish/Seafood)	| 		37 Trumpington Street – 01223 362433 | 
+| Efes Restaurant (Turkish)		| 	80 King Street – 01223 500005 | 
+| Las Iguanas (South American)	| 		Quayside, Bridge Street – 01223 608897 | 
+| La Raza (Spanish)		| 		4-6 Rose Crescent – 01223 464550 | 
+| Cambridge Brew House (Pub food)		|  1 King Street – 01223 855185 | 
+| The Architect (Traditional pub food)	| 	43 Castle Street – 01223 563779 | 
+
+__Taxis__
+
+* Panther Taxi 01223 715715
+* A1 Taxi 01223 313131
+
+
 
 <script>
 function convert(t) {
