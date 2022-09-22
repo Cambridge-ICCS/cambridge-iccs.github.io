@@ -57,6 +57,8 @@ div {
 
 ## Pairing and code review
 
+* [https://codereviewchecklist.com/](https://codereviewchecklist.com/)
+* [Pair programming slides](summerschool-res/pair-programming-and-code-review.pdf)
 
  <script>
 function convert(t) {
