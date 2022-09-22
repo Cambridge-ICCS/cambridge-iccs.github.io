@@ -153,6 +153,8 @@ Those wishing to walk can join Dominic at 08:15 at the Porter's lodge to walk ov
 
 [Make a Hackathon pitch](https://docs.google.com/forms/d/1wjJXS_rmBsAeqqlLFjtDPae-tJhcNoWYgSCOZbgsmy0/edit?usp=drive_web)
 
+[Join a Hackathon team](https://docs.google.com/spreadsheets/d/1xK1xBurCmt-Dpk85QYSxNtvQIICA1vn0h9Ii8OBiLII/edit#gid=0) __please add your name and e-mail__.
+
 |  Start | End  | Event   |
 | ------ | ----- | ------- |
 | <span class="opt">07:30</span> | <span class="opt">09:00</span> | <span class="opt">Breakfast in [Main Hall, Forum building](https://cambridge-iccs.github.io/assets/images/jesus-college-map-plus-form.png) for those staying in College</span>|
