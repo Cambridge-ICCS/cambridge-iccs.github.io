@@ -46,6 +46,7 @@ div {
 ## Bridging Fortran and Python for ML
 
 * [Guide and examples of how to interface Python and TensorFlow or PyTorch](https://github.com/Cambridge-ICCS/fortran-ml-bridge)
+* [Slides](https://docs.google.com/presentation/d/16m_rW9Q9uL7sT8vOKTt4DUO6BuyxtBocudzFBlZwNiM/edit?usp=sharing)
 
 ## Automating forward and inverse geoscientific simulation in Firedrake
 
