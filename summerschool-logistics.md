@@ -196,7 +196,7 @@ Friday's hackathon will be hosted in the Intel Laboratory at the [William Gates 
 Here some good restaurants in the centre of the city:
 
 | Restaurants |        |
----------------------------
+--------------|---------|
 | The Tipsy Vegan 		| 		6-8 Quayside, Bridge Street – 01223 350542 | 
 | La Mimosa (Italian)		| 		Thompson’s Lane – 01223 362525 | 
 | Galleria	(European)		| 		33 Bridge Street – 01223 362054  | 
