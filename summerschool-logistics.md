@@ -183,7 +183,7 @@ Wednesday evening we will be at [Sidney Sussex College](https://www.google.com/m
 
 ## Friday
 
-Friday's hackathon will be hosted in the Intel Laboratory at the [William Gates Building](https://www.google.com/maps/place/William+Gates+Building,+15+JJ+Thomson+Ave,+Cambridge+CB3+0FD/@52.2081295,0.0929005,16z/data=!4m5!3m4!1s0x47d8774a3fdc414b:0xe98fb897497ce850!8m2!3d52.2109006!4d0.0916506?hl=en)  (the Department of Computer Science and Technology, also known as the Computer Laboratory). Dominic will lead a crowd to get the bus from Jesus, leaving the porter's lodge at 08:15.
+Friday's hackathon will be hosted in the Intel Laboratory at the [William Gates Building](https://www.google.com/maps/place/William+Gates+Building,+15+JJ+Thomson+Ave,+Cambridge+CB3+0FD/@52.2081295,0.0929005,16z/data=!4m5!3m4!1s0x47d8774a3fdc414b:0xe98fb897497ce850!8m2!3d52.2109006!4d0.0916506?hl=en)  (the Department of Computer Science and Technology, also known as the Computer Laboratory). Dominic will lead a crowd to walk from Jesus, leaving the porter's lodge at 08:15. Taxis will be at 08:30am.
 
 # Miscellaneous
 
