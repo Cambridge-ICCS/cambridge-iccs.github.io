@@ -22,11 +22,6 @@ header:
 </style>
 
 
-<!--
-<img src="https://cambridge-iccs.github.io/assets/images/iccs-uni-logo.png"
-     style="float:right;width:250px;clear:right;margin-bottom:1em;margin-left:calc(18em - 250px);" />
--->
-
 <div class="floatBox main_content" style="clear:right;">
 <blockquote class="quote">The Institute of Computing for Climate
 Science will be the first of its kind, supporting the application of
