@@ -21,8 +21,7 @@ header:
 }
 </style>
 
-<img src="https://cambridge-iccs.github.io/assets/images/iccs-uni-logo.png"
-     style="float:right;height:150px" />
+
 
 <div class="floatBox main_content">
 <blockquote class="quote">The Institute of Computing for Climate
@@ -32,6 +31,8 @@ climate modelling.</blockquote>
 <span class="quoteAuthor">Dr Emily Shuckburgh,<br />Academic Director of ICCS</span>
 </div>
 
+<img src="https://cambridge-iccs.github.io/assets/images/iccs-uni-logo.png"
+     style="float:right;height:100px" />
 
 <p class="main_content">
 The <strong>Institute of Computing for Climate Science</strong>
