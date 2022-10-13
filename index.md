@@ -52,5 +52,7 @@ href="https://www.schmidtfutures.com/">Schmidt Futures</a> addressing
 the growing demand for software engineers with backgrounds in science,
 complex data and mathematics who can build dynamic, scalable, open
 software to facilitate accelerated scientific discovery across fields.
+We work closely with the teams comprising the 
+  <a href="https://www.schmidtfutures.com/our-work/virtual-earth-system-research-institute-vesri/">Virtual Earth Systems Research Institute (VESRI)</a>.
 </p>
 
