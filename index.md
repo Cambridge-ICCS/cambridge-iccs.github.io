@@ -26,7 +26,7 @@ header:
      style="float:right;height:100px;clear:right;" />
 <br />
 
-<div class="floatBox main_content">
+<div class="floatBox main_content" style="clear:right;">
 <blockquote class="quote">The Institute of Computing for Climate
 Science will be the first of its kind, supporting the application of
 the latest developments in computer science and data science to
