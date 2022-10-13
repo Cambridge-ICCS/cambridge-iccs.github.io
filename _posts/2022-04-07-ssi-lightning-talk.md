@@ -1,10 +1,14 @@
-----
-title:
-----
+---
+layout: posts
+title:  "Lightning talk introducing ICCS at the SSI Collaborations Workshop 2022"
+date:   2022-04-07 09:59:25 +0000
+categories: main
+---
+
 
 Our computer science co-director, Dr Dominic Orchard, gave a lightning talk introducing our institute at
 the [Software Sustainability Institute's 2022 Collaborations workshop](https://www.software.ac.uk/cw22),
-using it also as an opportunity to advertise upcoming jobs in the institute to the UK RSE community.
+using it also as an opportunity to advertise upcoming jobs in the institute.
 
 Watch the recording here:
 
