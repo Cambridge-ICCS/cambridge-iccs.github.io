@@ -23,8 +23,7 @@ header:
 
 
 <img src="https://cambridge-iccs.github.io/assets/images/iccs-uni-logo.png"
-     style="float:right;height:100px;clear:right;" />
-<br />
+     style="float:right;height:100px;clear:right;margin-bottom:1em;" />
 
 <div class="floatBox main_content" style="clear:right;">
 <blockquote class="quote">The Institute of Computing for Climate
