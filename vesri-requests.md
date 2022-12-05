@@ -20,6 +20,7 @@ table {
 }
 </style>
 
+<div>
 ## Workflow to request the support of ICCS for your VESRI work
 
 1. __Scoping__. If you already have a good idea about what you want doing and roughly the shape
@@ -35,5 +36,6 @@ the other Schmidt Futures' funded Virtual Institutes of Scientific Software. Suc
 
 Decisions will be cleared communicated and discussed, including possibility for re-scoping if deemed appropriate.
 
-3. __Requirements gathering__ Once a project is approved to go forward and nearing the time that work can begin, a requirements gathering meeting will be undertaken
-4. to collect more details with which the core team can then plan the activity, and set in place goals and checkpoints to evaluate progress of the work.
+3. __Requirements gathering__ Once a project is approved to go forward and nearing the time that work can begin, a requirements gathering meeting will be undertaken to collect more details with which the core team can then plan the activity, and set in place goals and checkpoints to evaluate progress of the work.
+
+ </div>
