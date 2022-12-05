@@ -1,8 +1,7 @@
 ---
-layout:  single
+layout: single
 title: Requesting RSE support: VESRI teams
 ---
-
 <style>
 div {
   font-size:12.5pt;
