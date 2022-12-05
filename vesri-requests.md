@@ -20,6 +20,7 @@ table {
 }
 </style>
 
+<p style='text-align:justify'>
 
 
 
@@ -39,3 +40,5 @@ the other Schmidt Futures' funded Virtual Institutes of Scientific Software. Suc
 Decisions will be cleared communicated and discussed, including possibility for re-scoping if deemed appropriate.
 
 3. __Requirements gathering__ Once a project is approved to go forward and nearing the time that work can begin, a requirements gathering meeting will be undertaken to collect more details with which the core team can then plan the activity, and set in place goals and checkpoints to evaluate progress of the work.
+  
+</p>
