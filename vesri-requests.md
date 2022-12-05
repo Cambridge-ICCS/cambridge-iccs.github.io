@@ -19,11 +19,9 @@ table {
 }
 </style>
 
+<h2>Workflow to request the support of ICCS for your VESRI work</h2>
+
 <p style='text-align:justify'>
-
-
-
-## Workflow to request the support of ICCS for your VESRI work
 
 1. __Scoping__. If you already have a good idea about what you want doing and the shape
 of this sub-project, then you can go straight to filling in the [the request form](https://docs.google.com/forms/d/e/1FAIpQLSdEZqvd9rLbLPTkDW5vNbGO53c2m4cst-nQ3HDkQ6Nmo1vB7A/viewform?usp=sf_link).
