@@ -1,27 +1,9 @@
 ---
-title: Requesting RSE support: VESRI teams
+title: Requesting RSE support for VESRI teams
 layout: single
 ---
-<style>
-div {
-  font-size:12.5pt;
-  text-align:justify;
-}
-td {
-  font-size:11pt;
-}
-table {
-  width: 110%;
-}
-.page__title {
-  margin-top: 1em;
-  margin-bottom: 0em;
-}
-</style>
 
-<h2>Workflow to request the support of ICCS for your VESRI work</h2>
-
-<p style='text-align:justify'>
+## Workflow to request the support of ICCS for your VESRI work</h2>
 
 1. __Scoping__. If you already have a good idea about what you want doing and the shape
 of this sub-project, then you can go straight to filling in the [the request form](https://docs.google.com/forms/d/e/1FAIpQLSdEZqvd9rLbLPTkDW5vNbGO53c2m4cst-nQ3HDkQ6Nmo1vB7A/viewform?usp=sf_link).
@@ -35,8 +17,6 @@ The Resource Allocation Group (comprising Dominic, Chris, and the Engineering Le
 looking for those that offer the best return on investment. If a task needs skills outside of ICCS, then the Resource Allocation Group will make requests within
 the other Schmidt Futures' funded Virtual Institutes of Scientific Software. Success criteria for the chosen tasks will be combined to monitor the progress of the Core team in general.
 
-Decisions will be cleared communicated and discussed, including possibility for re-scoping if deemed appropriate.
+  Decisions will be cleared communicated and discussed, including possibility for re-scoping if deemed appropriate.
 
 3. __Requirements gathering__ Once a project is approved to go forward and nearing the time that work can begin, a requirements gathering meeting will be undertaken to collect more details with which the core team can then plan the activity, and set in place goals and checkpoints to evaluate progress of the work.
-  
-</p>
