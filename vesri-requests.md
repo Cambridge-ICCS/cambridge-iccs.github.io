@@ -5,7 +5,7 @@ layout: single
 
 1. __Scoping__. If you already have a good idea about what you want doing and the shape
 of this sub-project, then you can go straight to filling in the [the request form](https://docs.google.com/forms/d/e/1FAIpQLSdEZqvd9rLbLPTkDW5vNbGO53c2m4cst-nQ3HDkQ6Nmo1vB7A/viewform?usp=sf_link).
-Otherwise, if you are not sure, or want to brainstorm first, then send us [an e-mail](mailto:request@iccs.cam.ac.uk) and we will organise a time
+Otherwise, if you are not sure, or want to brainstorm first, then send us [an e-mail](mailto:iccs@maths.cam.ac.uk) and we will organise a time
   as soon as possible where we can have a call and fill in the requst form together.
 
 2. __Resource Allocation Group__. The Resource Allocation Group will make monthly decisions on allocation of RSE time to projects.
