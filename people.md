@@ -102,18 +102,20 @@ Paul Richmond
 <div id="container">
 <div class="person">
 <a href="">
-<img src="/assets/images/matt-archer.png" class='portrait'  description="Matt Archer portrait photo" />
-Matt Archer</a>
+<img src="/assets/images/jack-atkinson.jpeg" description="Jack Atkinson portrait photo" />
+Jack Atkinson</a>
 <span class='role'>Research Software Engineer</span>
 </div>
 
 
 <div class="person">
 <a href="">
-<img src="/assets/images/jack-atkinson.jpeg" description="Jack Atkinson portrait photo" />
-Jack Atkinson</a>
+<img src="/assets/images/matt-archer.png" class='portrait'  description="Matt Archer portrait photo" />
+Matt Archer</a>
 <span class='role'>Research Software Engineer</span>
 </div>
+
+
 
 <div class="person">
 <a href="">
