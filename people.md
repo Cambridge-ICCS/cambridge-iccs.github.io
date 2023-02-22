@@ -23,6 +23,7 @@ layout: single
   display: block;
   margin: auto;
   margin-bottom: 2em;
+  max-height: 90px;
 }
 span.role {
   display: block;
@@ -67,6 +68,105 @@ Dominic Orchard</a>
 <img src="/assets/images/marla_fuchs.jpeg" description="Marla Fuchs portrait photo"  />
 Marla Fuchs</a>
 <span class='role'>Executive Programme Director</span>
+</div>
+
+<h3>Early-Career Advanced Fellows</h3>
+
+<div id="container">
+<div class="person">
+<a href="">
+<img src="/assets/images/laura_fuchs.jpeg" description="Laura Cimoli portrait photo"  />
+Laura Cimoli</a>
+</div>
+
+</div>
+
+
+<h3>Research Software Engineers</h3>
+
+<div id="container">
+
+<div class="person">
+<a href="">
+<img src="/assets/images/kacper-kornet.jpeg" description="Kacper Kornet portrait photo" />
+Kacper Kornet
+</a>
+<span class='role'>Senior Research Software Engineer</span>
+</div>
+
+<div class="person">
+<a href="">
+<img src="/assets/images/paul-richmond.jpeg" description="Paul Richmond portrait photo" />
+Paul Richmond
+</a>
+<span class='role'>Senior Research Software Engineer and acting Engineering Lead</span>
+</div>
+
+<br /><br />
+
+<div class="person">
+<a href="">
+<img src="/assets/images/matt-archer.png" class='portrait'  description="Matt Archer portrait photo" />
+Matt Archer
+</a>
+</div>
+
+
+<div class="person">
+<a href="">
+<img src="/assets/images/jack-atkinson.jpeg" description="Jack Atkinson portrait photo" />
+Jack Atkinson
+</a>
+</div>
+
+<div class="person">
+<a href="">
+<img src="/assets/images/simon-clifford.jpeg" description="Simon Clifford portrait photo" />
+Simon Clifford
+</a>
+</div>
+
+<div class="person">
+<a href="">
+<img src="/assets/images/jim-denholm.jpeg" description="Jim Denholm portrait photo" />
+Jim Denholm
+</a>
+</div>
+
+<div class="person">
+<a href="">
+<img src="/assets/images/ben-orchard.jpeg" class='portrait'  description="Ben Orchard portrait photo" />
+Ben Orchard
+</a>
+</div>
+
+
+<div class="person">
+<a href="">
+<img src="/assets/images/alex-smith.png" class='portrait' description="Alex Smith portrait photo" />
+Alex Smith
+</a>
+</div>
+
+
+</div>
+
+<h3>Programme</h3>
+<div id="container">
+<div class="person">
+<a href="">
+<img src="/assets/images/danny-huang.jpeg" description="Danny Huang portrait photo" />
+Danny Huang
+</a>
+<span class='role'>Programming, Communications, and Training Manager</span>
+</div>
+
+<div class="person">
+<a href="">
+<img src="/assets/images/sam-oliver.jpeg" description="Sam Oliver portrait photo" />
+Sam Oliver
+</a>
+<span class='role'>Programme Administrator</span>
 </div>
 
 </div>
