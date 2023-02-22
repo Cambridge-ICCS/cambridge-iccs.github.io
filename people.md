@@ -30,7 +30,7 @@ span.role {
 }
 </style>
 
-<h3>Leadership</h3>
+<!--<h3>Leadership</h3> -->
 <div id="container">
 
 <div class="person">
@@ -71,19 +71,20 @@ Marla Fuchs</a>
 </div>
 </div>
 
-<h3>Early-Career Advanced Fellows</h3>
+<!--<h3>Early-Career Advanced Fellows</h3>-->
 
 <div id="container">
 <div class="person">
 <a href="">
-<img src="/assets/images/laura_fuchs.jpeg" description="Laura Cimoli portrait photo"  />
+<img src="/assets/images/laura-cimoli.png" description="Laura Cimoli portrait photo"  />
 Laura Cimoli</a>
+<span class='role'>Early-Career Advanced Fellow</span>
 </div>
 
 </div>
 
 
-<h3>Research Software Engineers</h3>
+<!-- <h3>Research Software Engineers</h3> -->
 
 <div id="container">
 
@@ -97,18 +98,21 @@ Kacper Kornet
 
 <div class="person">
 <a href="">
-<img src="/assets/images/paul-richmond.jpeg" description="Paul Richmond portrait photo" />
+<img src="/assets/images/paul-richmond.png" description="Paul Richmond portrait photo" />
 Paul Richmond
 </a>
 <span class='role'>Senior Research Software Engineer and acting Engineering Lead</span>
 </div>
+</div>
 
 <br /><br />
 
+<div id="container">
 <div class="person">
 <a href="">
 <img src="/assets/images/matt-archer.png" class='portrait'  description="Matt Archer portrait photo" />
 Matt Archer
+<span class='role'>Research Software Engineer</span>
 </a>
 </div>
 
@@ -117,27 +121,31 @@ Matt Archer
 <a href="">
 <img src="/assets/images/jack-atkinson.jpeg" description="Jack Atkinson portrait photo" />
 Jack Atkinson
+<span class='role'>Research Software Engineer</span>
 </a>
 </div>
 
 <div class="person">
 <a href="">
-<img src="/assets/images/simon-clifford.jpeg" description="Simon Clifford portrait photo" />
+<img src="/assets/images/simon-clifford.jpg" description="Simon Clifford portrait photo" />
 Simon Clifford
+<span class='role'>Research Software Engineer</span>
 </a>
 </div>
 
 <div class="person">
 <a href="">
-<img src="/assets/images/jim-denholm.jpeg" description="Jim Denholm portrait photo" />
+<img src="/assets/images/jim-denholm.png" description="Jim Denholm portrait photo" />
 Jim Denholm
+<span class='role'>Research Software Engineer</span>
 </a>
 </div>
 
 <div class="person">
 <a href="">
-<img src="/assets/images/ben-orchard.jpeg" class='portrait'  description="Ben Orchard portrait photo" />
+<img src="/assets/images/ben-orchard.png" class='portrait'  description="Ben Orchard portrait photo" />
 Ben Orchard
+<span class='role'>Research Software Engineer</span>
 </a>
 </div>
 
@@ -146,13 +154,14 @@ Ben Orchard
 <a href="">
 <img src="/assets/images/alex-smith.png" class='portrait' description="Alex Smith portrait photo" />
 Alex Smith
+<span class='role'>Research Software Engineer</span>
 </a>
 </div>
 
 
 </div>
 
-<h3>Programme</h3>
+<!--<h3>Programme</h3>-->
 <div id="container">
 <div class="person">
 <a href="">
