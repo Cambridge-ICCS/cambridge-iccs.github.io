@@ -23,7 +23,7 @@ layout: single
   display: block;
   margin: auto;
   margin-bottom: 2em;
-  max-height: 90px;
+  max-height: 120px;
 }
 span.role {
   display: block;
