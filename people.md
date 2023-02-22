@@ -69,6 +69,7 @@ Dominic Orchard</a>
 Marla Fuchs</a>
 <span class='role'>Executive Programme Director</span>
 </div>
+</div>
 
 <h3>Early-Career Advanced Fellows</h3>
 
