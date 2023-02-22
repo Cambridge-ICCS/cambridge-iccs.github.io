@@ -5,13 +5,15 @@ layout: single
 <style>
 #container {
   display: flex;
+  margin: 0px;
   }
 .person
 {
  flex: 1;
   float:left;
-  padding: 1.5em;
+  padding: 1em;
   margin-right: 10px;
+  margin-left: 10px;
   margin-top: 10px;
   text-align:center;
   font-size: smaller;
@@ -23,7 +25,7 @@ layout: single
   display: block;
   margin: auto;
   margin-bottom: 2em;
-  max-height: 120px;
+  height: 100px;
 }
 span.role {
   display: block;
