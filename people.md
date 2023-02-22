@@ -10,7 +10,7 @@ layout: single
 {
  flex: 1;
   float:left;
-  padding: 1em;
+  padding: 1.5em;
   margin-right: 10px;
   margin-top: 10px;
   text-align:center;
