@@ -156,7 +156,7 @@ Alex Smith</a>
 <img src="/assets/images/danny-huang.jpeg" description="Danny Huang portrait photo" />
 Danny Huang
 </a>
-<span class='role'>Programming, Communications, and Training Manager</span>
+<span class='role'>Programme, Communications, and Training Manager</span>
 </div>
 
 <div class="person">
