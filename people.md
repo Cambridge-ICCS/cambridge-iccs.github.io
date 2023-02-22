@@ -105,8 +105,6 @@ Paul Richmond
 </div>
 </div>
 
-<br /><br />
-
 <div id="container">
 <div class="person">
 <a href="">
