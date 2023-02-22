@@ -111,51 +111,45 @@ Paul Richmond
 <div class="person">
 <a href="">
 <img src="/assets/images/matt-archer.png" class='portrait'  description="Matt Archer portrait photo" />
-Matt Archer
+Matt Archer</a>
 <span class='role'>Research Software Engineer</span>
-</a>
 </div>
 
 
 <div class="person">
 <a href="">
 <img src="/assets/images/jack-atkinson.jpeg" description="Jack Atkinson portrait photo" />
-Jack Atkinson
+Jack Atkinson</a>
 <span class='role'>Research Software Engineer</span>
-</a>
 </div>
 
 <div class="person">
 <a href="">
 <img src="/assets/images/simon-clifford.jpg" description="Simon Clifford portrait photo" />
-Simon Clifford
+Simon Clifford</a>
 <span class='role'>Research Software Engineer</span>
-</a>
 </div>
 
 <div class="person">
 <a href="">
 <img src="/assets/images/jim-denholm.png" description="Jim Denholm portrait photo" />
-Jim Denholm
+Jim Denholm</a>
 <span class='role'>Research Software Engineer</span>
-</a>
 </div>
 
 <div class="person">
 <a href="">
 <img src="/assets/images/ben-orchard.png" class='portrait'  description="Ben Orchard portrait photo" />
-Ben Orchard
+Ben Orchard</a>
 <span class='role'>Research Software Engineer</span>
-</a>
 </div>
 
 
 <div class="person">
 <a href="">
 <img src="/assets/images/alex-smith.png" class='portrait' description="Alex Smith portrait photo" />
-Alex Smith
+Alex Smith</a>
 <span class='role'>Research Software Engineer</span>
-</a>
 </div>
 
 
@@ -173,7 +167,7 @@ Danny Huang
 
 <div class="person">
 <a href="">
-<img src="/assets/images/sam-oliver.jpeg" description="Sam Oliver portrait photo" />
+<img src="/assets/images/sam-oliver.png" description="Sam Oliver portrait photo" />
 Sam Oliver
 </a>
 <span class='role'>Programme Administrator</span>
