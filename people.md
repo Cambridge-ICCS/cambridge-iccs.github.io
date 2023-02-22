@@ -13,7 +13,6 @@ layout: single
   float:left;
   padding: 1em;
   margin-right: 10px;
-  margin-left: 10px;
   margin-top: 10px;
   text-align:center;
   font-size: smaller;
@@ -82,13 +81,6 @@ Marla Fuchs</a>
 Laura Cimoli</a>
 <span class='role'>Early-Career Advanced Fellow</span>
 </div>
-
-</div>
-
-
-<!-- <h3>Research Software Engineers</h3> -->
-
-<div id="container">
 
 <div class="person">
 <a href="">
