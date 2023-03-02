@@ -11,7 +11,7 @@ Otherwise, if you are not sure, or want to brainstorm first, then send us [an e-
 2. __Resource Allocation Group__. The Resource Allocation Group will make monthly decisions on allocation of RSE time to projects.
 Consideration will be given to the overall scientific impact of the work, the fair split of resources amongst VESRI teams,
 and whether this feeds into work that will benefit other VESRI teams or wider community projects.
-The Resource Allocation Group (comprising Dominic, Chris, and the Engineering Lead) will rely on transparency and common purpose in selecting tasks, 
+The Resource Allocation Group (comprising Dominic, Chris, and Paul) will rely on transparency and common purpose in selecting tasks, 
 looking for those that offer the best return on investment. Decisions will be clearly communicated and discussed with the project originator, including possibility for re-scoping if deemed appropriate.
 
 3. __Requirements gathering__. Once a project is approved to go forward and nearing the time that work can begin, a requirements gathering meeting will be undertaken to collect more details with which the core team can then plan the activity, and set in place goals and checkpoints to evaluate progress of the work.
