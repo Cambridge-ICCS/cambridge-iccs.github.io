@@ -83,6 +83,14 @@ Laura Cimoli</a>
 </div>
 
 <div class="person">
+<a href="https://henrymoss.github.io/">
+<img src="/assets/images/henry-moss.jpeg" description="Henry Moss portrait photo"  />
+Henry Moss</a>
+<span class='role'>Early-Career Advanced Fellow</span>
+</div>
+
+
+<div class="person">
 <a href="">
 <img src="/assets/images/kacper-kornet.jpeg" description="Kacper Kornet portrait photo" />
 Kacper Kornet
