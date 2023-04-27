@@ -12,6 +12,8 @@ header:
       url: "/jobs.html"
     - label: "Subscribe to our mailing list"
       url: "https://lists.cam.ac.uk/sympa/subscribe/iccs-computing-for-climate-science?previous_action=info"
+    - label: "Request RSE Collaboration"
+      url: "/vesri-requests.html"
 # sidebar:
 
 ---
