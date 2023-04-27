@@ -36,7 +36,7 @@ In addition to the “_regular call_” for collaboration requests there is an a
 It is anticipated that requests for projects will exceed the capacity of the ICCS team and as such our assessment process and resource allocation acts to ensure that the highest quality applications are supported whilst also balancing the need to provide equitable opportunity for all VESRIs centres.
 
 
-![Resource Allocation Process - Process Diagram](/assets/RAPProcessDiagram.png)
+![Resource Allocation Process - Process Diagram](/assets/images/RAPProcessDiagram.png)
 
 
 
