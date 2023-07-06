@@ -40,7 +40,7 @@ the last few minutes of that presentation.
 Prerequisite for hands-on lab: Basic understanding of the C programming
 language.
 
-# Introduction to Machine Learning with Pytorch
+## Introduction to Machine Learning with Pytorch
 
 #### Pre-reading
 
