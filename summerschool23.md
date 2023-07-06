@@ -10,7 +10,7 @@ border-color: rgb(140,140,140);
 background: rgb(245,245,245);
 padding:20px;
 margin:20px;
-margin-right: 35vw;
+margin-right: calv(35vw - 20px);
 }
 div {
   font-size:12.5pt;
