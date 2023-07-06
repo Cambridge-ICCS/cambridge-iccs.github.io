@@ -25,6 +25,8 @@ div {
 </ul>
 </div>
 
+## [Programme](https://iccs.cam.ac.uk/system/files/iccs_summer_school_2023_programme.pdf)
+
 ## Using GitHub effectively for collaborative development
 
 #### Pre-reading
