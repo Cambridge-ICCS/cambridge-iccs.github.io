@@ -1,5 +1,5 @@
 ---
-layout:  single
+layout:  blank
 title: ICCS Summer School 2023 - Resources and pre-reading
 ---
 
