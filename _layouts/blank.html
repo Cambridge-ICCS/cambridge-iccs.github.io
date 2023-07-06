@@ -15,8 +15,8 @@
 
     <style>
       #logo_extra {
-	  float:right;
-	  clear:both;
+	  display:block;
+	  margin-left:auto;
       }
       #logo_extra img {
 	  width: 35vw;
@@ -32,7 +32,13 @@
 	<article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
 	      {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
 
-	<div class="page__inner-wrap">
+	      <div class="page__inner-wrap">
+        <header>
+          {% if page.title %}<h1 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="{{ page.url | absolute_url }}" class="u-url" itemprop="url">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
+          </h1>{% endif %}
+          {% include page__meta.html %}
+        </header>
             <section class="page__content e-content" itemprop="text">
 
 	      <div id='logo_extra'>
