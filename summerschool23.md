@@ -1,6 +1,6 @@
 ---
 layout:  single
-title: Institute of Computing for Climate Science Summer School 2023 - Resources
+title: ICCS Summer School 2023 - Resources and pre-reading
 ---
 
 <style>
@@ -25,9 +25,9 @@ div {
 </ul>
 </div>
 
-# Pre-reading
+# Using GitHub effectively for collaborative development
 
-## Using GitHub effectively for collaborative development
+### Pre-reading
 
 [Using Git and GitHub effectively](https://www.youtube.com/watch?v=ZrwzK4CnJ3Q)
 
@@ -35,12 +35,14 @@ This covers the theory behind using Git as presented at the ICCS
 summer school last year. The session this year will greatly expand on
 the last few minutes of that presentation.
 
-## Introduction to GPU Programming
+# Introduction to GPU Programming
 
 Prerequisite for hands-on lab: Basic understanding of the C programming
 language.
 
-## Introduction to Machine Learning with Pytorch
+# Introduction to Machine Learning with Pytorch
+
+### Pre-reading
 
 To make the most of the session we expect participants to arrive with a
 (minimal) base-level understanding of machine learning concepts. In
@@ -50,14 +52,14 @@ and python abilities.
 [Details of these can be found on the workshop GitHub repository, along
 with resources.](https://github.com/Cambridge-ICCS/ml-training-material)
 
-## Hackathon
+# Hackathon
+
+### Pre-reading
 
 Watch this [introduction
 video](https://www.youtube.com/watch?v=RAKttoCPXws) to find out more!
 If you would like to suggest a project idea, please use the [team
 hackathon ideas/pitches form](https://docs.google.com/forms/d/e/1FAIpQLSe-OU8L8i6UXvFmfFXVCzFa71meOMYG-OuM_EwQgGVL0WELGQ/viewform?usp=sf_link) to propose your project idea.
-
-# Resources
 
  <script>
 function convert(t) {
