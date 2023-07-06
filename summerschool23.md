@@ -28,6 +28,8 @@ div {
 
 ## [Programme](https://iccs.cam.ac.uk/system/files/iccs_summer_school_2023_programme.pdf)
 
+## [Handbook](https://iccs.cam.ac.uk/system/files/participant_handbook_online_version_05-07-2023.pdf)
+
 ## Using GitHub effectively for collaborative development
 
 #### Pre-reading
