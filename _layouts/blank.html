@@ -20,6 +20,8 @@
       }
       #logo_extra img {
 	  width: 35vw;
+	  display:block;
+	  margin-left:auto;
       }
     </style>
   </head>
@@ -33,6 +35,10 @@
 	      {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
 
 	      <div class="page__inner-wrap">
+	       <div id='logo_extra'>
+	  	  <a href="https://iccs.cam.ac.uk/"><img src='assets/images/iccs-logo.png' /></a>
+	       </div>
+
         <header>
           {% if page.title %}<h1 id="page-title" class="page__title p-name" itemprop="headline">
             <a href="{{ page.url | absolute_url }}" class="u-url" itemprop="url">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
@@ -40,12 +46,6 @@
           {% include page__meta.html %}
         </header>
             <section class="page__content e-content" itemprop="text">
-
-	      <div id='logo_extra'>
-		<a href="https://iccs.cam.ac.uk/"><img src='assets/images/iccs-logo.png' /></a>
-	      </div>
-
-
 	      {{ content }}
 	    </section>
 	</div>
