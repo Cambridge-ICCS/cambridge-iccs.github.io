@@ -30,6 +30,11 @@ div {
 
 ## [Handbook](https://iccs.cam.ac.uk/system/files/participant_handbook_online_version_05-07-2023.pdf)
 
+## ICCS RSE Open Office Hours
+
+Through the summer school, attendees can [book a session](https://docs.google.com/spreadsheets/d/1WKZxp3nqpXrIRMRkfFzc71sos-UD-Uy1zeab0c1p7Xc/edit?usp=sharing) with one of the ICCS RSEs
+for advice or to discuss ongoing projects.
+
 ## Using GitHub effectively for collaborative development
 
 #### Pre-reading
@@ -56,11 +61,6 @@ and python abilities.
 
 [Details of these can be found on the workshop GitHub repository, along
 with resources.](https://github.com/Cambridge-ICCS/ml-training-material)
-
-## ICCS RSE Open Office Hours
-
-Through the summer school, attendees can [book a session](https://docs.google.com/spreadsheets/d/1WKZxp3nqpXrIRMRkfFzc71sos-UD-Uy1zeab0c1p7Xc/edit?usp=sharing) with one of the ICCS RSEs
-for advice or to discuss ongoing projects.
 
 ## Hackathon
 
