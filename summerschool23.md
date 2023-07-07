@@ -57,6 +57,11 @@ and python abilities.
 [Details of these can be found on the workshop GitHub repository, along
 with resources.](https://github.com/Cambridge-ICCS/ml-training-material)
 
+## ICCS RSE Open Office Hours
+
+Through the summer school, attendees can [book a session](https://docs.google.com/spreadsheets/d/1WKZxp3nqpXrIRMRkfFzc71sos-UD-Uy1zeab0c1p7Xc/edit?usp=sharing) with one of the ICCS RSEs
+for advice or to discuss ongoing projects.
+
 ## Hackathon
 
 #### Pre-reading
@@ -65,12 +70,6 @@ Watch this [introduction
 video](https://www.youtube.com/watch?v=RAKttoCPXws) to find out more!
 If you would like to suggest a project idea, please use the [team
 hackathon ideas/pitches form](https://docs.google.com/forms/d/e/1FAIpQLSe-OU8L8i6UXvFmfFXVCzFa71meOMYG-OuM_EwQgGVL0WELGQ/viewform?usp=sf_link) to propose your project idea.
-
-## ICCS RSE Open Office Hours
-
-Through the summer school, attendees can [book a session](https://docs.google.com/spreadsheets/d/1WKZxp3nqpXrIRMRkfFzc71sos-UD-Uy1zeab0c1p7Xc/edit?usp=sharing) with one of the ICCS RSEs
-for advice or to discuss ongoing projects.
-
 
  <script>
 function convert(t) {
