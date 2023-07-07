@@ -39,9 +39,10 @@ for advice or to discuss ongoing projects.
 
 #### Pre-reading
 
-[Using Git and GitHub effectively](https://www.youtube.com/watch?v=ZrwzK4CnJ3Q)
+Requisites: some familiarity with Git. 
 
-This covers the theory behind using Git as presented at the ICCS
+[Last years training](https://www.youtube.com/watch?v=ZrwzK4CnJ3Q)
+covers the theory behind using Git as presented at the ICCS
 summer school last year. The session this year will greatly expand on
 the last few minutes of that presentation.
 
