@@ -41,7 +41,7 @@ for advice or to discuss ongoing projects.
 
 Requisites: some familiarity with Git. 
 
-[Last years training](https://www.youtube.com/watch?v=ZrwzK4CnJ3Q)
+[Last years' training](https://www.youtube.com/watch?v=ZrwzK4CnJ3Q)
 covers the theory behind using Git as presented at the ICCS
 summer school last year. The session this year will greatly expand on
 the last few minutes of that presentation.
