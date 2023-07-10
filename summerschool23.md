@@ -46,7 +46,7 @@ covers the theory behind using Git as presented at the ICCS
 summer school last year. The session this year will greatly expand on
 the last few minutes of that presentation.
 
-*[Worksheet](https://docs.google.com/document/d/1gB2h9SNn5ZnAlvUE7mfG1lUDUUQmFyPYHiTyxIFJsKM/)*
+#### [Worksheet](https://docs.google.com/document/d/1gB2h9SNn5ZnAlvUE7mfG1lUDUUQmFyPYHiTyxIFJsKM/)
 
 ## Introduction to GPU Programming
 
