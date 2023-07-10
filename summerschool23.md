@@ -50,6 +50,7 @@ the last few minutes of that presentation.
 
 * [Example repository](https://github.com/Cambridge-ICCS/ss23-git)
 * [Worksheet](https://docs.google.com/document/d/1gB2h9SNn5ZnAlvUE7mfG1lUDUUQmFyPYHiTyxIFJsKM/)
+* There was a mention of [choosealicense.com](https://choosealicense.com/) for information on software licenses.
 
 ## Introduction to GPU Programming
 
