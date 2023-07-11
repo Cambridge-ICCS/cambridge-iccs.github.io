@@ -62,12 +62,25 @@ language.
 #### Pre-reading
 
 To make the most of the session we expect participants to arrive with a
-(minimal) base-level understanding of machine learning concepts. In
-addition to this we will also assume knowledge of some basic mathematics
+(minimal) base-level understanding of machine learning concepts.
+In addition to this we will also assume knowledge of some basic mathematics
 and python abilities.
 
-[Details of these can be found on the workshop GitHub repository, along
-with resources.](https://github.com/Cambridge-ICCS/ml-training-material)
+Details of these can be
+[found on the workshop GitHub repository](https://github.com/Cambridge-ICCS/ml-training-material).
+
+#### Slides
+
+The slides for the course can be found at the following locations:
+
+- [Teaching](https://cambridge-iccs.github.io/slides/ml-training/slides.html)
+- [Applications](https://cambridge-iccs.github.io/slides/ml-training/applications.html)
+
+#### Teaching material
+
+The teaching material (including exercises as jupyter notebooks) can be
+[found on the workshop GitHub repository](https://github.com/Cambridge-ICCS/ml-training-material)
+alongside installation instructions.
 
 ## Hackathon
 
