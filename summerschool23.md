@@ -56,8 +56,12 @@ the last few minutes of that presentation.
 
 A few resources that were mentioned during the panel:
 
-* [Understanding Equity, Diversity and Inclusion Challenges Within the Research Software Community, Chue Hong, N.P., Cohen, J., Jay, C. (2021)](https://link.springer.com/chapter/10.1007/978-3-030-77980-1_30)
-* [N8CIR Recruitment Diversity Checklist](https://n8cir.org.uk/news/diversity-checklist/)
+* Regarding promoting diversity:
+     * [Understanding Equity, Diversity and Inclusion Challenges Within the Research Software Community, Chue Hong, N.P., Cohen, J., Jay, C. (2021)](https://link.springer.com/chapter/10.1007/978-3-030-77980-1_30)
+     * [N8CIR Recruitment Diversity Checklist](https://n8cir.org.uk/news/diversity-checklist/)
+
+* Regarding reviewing of code in peer review context:
+     * [ACM Artifact Review and Badging](https://www.acm.org/publications/policies/artifact-review-and-badging-current)
 
 ## Introduction to GPU Programming
 
