@@ -69,9 +69,11 @@ Prerequisite for hands-on lab: Basic understanding of the C programming
 language.
  * Some knowledge of C programming
 
-[Slides - Architectures Overview](https://drive.google.com/open?id=1-LoFELBaGN3bdgl8iids6EjicgEv841M&usp=drive_fs)
-[Slides - Introduction to CUDA](https://drive.google.com/open?id=1-lRkvx8XpASl1pVN5MvXxFYN1g_blOYi&usp=drive_fs)
-[InstanceHub.com](https://www.instancehub.com/)
+#### Resources
+
+* [Slides - Architectures Overview](https://drive.google.com/open?id=1-LoFELBaGN3bdgl8iids6EjicgEv841M&usp=drive_fs)
+* [Slides - Introduction to CUDA](https://drive.google.com/open?id=1-lRkvx8XpASl1pVN5MvXxFYN1g_blOYi&usp=drive_fs)
+* [InstanceHub.com](https://www.instancehub.com/)
 
 ## Introduction to Machine Learning with Pytorch
 
