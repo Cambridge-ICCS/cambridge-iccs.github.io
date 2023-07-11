@@ -52,6 +52,13 @@ the last few minutes of that presentation.
 * [Worksheet](https://docs.google.com/document/d/1gB2h9SNn5ZnAlvUE7mfG1lUDUUQmFyPYHiTyxIFJsKM/)
 * There was a mention of [choosealicense.com](https://choosealicense.com/) for information on software licenses.
 
+## Panel on the importance of software engineering goodpractices in climate science
+
+A few resources that were mentioned during the panel:
+
+* [Understanding Equity, Diversity and Inclusion Challenges Within the Research Software Community, Chue Hong, N.P., Cohen, J., Jay, C. (2021)](https://link.springer.com/chapter/10.1007/978-3-030-77980-1_30)
+* [N8CIR Recruitment Diversity Checklist](https://n8cir.org.uk/news/diversity-checklist/)
+
 ## Introduction to GPU Programming
 
 Prerequisite for hands-on lab: Basic understanding of the C programming
