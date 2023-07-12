@@ -102,7 +102,7 @@ The teaching material (including exercises as jupyter notebooks) can be
 [found on the workshop GitHub repository](https://github.com/Cambridge-ICCS/ml-training-material)
 alongside installation instructions.
 
-## Probabilistic Machine Learning: From Bayesian Linear Regression to Gaussian Processes
+## Probabilistic Machine Learning - From Bayesian Linear Regression to Gaussian Processes
 
 Setup instructions for the second session:
 
