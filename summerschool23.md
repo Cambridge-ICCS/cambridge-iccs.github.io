@@ -74,7 +74,7 @@ Details of these can be
 The slides for the course can be found at the following locations:
 
 - [Teaching](https://cambridge-iccs.github.io/slides/ml-training/slides.html)
-- [Applications](https://cambridge-iccs.github.io/slides/ml-training/applications.html)
+<!-- - [Applications](https://cambridge-iccs.github.io/slides/ml-training/applications.html) -->
 
 #### Teaching material
 
