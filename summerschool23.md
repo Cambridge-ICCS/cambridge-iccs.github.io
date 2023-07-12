@@ -102,6 +102,23 @@ The teaching material (including exercises as jupyter notebooks) can be
 [found on the workshop GitHub repository](https://github.com/Cambridge-ICCS/ml-training-material)
 alongside installation instructions.
 
+## Probabilistic Machine Learning: From Bayesian Linear Regression to Gaussian Processes
+
+Setup instructions for the second session:
+
+```
+# local instructions
+git clone https://github.com/JaxGaussianProcesses/GPJax
+cd GPJax
+python -m venv venv
+source venv/bin/activate
+pip install poetry jupyterlab
+poetry install --with docs
+jupytext --to notebook docs/examples/*.py
+cd docs/examples
+jupyter notebook
+```
+
 ## Hackathon
 
 #### Pre-reading
