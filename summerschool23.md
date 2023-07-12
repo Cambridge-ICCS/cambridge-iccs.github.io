@@ -104,7 +104,13 @@ alongside installation instructions.
 
 ## Probabilistic Machine Learning - From Bayesian Linear Regression to Gaussian Processes
 
-Setup instructions for the second session:
+Colab notebooks:
+* [https://githubtocolab.com/Cambridge-ICCS/GPJax/blob/sumschool-setup/docs/examples/intro_to_gps.ipynb](https://githubtocolab.com/Cambridge-ICCS/GPJax/blob/sumschool-setup/docs/examples/intro_to_gps.ipynb)
+* [https://githubtocolab.com/Cambridge-ICCS/GPJax/blob/sumschool-setup/docs/examples/regression.ipynb](https://githubtocolab.com/Cambridge-ICCS/GPJax/blob/sumschool-setup/docs/examples/regression.ipynb)
+* [https://githubtocolab.com/Cambridge-ICCS/GPJax/blob/sumschool-setup/docs/examples/intro_to_kernels.ipynb](https://githubtocolab.com/Cambridge-ICCS/GPJax/blob/sumschool-setup/docs/examples/intro_to_kernels.ipynb)
+* [https://githubtocolab.com/Cambridge-ICCS/GPJax/blob/sumschool-setup/docs/examples/spatial.ipynb](https://githubtocolab.com/Cambridge-ICCS/GPJax/blob/sumschool-setup/docs/examples/spatial.ipynb)
+
+Or setup locally:
 
 ```
 # local instructions
