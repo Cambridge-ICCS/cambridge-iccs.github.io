@@ -35,6 +35,19 @@ div {
 Through the summer school, attendees can [book a session](https://docs.google.com/spreadsheets/d/1WKZxp3nqpXrIRMRkfFzc71sos-UD-Uy1zeab0c1p7Xc/edit?usp=sharing) with one of the ICCS RSEs
 for advice or to discuss ongoing projects.
 
+## Hackathon
+
+#### Pre-reading
+
+Watch this [introduction
+video](https://www.youtube.com/watch?v=RAKttoCPXws) to find out more!
+If you would like to suggest a project idea, please use the [team
+hackathon ideas/pitches form](https://docs.google.com/forms/d/e/1FAIpQLSe-OU8L8i6UXvFmfFXVCzFa71meOMYG-OuM_EwQgGVL0WELGQ/viewform?usp=sf_link) to propose your project idea.
+
+#### [Hackathon sign-up](https://docs.google.com/spreadsheets/d/1--2aT8WMuOQUqtDiMkpp3aPoIFGD96hQ19VNNeFlL-g/edit#gid=0)
+
+
+
 ## Using GitHub effectively for collaborative development
 
 #### Pre-reading
@@ -127,16 +140,9 @@ cd docs/examples
 jupyter notebook
 ```
 
-## Hackathon
+## Introduction to Hugging Face
 
-#### Pre-reading
-
-Watch this [introduction
-video](https://www.youtube.com/watch?v=RAKttoCPXws) to find out more!
-If you would like to suggest a project idea, please use the [team
-hackathon ideas/pitches form](https://docs.google.com/forms/d/e/1FAIpQLSe-OU8L8i6UXvFmfFXVCzFa71meOMYG-OuM_EwQgGVL0WELGQ/viewform?usp=sf_link) to propose your project idea.
-
-#### [Hackathon sign-up](https://docs.google.com/spreadsheets/d/1--2aT8WMuOQUqtDiMkpp3aPoIFGD96hQ19VNNeFlL-g/edit#gid=0)
+[Worksheet](https://docs.google.com/document/d/1z1VTTXbsfaaaASG6nEs7WVvSCHabg6-9waApE0hPGs4/edit)
 
  <script>
 function convert(t) {
