@@ -73,9 +73,11 @@ language.
 
 * [Slides - Architectures Overview](https://drive.google.com/open?id=1-LoFELBaGN3bdgl8iids6EjicgEv841M&usp=drive_fs)
 * [Slides - Introduction to CUDA](https://drive.google.com/open?id=1-lRkvx8XpASl1pVN5MvXxFYN1g_blOYi&usp=drive_fs)
+* [Slides - Optimisation](https://drive.google.com/open?id=101ZF26FNlt6IxoKAqKIfgVr9D6Xvq4LR&usp=drive_fs)
 * [InstanceHub.com](https://www.instancehub.com/)
 * [CUDA Hello World](https://www.instancehub.com/labs/1/)
 * [CUDA Lab One](https://www.instancehub.com/labs/2/)
+* [CUDA Lab Two](https://www.instancehub.com/labs/3/)
 
 ## Introduction to Machine Learning with Pytorch
 
