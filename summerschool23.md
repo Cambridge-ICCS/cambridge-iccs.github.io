@@ -136,6 +136,8 @@ video](https://www.youtube.com/watch?v=RAKttoCPXws) to find out more!
 If you would like to suggest a project idea, please use the [team
 hackathon ideas/pitches form](https://docs.google.com/forms/d/e/1FAIpQLSe-OU8L8i6UXvFmfFXVCzFa71meOMYG-OuM_EwQgGVL0WELGQ/viewform?usp=sf_link) to propose your project idea.
 
+#### [Hackathon sign-up](https://docs.google.com/spreadsheets/d/1--2aT8WMuOQUqtDiMkpp3aPoIFGD96hQ19VNNeFlL-g/edit#gid=0)
+
  <script>
 function convert(t) {
  return t.split(" ").map(function (x) { return x.toLowerCase(); }).join("-");
