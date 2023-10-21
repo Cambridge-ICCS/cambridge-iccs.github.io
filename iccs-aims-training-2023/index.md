@@ -3,11 +3,12 @@ layout:  single
 title: ICCS training day at African Institute for Mathematical Sciences (AIMS), Kigali, Rwanda
 ---
 
-This page contains material from the training day provided by ICCS at [AIMS Rwanda, Kigali](https://aims.ac.rw/),
+This page contains material from the training day provided by the [Institute of Computing for Climate Science](https://iccs.cam.ac.uk) at [AIMS Rwanda, Kigali](https://aims.ac.rw/),
 21st October 2023, co-located with the [World Climate Research Programme, Open Science Conference](https://wcrp-osc2023.org/).
 
 * Introduction - (Marla Fuchs, Dominic Orchard)
   - [Slides](wm02-iccs-wcrp-training-intro.pdf)
+  - [ICCS YouTube channel](https://www.youtube.com/@instituteofcomputingforcli3982), contains further training resources and scientific talks.
 
 * Session 1: Using Git and GitHub Effectively (Tom Meltzer)
   - [Short summary notes of commands seen](short-notes-git.html)
@@ -19,4 +20,3 @@ This page contains material from the training day provided by ICCS at [AIMS Rwan
   - Extra code on [how to do overloading in Fortran](https://gist.github.com/dorchard/3cc13fe75d6d109cb75ec11d41ddc104)
 
 * Session 3: Introduction to GPU programming (Paul Richmond)
-  -
