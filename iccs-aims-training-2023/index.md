@@ -11,6 +11,7 @@ This page contains material from the training day provided by the [Institute of 
   - [ICCS YouTube channel](https://www.youtube.com/@instituteofcomputingforcli3982), contains further training resources and scientific talks.
 
 * Session 1: Using Git and GitHub Effectively (Tom Meltzer)
+  - [slides](https://zenodo.org/records/10034289)
   - [Short summary notes of commands seen](short-notes-git.html)
 
 * Session 2: Using types of rule out bugs: Python vs Fortran perspective (Dominic Orchard)
