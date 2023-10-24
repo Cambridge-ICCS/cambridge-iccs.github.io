@@ -7,7 +7,7 @@ This page contains material from the training day provided by the [Institute of 
 21st October 2023, co-located with the [World Climate Research Programme, Open Science Conference](https://wcrp-osc2023.org/).
 
 * Introduction - (Marla Fuchs, Dominic Orchard)
-  - [Slides](wm02-iccs-wcrp-training-intro.pdf)
+  - [Slides](https://drive.google.com/file/d/18XctNDypALrgl14pKNbz-FOC7IhePgKJ/view?usp=sharing)
   - [ICCS YouTube channel](https://www.youtube.com/@instituteofcomputingforcli3982), contains further training resources and scientific talks.
 
 * Session 1: Using Git and GitHub Effectively (Tom Meltzer)
@@ -15,7 +15,7 @@ This page contains material from the training day provided by the [Institute of 
   - [Short summary notes of commands seen](short-notes-git.html)
 
 * Session 2: Using types of rule out bugs: Python vs Fortran perspective (Dominic Orchard)
-  - [Slides](wm02-types-lecture.pdf)
+  - [Slides](https://drive.google.com/file/d/1tuXnrbbND_cHmE5xpgIJ6u--CUaCiX2J/view?usp=drive_link)
   - [Python example code](typesTutorial/typesTutorial.py)
   - [Fortran example code](typesTutorial/typesTutorial.f90)
   - Extra code on [how to do overloading in Fortran](https://gist.github.com/dorchard/3cc13fe75d6d109cb75ec11d41ddc104)
