@@ -17,16 +17,22 @@ div {
 body {
   background: #eee;
 }
+h1 {
+  margin-top:3em;
+  color: #444; 
+}
 </style>
+
+<br style='height:1em'  />
 
 This page contains material from the training day provided by the [Institute of Computing for Climate Science](https://iccs.cam.ac.uk) at [AIMS Rwanda, Kigali](https://aims.ac.rw/),
 21st October 2023, co-located with the [World Climate Research Programme, Open Science Conference](https://wcrp-osc2023.org/).
 
-<br />
+<br style='height:1em' />
 
 If you have any questions, please e-mail <a href="mailto:iccs@maths.cam.ac.uk">iccs@maths.cam.ac.uk</a>.
 
-<br />
+<br style='height:1em'  />
 
 * __Introduction__ (Marla Fuchs, Dominic Orchard)
   - [Slides](https://drive.google.com/file/d/18XctNDypALrgl14pKNbz-FOC7IhePgKJ/view?usp=sharing)
