@@ -24,12 +24,16 @@ This page contains material from the training day provided by the [Institute of 
 
 <br />
 
+If you have any questions, please e-mail <a href="mailto:iccs@maths.cam.ac.uk">iccs@maths.cam.ac.uk</a>.
+
+<br />
+
 * __Introduction__ (Marla Fuchs, Dominic Orchard)
   - [Slides](https://drive.google.com/file/d/18XctNDypALrgl14pKNbz-FOC7IhePgKJ/view?usp=sharing)
   - [ICCS YouTube channel](https://www.youtube.com/@instituteofcomputingforcli3982), contains further training resources and scientific talks.
 
 * __Session 1: Using Git and GitHub Effectively__ (Tom Meltzer)
-  - [slides](https://zenodo.org/records/10034289)
+  - [Slides](https://zenodo.org/records/10034289)
   - [Short summary notes of commands seen](short-notes-git.html)
 
 * __Session 2: Using types of rule out bugs: Python vs Fortran perspective__ (Dominic Orchard)
