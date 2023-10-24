@@ -21,3 +21,8 @@ This page contains material from the training day provided by the [Institute of 
   - Extra code on [how to do overloading in Fortran](https://gist.github.com/dorchard/3cc13fe75d6d109cb75ec11d41ddc104)
 
 * Session 3: Introduction to GPU programming (Paul Richmond)
+   - [Sides](https://drive.google.com/file/d/10RAsyQpuhgy-OSSRkkwxWS2WQ_c4vS5E/view?usp=sharing)
+   - [Hello World Exercise on GitHub](https://github.com/Cambridge-ICCS/CUDAHelloWorld) (you will need access to an NVIDIa GPU)
+   - [Hello World Exercise on InstanceHub](https://www.instancehub.com/labs/5/) (you will need lab credits, ask Paul for additional credits)
+   - [Main Exercises on GitHub](https://github.com/Cambridge-ICCS/CUDAHelloWorld) (you will need access to an NVIDIA GPU)
+   - [Main Exercise on InstanceHub](https://www.instancehub.com/labs/6/) (you will need lab credits, ask Paul for additional credits)
