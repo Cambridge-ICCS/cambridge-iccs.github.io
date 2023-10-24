@@ -3,6 +3,16 @@ layout:  single
 title: ICCS training day at African Institute for Mathematical Sciences (AIMS), Kigali, Rwanda
 ---
 
+<style>
+div {
+  font-size:12.5pt;
+  text-align:justify;
+  }
+.article {
+  width:80%;
+}
+</style>
+
 This page contains material from the training day provided by the [Institute of Computing for Climate Science](https://iccs.cam.ac.uk) at [AIMS Rwanda, Kigali](https://aims.ac.rw/),
 21st October 2023, co-located with the [World Climate Research Programme, Open Science Conference](https://wcrp-osc2023.org/).
 

@@ -62,7 +62,7 @@ span.hack {
 
 <style>
 div {
-  font-size:13.5pt;
+  font-size:12.5pt;
   text-align:justify;
 }
 </style>
