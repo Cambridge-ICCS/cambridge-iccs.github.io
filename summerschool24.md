@@ -109,8 +109,10 @@ Transposrt from CMS will depart at 17:15.
 | 13:30  | 15:00 | Profiling and performacne | Introduction to Comptuational Science in Julia |
 | 15:00  | 15:30 | <td colspan=2><span class='social'>Break - tea, coffee</span></td> |
 | 15:30  | 16:00 | Proifiling and performance testing (lab) | Introduction to Comptuational Science in Jula (lab) |
-| 16:00 | 17:00 | <td colspan=2><b>Closing Keynote</b> - Evelina Gabasova | ussex College](https://www.google.com/maps/place/Sidney+Sussex+College/@52.2074334,0.1207903,17z/data=!3m1!4b1!4m5!3m4!1s0x47d870bdf88751d3:0x5e4958736f1c8744!8m2!3d52.2074334!4d0.1207903?hl=en) </span> |
+| 16:00 | 17:00 | <td colspan=2><b>Closing Keynote</b> - Evelina Gabasova
 
+
+Cambridge Wine Merchants and cheese and wine tasting session - 15 min short intro to wines and then wines and nibbles
 
 <script>
       //
