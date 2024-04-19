@@ -58,8 +58,6 @@ span.hack {
 }
 </style>
 
-{% include summerschool-head.html %}
-
 <style>
 div {
   font-size:12.5pt;
@@ -85,13 +83,13 @@ Aromi Pizza and beer from 17:30; board games + Lego
 
 |  Start | End  | Track 1   | Track 2 |
 | ------ | ----- | ------- |
-| 08:30  | 09:00 | <td colspan=2><span class='social'>Coffee, tea, and fruit</td></span> |
+| 08:30  | 09:00 | span class='social'>Coffee, tea, and fruit</span> |
 | 09:00  | 10:30 | Introduction to climate and weather modelling | Explainable data science with the Fluid language |
-| 10:30  | 11:00 | <td colspan=2><span class='social'>Break - tea, coffee, pastries</span></td> |
+| 10:30  | 11:00 | <span class='social'>Break - tea, coffee, pastries</span> |
 | 11:00  | 12:00 | Intorduction to climate and weather modelling | What can abstract mathematics tell us about programming climate models? |
-| 12:00  | 13:30 |  <td colspan=2><span class='social'>Lunch - Church College</span></td> |
+| 12:00  | 13:30 | <span class='social'>Lunch - Church College</span> |
 | 13:30  | 15:00 | OpenMP for GPUs | Research Sofware Engineering with Python |
-| 15:00  | 15:30 | <td colspan=2><span class='social'>Break - tea, coffee</span></td> |
+| 15:00  | 15:30 | <span class='social'>Break - tea, coffee</span> |
 | 15:30  | 17:00 | OpenMP for GPUS (lab) | Typing Python with mypy |
 
 Pre-dinner drinks reception and dinner at Madingley Hall.
@@ -101,15 +99,15 @@ Transposrt from CMS will depart at 17:15.
 
 |  Start | End  | Track 1   | Track 2 |
 | ------ | ----- | ------- |
-| 08:30  | 09:00 | <td colspan=2><span class='social'>Coffee, tea, and fruit</span></td> |
+| 08:30  | 09:00 | <span class='social'>Coffee, tea, and fruit</span> |
 | 09:00  | 10:30 | Introduction to Neural Networks with PyTorch | Coupling PyTorch with Fortran via FTorch
-| 10:30  | 11:00 | <td colspan=2><span class='social'>Break - tea, coffee, pastries</span></td> |
+| 10:30  | 11:00 | <span class='social'>Break - tea, coffee, pastries</span> |
 | 11:00  | 12:00 | Introduction to Neural Networks with PyTorch | Code clinic |
-| 12:00  | 13:30 |  <td colspan=2><span class='social'>Lunch - Church College</span></td> |
+| 12:00  | 13:30 | <span class='social'>Lunch - Church College</span> |
 | 13:30  | 15:00 | Profiling and performacne | Introduction to Comptuational Science in Julia |
-| 15:00  | 15:30 | <td colspan=2><span class='social'>Break - tea, coffee</span></td> |
+| 15:00  | 15:30 | <span class='social'>Break - tea, coffee</span> |
 | 15:30  | 16:00 | Proifiling and performance testing (lab) | Introduction to Comptuational Science in Jula (lab) |
-| 16:00 | 17:00 | <td colspan=2><b>Closing Keynote</b> - Evelina Gabasova
+| 16:00 | 17:00 | <b>Closing Keynote</b> - Evelina Gabasova
 
 
 Cambridge Wine Merchants and cheese and wine tasting session - 15 min short intro to wines and then wines and nibbles
