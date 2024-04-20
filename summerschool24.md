@@ -75,7 +75,7 @@ During the week, you can [book in a session with one of the RSE team](https://do
 
 |  Start | End  | Track 1  | Track 2 |
 | ------ | ----- | ------- | ------- |
-| 14:00  | 15:00 | <span class='workshop' id='workshop-1'>Introduction to Git and GitHub</span> | <span class='workshop' id='workshop-2'>Intermediate Git and GitHub</span> |
+| 14:00  | 15:00 | <span class="workshop" id="workshop-1">Introduction to Git and GitHub</span> | <span class="workshop" id="workshop-2">Intermediate Git and GitHub</span> |
 | 15:00  | 15:30 | Coffee & Tea |
 | 15:30  | 17:00 | <span class="workshop" name="workshop-3">Scientific Visualisation</span> |
 
@@ -85,14 +85,14 @@ Aromi Pizza and beer from 17:30; board games + Lego
 
 |  Start | End  | Track 1   | Track 2 |
 | ------ | ----- | ------- |
-| 08:30  | 09:00 | <span class='social'>Coffee, tea, and fruit</span> |
+| 08:30  | 09:00 | <span class="social">Coffee, tea, and fruit</span> |
 | 09:00  | 10:30 | <span class="workshop" name="workshop-4">Introduction to climate and weather modelling</span> | <span class="workshop" name="workshop-5">Explainable data science with the Fluid language</span> |
-| 10:30  | 11:00 | <span class='social'>Break - tea, coffee, pastries</span> |
+| 10:30  | 11:00 | <span class="social">Break - tea, coffee, pastries</span> |
 | 11:00  | 12:00 | <span class="workshop" name="workshop-4">Introduction to climate and weather modelling</span> | <span class="workshop" name="workshop-6">What can abstract mathematics tell us about programming climate models?</span> |
-| 12:00  | 13:30 | <span class='social'>Lunch - Church College</span> |
-| 13:30  | 15:00 | <span class='workshop' id='workhop-7'>OpenMP for GPUs</span> | Research Sofware Engineering with Python |
-| 15:00  | 15:30 | <span class='social'>Break - tea, coffee</span> |
-| 15:30  | 17:00 | <span class='workshop' id='workshop-7'>OpenMP for GPUS (lab)</span> | Typing Python with mypy |
+| 12:00  | 13:30 | <span class="social">Lunch - Church College</span> |
+| 13:30  | 15:00 | <span class="workshop" name="workhop-7">OpenMP for GPUs</span> | Research Sofware Engineering with Python |
+| 15:00  | 15:30 | <span class="social">Break - tea, coffee</span> |
+| 15:30  | 17:00 | <span class="workshop" name="workshop-7">OpenMP for GPUS (lab)</span> | Typing Python with mypy |
 
 Pre-dinner drinks reception and dinner at Madingley Hall.
 Transposrt from CMS will depart at 17:15.
@@ -101,13 +101,13 @@ Transposrt from CMS will depart at 17:15.
 
 |  Start | End  | Track 1   | Track 2 |
 | ------ | ----- | ------- |
-| 08:30  | 09:00 | <span class='social'>Coffee, tea, and fruit</span> |
-| 09:00  | 10:30 | Introduction to Neural Networks with PyTorch | Coupling PyTorch with Fortran via FTorch
-| 10:30  | 11:00 | <span class='social'>Break - tea, coffee, pastries</span> |
+| 08:30  | 09:00 | <span class="social">Coffee, tea, and fruit</span> |
+| 09:00  | 10:30 | <span class="workshop" name="workshop-8">Introduction to Neural Networks with PyTorch</span> | <span class="workshop" name="workshop-9">Coupling PyTorch with Fortran via FTorch</spa>
+| 10:30  | 11:00 | <span class="social">Break - tea, coffee, pastries</span> |
 | 11:00  | 12:00 | Introduction to Neural Networks with PyTorch | Code clinic |
-| 12:00  | 13:30 | <span class='social'>Lunch - Church College</span> |
+| 12:00  | 13:30 | <span class="social">Lunch - Church College</span> |
 | 13:30  | 15:00 | Profiling and performacne | Introduction to Comptuational Science in Julia |
-| 15:00  | 15:30 | <span class='social'>Break - tea, coffee</span> |
+| 15:00  | 15:30 | <span class="social">Break - tea, coffee</span> |
 | 15:30  | 16:00 | Proifiling and performance testing (lab) | Introduction to Comptuational Science in Jula (lab) |
 | 16:00 | 17:00 | <b>Closing Keynote</b> - Evelina Gabasova
 
@@ -124,7 +124,7 @@ This session is aimed to help participants taking their first steps with version
 This is a hands-on session with live-coding and exercises.
 </p>
 <p>
-We will use the Unix shell in this course. Previous experience with using the shell would be helpful, but we will help you out if you haven't used it before.
+We will use the Unix shell in this course. Previous experience with using the shell would be helpful, but we will help you out if you haven"t used it before.
 </p>
 </div>
 
@@ -157,7 +157,7 @@ Category theory is a subfield of mathematics that seeks to expose common underly
 
 <div id="abstract-workshop-7">
 <p>
-To make the best use of today's massively parallel and heterogeneous (both CPU and GPU) computing resources we need to use several programming models. OpenMP is an open specification for a directive based programming model that can take advantage of all the cores on a processor and offload computations to GPUs making only minimal changes to the C, C++ or Fortran source code.
+To make the best use of today"s massively parallel and heterogeneous (both CPU and GPU) computing resources we need to use several programming models. OpenMP is an open specification for a directive based programming model that can take advantage of all the cores on a processor and offload computations to GPUs making only minimal changes to the C, C++ or Fortran source code.
 </p>
 <p>
 This session will serve as an introduction to the OpenMP programming model for GPU acceleration. You will learn how to introduce the directives into your code, and put this into practice using OpenMP to speed up example programs.
@@ -165,6 +165,28 @@ This session will serve as an introduction to the OpenMP programming model for G
 </div>
 
 <div id="abstract-workshop-8">
+<p>
+This session aims to teach the key theoretical concepts behind machine learning, and offers hands-on training in applying machine learning techniques using PyTorch, along with guidance on structuring resilient and sustainable machine learning code.
+</p>
+<p>
+We will cover both regression and classification, learning about key concepts and applying them in parallel exercises. Once complete participants will have a good framework for building, training, and running neural nets that could be adapted for their own applications.
+</p>
+<p>
+We will demonstrate the application of machine learning with examples from the geoscience domain.
+</p>
+<p>
+<b>Required Pre-Reading</b>: To make the most of the session we expect participants to arrive with a (minimal) base-level understanding of machine learning concepts. In addition to this we will also assume knowledge of some basic mathematics and python abilities.
+</p>
+</div>
+
+<div id="abstract-workshop-9">
+A key focus of many scientific computing domains at present is how to use machine learning to enhance and accelerate traditional simulations. Climate science is no exception, with this topic being part of all VESRI projects. To achieve coupling between ML and numerical models presents a number of technical and scientific challenges, however.
+
+[FTorch](https://github.com/Cambridge-ICCS/FTorch) is a library developed by ICCS to couple PyTorch-based machine learning models to Fortran code with the aim of reducing the burden on scientific researchers. It has already been used in DataWave and M2LInES projects and further afield. In this workshop we will introduce FTorch and review its capabilities before taking participants through the process of coupling a PyTorch model into a Fortran code bin a practical demonstration.
+
+There may also be time for questions/discussion from those seeking to use FTorch in their work, and the developers will be available for code-clinics and discussions throughout the week.
+
+Further information can be found in [this video](https://www.youtube.com/watch?v=-NJGuV6Rz6U) or [this video](https://www.youtube.com/watch?v=Ei6H_BoQ7g4&list=PL27mQJy8eDHmibt_aL3M68x-4gnXpxvZP&index=33).
 </div>
 
 
