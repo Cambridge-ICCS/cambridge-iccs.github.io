@@ -46,6 +46,9 @@ span.hack {
     text-align: justify;
     width: 50vw;
     background: #eee;
+    position: relative;
+    top: 10px;
+    left: 10px;
 }
 .opt {
 	color: gray;
@@ -85,13 +88,13 @@ Aromi Pizza and beer from 17:30; board games + Lego
 
 |  Start | End  | Track 1   | Track 2 |
 | ------ | ----- | ------- |
-| 08:30  | 09:00 | <span class="social">Coffee, tea, and fruit</span> |
+| 08:30  | 09:00 | Coffee, tea, and fruit |
 | 09:00  | 10:30 | <span class="workshop" name="workshop-4">Introduction to climate and weather modelling</span> | <span class="workshop" name="workshop-5">Explainable data science with the Fluid language</span> |
-| 10:30  | 11:00 | <span class="social">Break - tea, coffee, pastries</span> |
+| 10:30  | 11:00 | Break - tea, coffee, pastries |
 | 11:00  | 12:00 | <span class="workshop" name="workshop-4">Introduction to climate and weather modelling</span> | <span class="workshop" name="workshop-6">What can abstract mathematics tell us about programming climate models?</span> |
-| 12:00  | 13:30 | <span class="social">Lunch - Church College</span> |
+| 12:00  | 13:30 | Lunch - Church College |
 | 13:30  | 15:00 | <span class="workshop" name="workhop-7">OpenMP for GPUs</span> | Research Sofware Engineering with Python |
-| 15:00  | 15:30 | <span class="social">Break - tea, coffee</span> |
+| 15:00  | 15:30 | Break - tea, coffee |
 | 15:30  | 17:00 | <span class="workshop" name="workshop-7">OpenMP for GPUS (lab)</span> | Typing Python with mypy |
 
 Pre-dinner drinks reception and dinner at Madingley Hall.
@@ -101,13 +104,13 @@ Transposrt from CMS will depart at 17:15.
 
 |  Start | End  | Track 1   | Track 2 |
 | ------ | ----- | ------- |
-| 08:30  | 09:00 | <span class="social">Coffee, tea, and fruit</span> |
+| 08:30  | 09:00 | Coffee, tea, and fruit |
 | 09:00  | 10:30 | <span class="workshop" name="workshop-8">Introduction to Neural Networks with PyTorch</span> | <span class="workshop" name="workshop-9">Coupling PyTorch with Fortran via FTorch</spa>
-| 10:30  | 11:00 | <span class="social">Break - tea, coffee, pastries</span> |
+| 10:30  | 11:00 | Break - tea, coffee, pastries |
 | 11:00  | 12:00 | Introduction to Neural Networks with PyTorch | Code clinic |
-| 12:00  | 13:30 | <span class="social">Lunch - Church College</span> |
+| 12:00  | 13:30 | Lunch - Church College |
 | 13:30  | 15:00 | Profiling and performacne | Introduction to Comptuational Science in Julia |
-| 15:00  | 15:30 | <span class="social">Break - tea, coffee</span> |
+| 15:00  | 15:30 | Break - tea, coffee |
 | 15:30  | 16:00 | Proifiling and performance testing (lab) | Introduction to Comptuational Science in Jula (lab) |
 | 16:00 | 17:00 | <b>Closing Keynote</b> - Evelina Gabasova
 
