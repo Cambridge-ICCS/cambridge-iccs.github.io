@@ -253,15 +253,16 @@ function addAbstractClicker() {
     label.innerHTML = "abstract"
     label.className = "showButton";
     label.style.borderStyle = "outset";
+    label.setAttribute("name", workshop.id || workshop.getAttribute("name"))
     insertAfter(label, workshop);
     label.addEventListener("click",
       function () {
           if (label.style.borderStyle == "outset") {
               label.style.borderStyle = "inset";
               // create abstract box
-              let abstractInfo = document.getElementById("abstract-"+workshop.getAttribute("name")).innerHTML;
+              let abstractInfo = document.getElementById("abstract-"+label.getAttribute("name")).innerHTML;
               let abstract = document.createElement("p");
-              abstract.id = "info-abstract-"+workshop.getAttribute("name");
+              abstract.id = "info-abstract-"+label.getAttribute("name");
               abstract.className = "abstract";
               abstract.innerHTML = abstractInfo;
               // add to the page
@@ -269,7 +270,8 @@ function addAbstractClicker() {
           } else {
             label.style.borderStyle = "outset";
             // remove the abstract
-            let abstract = document.getElementById("info-abstract-"+workshop.getAttribute("name"));
+            let abstract = document.getElementById("info-abstract-"+label.getAttribute("name"));
+            console.log(abstract);
             label.parentElement.removeChild(abstract);
           }
         });
