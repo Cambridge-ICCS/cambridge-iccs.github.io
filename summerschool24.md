@@ -63,6 +63,9 @@ span.hack {
   color: purple;
   font-weight: bold;
 }
+#abstracts div {
+	display: none;
+}
 </style>
 
 <style>
@@ -117,6 +120,7 @@ Transposrt from CMS will depart at 17:15.
 
 Cambridge Wine Merchants and cheese and wine tasting session - 15 min short intro to wines and then wines and nibbles
 
+<section id="abstracts">
 <div id="abstract-workshop-1">
 <p>
 This session is aimed to help participants taking their first steps with version control using Git and Github. We will learn the basic principles of Git, how we can upload our code (or other data) to a remote repository, collaborate on it with colleagues, receive their changes, go back to previous versions, etc.
@@ -232,6 +236,7 @@ The lecture ends with training a neural network to fit the same dynamical system
 Designed to be engaging and interactive, this lecture offers a blend of theoretical explanations and practical demonstrations, providing participants with a solid foundation in Julia and inspiring further exploration in this powerful programming ecosystem.
 </p>
 </div>
+</section>
 
 <script>
 // Helper to add a HTML after another
