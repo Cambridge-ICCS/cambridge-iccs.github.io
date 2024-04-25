@@ -81,7 +81,7 @@ During the week, you can [book in a session with one of the RSE team](https://do
 
 |  Start | End  | Track 1  | Track 2 |
 | ------ | ----- | ------- | ------- |
-| 14:00  | 15:00 | <span class="workshop" id="workshop-1">Introduction to Git and GitHub</span> | <span class="workshop" id="workshop-2">Intermediate Git and GitHub</span> |
+| 14:00  | 15:00 | <span class="workshop" name="workshop-1">Introduction to Git and GitHub</span> | <span class="workshop" name="workshop-2">Intermediate Git and GitHub</span> |
 | 15:00  | 15:30 | Coffee & Tea |
 | 15:30  | 17:00 | <span class="workshop" name="workshop-3">Scientific Visualisation</span> |
 
@@ -259,9 +259,9 @@ function addAbstractClicker() {
           if (label.style.borderStyle == "outset") {
               label.style.borderStyle = "inset";
               // create abstract box
-              let abstractInfo = document.getElementById("abstract-"+workshop.id).innerHTML;
+              let abstractInfo = document.getElementById("abstract-"+workshop.getAttribute("name")).innerHTML;
               let abstract = document.createElement("p");
-              abstract.id = "info-abstract-"+workshop.id
+              abstract.id = "info-abstract-"+workshop.getAttribute("name");
               abstract.className = "abstract";
               abstract.innerHTML = abstractInfo;
               // add to the page
