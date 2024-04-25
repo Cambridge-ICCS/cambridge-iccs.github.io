@@ -269,8 +269,7 @@ function addAbstractClicker() {
           } else {
             label.style.borderStyle = "outset";
             // remove the abstract
-            let abstract = document.getElementById("info-abstract-"+workshop.id);
-            console.log(abstract);
+            let abstract = document.getElementById("info-abstract-"+workshop.getAttribute("name"));
             label.parentElement.removeChild(abstract);
           }
         });
