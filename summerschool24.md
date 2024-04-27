@@ -271,7 +271,6 @@ function addAbstractClicker() {
             label.style.borderStyle = "outset";
             // remove the abstract
             let abstract = document.getElementById("info-abstract-"+label.getAttribute("name"));
-            console.log(abstract);
             label.parentElement.removeChild(abstract);
           }
         });
