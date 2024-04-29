@@ -21,8 +21,13 @@ span.sci,span.research {
 span.social {
   background: rgb(255, 251, 204);
 }
-span.workshop {
-  background: rgb(217, 255, 204);
+a.workhop:hover {
+  text-decoration: underline;
+}
+a.workshop {
+  font-weight:700;
+  color: #1d26df;
+  cursor: pointer;
 }
 span.disc {
   background: rgb(242, 224, 255);
@@ -33,22 +38,30 @@ span.hack {
 .showButton {
     font-size: smaller;
     font-decoration: underline;
-    color: #cf5d4e;
+    color: #eee;
+    background: #5d4cfe;
     display: block-level;
     clear: left;
     cursor: pointer;
     border: outset;
     padding: 2px;
 }
-.abstract {
+.showButton:active {
+    border: inset;
+}
+.showButton:hover {
+    border: outset;
+    background: #8d8cff
+}.abstract {
     margin: 10px;
     padding: 10px;
     text-align: justify;
     width: 50vw;
+    top: 25vh;
+    left: 25vw;
     background: #eee;
-    position: relative;
-    top: 10px;
-    left: 10px;
+    position: fixed;
+    z-index: 10;
 }
 .opt {
 	color: gray;
@@ -66,6 +79,21 @@ span.hack {
 #abstracts div {
 	display: none;
 }
+body {
+  z-index: 0;
+}
+#layer {
+  background: rgba(0,0,0,0.5);
+  z-index: 2;
+  display: none;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  height: 100vh;
+  width: 100vw;
+}
 </style>
 
 <style>
@@ -75,15 +103,17 @@ div {
 }
 </style>
 
+<div id="layer"></div>
+
 During the week, you can [book in a session with one of the RSE team](https://docs.google.com/spreadsheets/d/1iINWYEOdEytngnanVqyq2gAi8DJq4kMusvY6_BI3N0A/edit?usp=sharing) for advice, or to discuss ongoing projects.
 
 ## Wednesday 10th July, Centre for Mathematical Sciences
 
 |  Start | End  | Track 1  | Track 2 |
 | ------ | ----- | ------- | ------- |
-| 14:00  | 15:00 | <span class="workshop" name="workshop-1">Introduction to Git and GitHub</span> | <span class="workshop" name="workshop-2">Intermediate Git and GitHub</span> |
+| 14:00  | 15:00 | <a class="workshop" name="workshop-1">Introduction to Git and GitHub</a> | <a class="workshop" name="workshop-2">Intermediate Git and GitHub</a> |
 | 15:00  | 15:30 | Coffee & Tea |
-| 15:30  | 17:00 | <span class="workshop" name="workshop-3">Scientific Visualisation</span> |
+| 15:30  | 17:00 | <a class="workshop" name="workshop-3">Scientific Visualisation</a> |
 
 Aromi Pizza and beer from 17:30; board games + Lego
 
@@ -92,13 +122,13 @@ Aromi Pizza and beer from 17:30; board games + Lego
 |  Start | End  | Track 1   | Track 2 |
 | ------ | ----- | ------- |
 | 08:30  | 09:00 | Coffee, tea, and fruit |
-| 09:00  | 10:30 | <span class="workshop" name="workshop-4">Introduction to climate and weather modelling</span> | <span class="workshop" name="workshop-5">Explainable data science with the Fluid language</span> |
+| 09:00  | 10:30 | <a class="workshop" name="workshop-4">Introduction to climate and weather modelling</a> | <a class="workshop" name="workshop-5">Explainable data science with the Fluid language</a> |
 | 10:30  | 11:00 | Break - tea, coffee, pastries |
-| 11:00  | 12:00 | <span class="workshop" name="workshop-4">Introduction to climate and weather modelling</span> | <span class="workshop" name="workshop-6">What can abstract mathematics tell us about programming climate models?</span> |
+| 11:00  | 12:00 | <a class="workshop" name="workshop-4">Introduction to climate and weather modelling</a> | <a class="workshop" name="workshop-6">What can abstract mathematics tell us about programming climate models?</a> |
 | 12:00  | 13:30 | Lunch - Church College |
-| 13:30  | 15:00 | <span class="workshop" name="workhop-7">OpenMP for GPUs</span> | <span class="workshop" name="workshop-8">Research Sofware Engineering with Python</span> |
+| 13:30  | 15:00 | <a class="workshop" name="workhop-7">OpenMP for GPUs</a> | <a class="workshop" name="workshop-8">Research Sofware Engineering with Python</a> |
 | 15:00  | 15:30 | Break - tea, coffee |
-| 15:30  | 17:00 | <span class="workshop" name="workshop-7">OpenMP for GPUS (lab)</span> | <span class="workshop" name="workshop-9">Typing Python with mypy</span> |
+| 15:30  | 17:00 | <a class="workshop" name="workshop-7">OpenMP for GPUS (lab)</a> | <a class="workshop" name="workshop-9">Typing Python with mypy</a> |
 
 Pre-dinner drinks reception and dinner at Madingley Hall.
 Transposrt from CMS will depart at 17:15.
@@ -108,13 +138,13 @@ Transposrt from CMS will depart at 17:15.
 |  Start | End  | Track 1   | Track 2 |
 | ------ | ----- | ------- |
 | 08:30  | 09:00 | Coffee, tea, and fruit |
-| 09:00  | 10:30 | <span class="workshop" name="workshop-10">Introduction to Neural Networks with PyTorch</span> | <span class="workshop" name="workshop-11">Coupling PyTorch with Fortran via FTorch</spa>
+| 09:00  | 10:30 | <a class="workshop" name="workshop-10">Introduction to Neural Networks with PyTorch</a> | <a class="workshop" name="workshop-11">Coupling PyTorch with Fortran via FTorch</spa>
 | 10:30  | 11:00 | Break - tea, coffee, pastries |
-| 11:00  | 12:00 | <span class="workshop" name="workshop-10">Introduction to Neural Networks with PyTorch</span> | Code clinic |
+| 11:00  | 12:00 | <a class="workshop" name="workshop-10">Introduction to Neural Networks with PyTorch</a> | Code clinic |
 | 12:00  | 13:30 | Lunch - Church College |
-| 13:30  | 15:00 | <span class="workshop" name="workshop-12">Profiling and performance testing</span> | <span class="workshop" name="workshop-13">Introduction to Comptuational Science in Julia</span> |
+| 13:30  | 15:00 | <a class="workshop" name="workshop-12">Profiling and performance testing</a> | <a class="workshop" name="workshop-13">Introduction to Comptuational Science in Julia</a> |
 | 15:00  | 15:30 | Break - tea, coffee |
-| 15:30  | 16:00 | <span class="workshop" name="workshop-12">Profiling and performance testing (lab)</span>  | <span class="workshop" name="workshop-13">Introduction to Comptuational Science in Jula (lab)</span> |
+| 15:30  | 16:00 | <a class="workshop" name="workshop-12">Profiling and performance testing (lab)</a>  | <a class="workshop" name="workshop-13">Introduction to Comptuational Science in Jula (lab)</a> |
 | 16:00 | 17:00 | <b>Closing Keynote</b> - Evelina Gabasova
 
 
@@ -249,28 +279,40 @@ function addAbstractClicker() {
   for (let i = 0; i < workshopTitles.length; i++) {
     let workshop = workshopTitles[i];
     // make a label to have a clicker abstract hing
-    let label = document.createElement("span");
-    label.innerHTML = "abstract"
-    label.className = "showButton";
-    label.style.borderStyle = "outset";
-    insertAfter(label, workshop);
-    label.addEventListener("click",
+    // make a label to have a clicker abstract hing
+    //let label = document.createElement("span");
+    //label.innerHTML = "abstract"
+    //label.className = "showButton";
+    //label.style.borderStyle = "outset";
+    //insertAfter(label, workshop);
+    workshop.addEventListener("click",
       function () {
-          if (label.style.borderStyle == "outset") {
-              label.style.borderStyle = "inset";
+          let abstract = document.getElementById("info-abstract-"+workshop.getAttribute("name"));
+          let layer = document.getElementById("layer");
+          if (abstract) {
+              // null
+          } else {
+              //label.style.borderStyle = "inset";
               // create abstract box
               let abstractInfo = document.getElementById("abstract-"+workshop.getAttribute("name")).innerHTML;
               let abstract = document.createElement("p");
               abstract.id = "info-abstract-"+workshop.getAttribute("name");
               abstract.className = "abstract";
               abstract.innerHTML = abstractInfo;
+              layer.style.display = "block";
               // add to the page
-              insertAfter(abstract, label);
-          } else {
-            label.style.borderStyle = "outset";
-            // remove the abstract
-            let abstract = document.getElementById("info-abstract-"+workshop.getAttribute("name"));
-            label.parentElement.removeChild(abstract);
+              insertAfter(abstract, workshop);
+              // close
+              let label = document.createElement("span");
+              label.innerHTML = "Close"
+              label.className = "showButton";
+              label.style.borderStyle = "outset";
+              abstract.appendChild(label);
+              label.addEventListener("click",
+                function() {
+                  abstract.parentElement.removeChild(abstract);
+                  layer.style.display = "none";
+                })
           }
         });
   }
