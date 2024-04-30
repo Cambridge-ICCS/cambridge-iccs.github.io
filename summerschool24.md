@@ -94,7 +94,7 @@ body {
   height: 100vh;
   width: 100vw;
 }
-td {
+td:nth-child(3), td:nth-child(4) {
   padding-left: 2em;
   padding-right: 2em;
 }
