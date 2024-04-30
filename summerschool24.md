@@ -142,7 +142,7 @@ Transposrt from CMS will depart at 17:15.
 |  Start | End  | Track 1   | Track 2 |
 | ------ | ----- | ------- |
 | 08:30  | 09:00 | Coffee, tea, and fruit |
-| 09:00  | 10:30 | <a class="workshop" name="workshop-10">Introduction to Neural Networks with PyTorch</a> | <a class="workshop" name="workshop-11">Coupling PyTorch with Fortran via FTorch</spa>
+| 09:00  | 10:30 | <a class="workshop" name="workshop-10">Introduction to Neural Networks with PyTorch</a> | <a class="workshop" name="workshop-11">Coupling PyTorch with Fortran via FTorch</a>
 | 10:30  | 11:00 | Break - tea, coffee, pastries |
 | 11:00  | 12:00 | <a class="workshop" name="workshop-10">Introduction to Neural Networks with PyTorch</a> | Code clinic |
 | 12:00  | 13:30 | Lunch - Church College |
