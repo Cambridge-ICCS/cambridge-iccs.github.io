@@ -26,7 +26,8 @@ a.workhop:hover {
 }
 a.workshop {
   font-weight:700;
-  color: #1d26df;
+  color: #1d3ddf;
+  margin-right: 4em;
   cursor: pointer;
 }
 span.disc {
