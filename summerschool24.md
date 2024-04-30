@@ -27,7 +27,6 @@ a.workhop:hover {
 a.workshop {
   font-weight:700;
   color: #1d3ddf;
-  margin-right: 4em;
   cursor: pointer;
 }
 span.disc {
@@ -94,6 +93,10 @@ body {
   bottom: 0;
   height: 100vh;
   width: 100vw;
+}
+td {
+  padding-left: 2em;
+  padding-right: 2em;
 }
 </style>
 
