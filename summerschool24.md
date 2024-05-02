@@ -24,7 +24,7 @@ span.social {
 a.workhop:hover {
   text-decoration: underline;
 }
-a.workshop {
+.workshop {
   font-weight:700;
   color: #1d3ddf;
   cursor: pointer;
