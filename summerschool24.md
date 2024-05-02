@@ -111,6 +111,8 @@ div {
 
 During the week, you can [book in a session with one of the RSE team](https://docs.google.com/spreadsheets/d/1iINWYEOdEytngnanVqyq2gAi8DJq4kMusvY6_BI3N0A/edit?usp=sharing) for advice, or to discuss ongoing projects.
 
+<b class="workshop">Click a title to see its abstract</b>
+
 ## Wednesday 10th July, Centre for Mathematical Sciences
 
 |  Start | End  | Track 1  | Track 2 |
