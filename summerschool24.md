@@ -282,13 +282,6 @@ function addAbstractClicker() {
   var workshopTitles = document.getElementsByClassName("workshop");
   for (let i = 0; i < workshopTitles.length; i++) {
     let workshop = workshopTitles[i];
-    // make a label to have a clicker abstract hing
-    // make a label to have a clicker abstract hing
-    //let label = document.createElement("span");
-    //label.innerHTML = "abstract"
-    //label.className = "showButton";
-    //label.style.borderStyle = "outset";
-    //insertAfter(label, workshop);
     workshop.addEventListener("click",
       function () {
           let abstract = document.getElementById("info-abstract-"+workshop.getAttribute("name"));
@@ -302,7 +295,7 @@ function addAbstractClicker() {
               let abstract = document.createElement("p");
               abstract.id = "info-abstract-"+workshop.getAttribute("name");
               abstract.className = "abstract";
-              abstract.innerHTML = abstractInfo;
+              abstract.innerHTML = "<b>" + workshop.innerHTML + "</b><br />" + abstractInfo;
               layer.style.display = "block";
               // add to the page
               insertAfter(abstract, workshop);
