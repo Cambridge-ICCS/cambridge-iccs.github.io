@@ -187,6 +187,17 @@ In this session we will look at viewing scientific data using python tools. We w
 
 <div id="abstract-workshop-4">
 This session will include a general lecture to explain what the current approach to weather and climate modelling is, and how it links to supercomputing. This will be followed by a short practical session using a pre-built model, with some tasks via a Jupyter Notebook.
+<ol>
+  <li>Fundamentals of dynamics and physics for the atmosphere and ocean</li>
+  <li>Numerical methods used in weather and climate prediction</li>
+  <li>The supercomputing challenges in weather and climate simulation</li>
+  <li>Aspects of Machine Learning
+    <ul><li>ML emulators</li>
+      <li>Improvement of parameterizations</li>
+      <li>Uncertainty quantification</li>
+      <li>ML techniques for operational weather forcast</li>
+      </ul>
+    </ol>
 </div>
 
 <div id="abstract-workshop-5">
