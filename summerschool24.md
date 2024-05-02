@@ -261,15 +261,13 @@ Climate software is necessarily complex, often containing thousands of source fi
 
 <div id="abstract-workshop-13">
 <p>
-This introductory lecture provides a comprehensive overview of the Julia programming language, designed for participants with a foundational understanding of programming concepts. The lecture is structured into four main parts, spanning two hours, to systematically introduce participants to the language's core features and capabilities.
+This introductory lecture provides a comprehensive overview of the Julia programming language, designed for participants with a foundational understanding of programming concepts. The lecture, spanning two hours, aims to systematically introduce participants to the language's core features and capabilities.
 </p><p>
-We begin with an introduction to Julia and the interactive Pluto Notebook environment, followed by an exploration of basic data structures such as lists, arrays, and dictionaries. The lecture then progresses to more complex topics, including the definition and use of functions, custom data types through structs, and generic programming with parametrized types.
+We begin with an introduction to Julia and the interactive Pluto Notebook environment, followed by an exploration of basic data structures, definition and use of functions, custom data types through structs, and generic programming with parametrized types.
 </p><p>
-The second half of the lecture delves into applications of Julia in scientific computing and machine learning. We cover the essentials of linear algebra, data analysis & visualization, and neural networks using Flux.jl. A hands-on simulation of a dynamical system using time-stepping methods offers practical experience in scientific computing.
+The second half of the lecture delves into applications of Julia in scientific computing and machine learning. We cover the essentials of linear algebra, data analysis & visualization, and neural networks using Flux.jl.
 </p><p>
-The lecture ends with training a neural network to fit the same dynamical system. Topics including auto-differentiation, Adam optimizer, over-fitting, and physics-informed learning will be covered in this part.
-</p><p>
-Designed to be engaging and interactive, this lecture offers a blend of theoretical explanations and practical demonstrations, providing participants with a solid foundation in Julia and inspiring further exploration in this powerful programming ecosystem.
+The lecture ends with a hands-on lab that uses Julia to build a dynamical system using time-stepping methods and physics-informed neural networks.
 </p>
 </div>
 </section>
