@@ -198,6 +198,10 @@ This session will include a general lecture to explain what the current approach
       <li>ML techniques for operational weather forcast</li>
       </ul>
     </ol>
+
+The practical session will be based on _Observation System Simulation Experience for ocean surface pCO2 over the Atlantic Ocean_.
+
+Sparse data coverage and the lack of observations covering the full seasonal cycle challenge mapping methods and result in noisy reconstructions of surface ocean pCO2 and disagreements between different models. We explored design options for a future augmented Atlantic-scale observing system that would optimally combine data streams from various platforms and contribute to reduce the bias in reconstructed surface ocean pCO2 fields and sea–air CO2 fluxes. 
 </div>
 
 <div id="abstract-workshop-5">
