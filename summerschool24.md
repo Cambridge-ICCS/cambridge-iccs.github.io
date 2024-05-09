@@ -111,7 +111,7 @@ div {
 
 During the week, you can [book in a session with one of the RSE team](https://docs.google.com/spreadsheets/d/1iINWYEOdEytngnanVqyq2gAi8DJq4kMusvY6_BI3N0A/edit?usp=sharing) for advice, or to discuss ongoing projects.
 
-<b class="workshop">Click a title to see its abstract</b>
+<b class="workshop" onMouseOver="highlightTitles('rgb(252, 252, 225)')" onMouseOut="highlightTitles('rgb(255,255,255)')">Click a title to see its abstract</b>
 
 ## Wednesday 10th July, Centre for Mathematical Sciences
 
@@ -134,7 +134,7 @@ Aromi Pizza and beer from 17:30; board games + Lego
 | 12:00  | 13:30 | Lunch - Church College |
 | 13:30  | 15:00 | <a class="workshop" name="workshop-7">OpenMP for GPUs</a> | <a class="workshop" name="workshop-8">Research Sofware Engineering with Python</a> |
 | 15:00  | 15:30 | Break - tea, coffee |
-| 15:30  | 17:00 | <a class="workshop" name="workshop-7">OpenMP for GPUS (lab)</a> | <a class="workshop" name="workshop-9">Typing Python with mypy</a> |
+| 15:30  | 17:00 | <a class="workshop" name="workshop-7">OpenMP for GPUs (lab)</a> | <a class="workshop" name="workshop-9">Typing Python with mypy</a> |
 
 Pre-dinner drinks reception and dinner at Madingley Hall.
 Transposrt from CMS will depart at 17:15.
@@ -342,4 +342,12 @@ function addAbstractClicker() {
   }
 }
 addAbstractClicker();
+
+function highlightTitles(color) {
+  var workshopTitles = document.getElementsByClassName("workshop");
+  for (let i = 0; i < workshopTitles.length; i++) {
+     let workshop = workshopTitles[i];
+     workshop.style.background = color;
+  }
+}
 </script>
