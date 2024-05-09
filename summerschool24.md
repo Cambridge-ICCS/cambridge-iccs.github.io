@@ -119,7 +119,7 @@ During the week, you can [book in a session with one of the RSE team](https://do
 | ------ | ----- | ------- | ------- |
 | 14:00  | 15:00 | <a class="workshop" name="workshop-1">Introduction to Git and GitHub</a> | <a class="workshop" name="workshop-2">Intermediate Git and GitHub</a> |
 | 15:00  | 15:30 | Coffee & Tea |
-| 15:30  | 17:00 | <a class="workshop" name="workshop-3">Scientific Visualisation</a> |
+| 15:30  | 17:00 | <a class="workshop" name="workshop-3">Scientific Visualisation</a> | Code clinic
 
 Aromi Pizza and beer from 17:30; board games + Lego
 
@@ -182,10 +182,13 @@ We will use the Unix shell in this course.
 </div>
 
 <div id="abstract-workshop-3">
+<p>
 In this session we will look at viewing scientific data using python tools. We will cover how to open and access large datasets and prepare them for plotting - e.g. with xarray and (geo)pandas. We will look at libraries that are useful for plotting geospatial data such as cartopy, regionmask, cmocean. As well as technical skills we will discuss considerations for presenting data such as use of scales, colourmaps, and labelling. Finally we will look at examples of structuring matplotlib code for streamlining presentation and enabling easy re-use.
+</p>
 </div>
 
 <div id="abstract-workshop-4">
+<p>
 This session will include a general lecture to explain what the current approach to weather and climate modelling is, and how it links to supercomputing. This will be followed by a short practical session using a pre-built model, with some tasks via a Jupyter Notebook.
 	
 <ol>
@@ -203,14 +206,19 @@ This session will include a general lecture to explain what the current approach
 The practical session will be based on _Observation System Simulation Experience for ocean surface pCO2 over the Atlantic Ocean_.
 
 Sparse data coverage and the lack of observations covering the full seasonal cycle challenge mapping methods and result in noisy reconstructions of surface ocean pCO2 and disagreements between different models. We explored design options for a future augmented Atlantic-scale observing system that would optimally combine data streams from various platforms and contribute to reduce the bias in reconstructed surface ocean pCO2 fields and sea–air CO2 fluxes. 
+</p>
 </div>
 
 <div id="abstract-workshop-5">
+<p>
 Charts and other visual summaries, curated by journalists and scientists from real-world data and simulations, are how we understand our changing world and the anthopogenic sources of that change. But interpreting these visual outputs is a challenge, even for experts with access to the source code and data. Fluid (f.luid.org) is a new “transparent” programming language, being developed at the Institute of Computing for Climate Science in Cambridge, that can be used to create charts and figures that are linked to data so a user can interactively discover what visual elements actually represent. This is an opportunity to learn about and experiment with a new programming language designed to make climate science more open, intelligible and accessible.
+</p>
 </div>
 
 <div id="abstract-workshop-6">
+<p>
 Category theory is a subfield of mathematics that seeks to expose common underlying structure in other areas of mathematics. It has since also became a foundational technique for understanding logic and programming, with its use both in semantics of formal languages and as a tool for structuring programs. Many concepts in computer programming can be explained from a category theoretic perspective, yielding new insights about how to reason about programs and generalise their definitions. In this session, I will give an overview of a few key ideas that have applications to numerical programming tasks familiar in earth systems modelling. This will provide some fresh perspectives about how to structure and reason about programs both for correctness and efficiency.
+</p>
 </div>
 
 
@@ -256,6 +264,7 @@ We will demonstrate the application of machine learning with examples from the g
 </div>
 
 <div id="abstract-workshop-11">
+<p>
 A key focus of many scientific computing domains at present is how to use machine learning to enhance and accelerate traditional simulations. Climate science is no exception, with this topic being part of all VESRI projects. To achieve coupling between ML and numerical models presents a number of technical and scientific challenges, however.
 
 [FTorch](https://github.com/Cambridge-ICCS/FTorch) is a library developed by ICCS to couple PyTorch-based machine learning models to Fortran code with the aim of reducing the burden on scientific researchers. It has already been used in DataWave and M2LInES projects and further afield. In this workshop we will introduce FTorch and review its capabilities before taking participants through the process of coupling a PyTorch model into a Fortran code bin a practical demonstration.
@@ -263,9 +272,10 @@ A key focus of many scientific computing domains at present is how to use machin
 There may also be time for questions/discussion from those seeking to use FTorch in their work, and the developers will be available for code-clinics and discussions throughout the week.
 
 Further information can be found in [this video](https://www.youtube.com/watch?v=-NJGuV6Rz6U) or [this video](https://www.youtube.com/watch?v=Ei6H_BoQ7g4&list=PL27mQJy8eDHmibt_aL3M68x-4gnXpxvZP&index=33).
-</div>
+</p></div>
 
 <div id="abstract-workshop-12">
+<p>
 Have you ever found yourself in a position where your code feels slow but you can't quite put your finger on it.
 
 * is it the new system your running on?
@@ -273,6 +283,7 @@ Have you ever found yourself in a position where your code feels slow but you ca
 * or that new awesome feature you pushed to main branch last week without tests 😳 ?
 
 Climate software is necessarily complex, often containing thousands of source files and millions of lines of code. These projects are often developed collaboratively by a large number of scientists over a significant number of years. It is no longer possible to know every line of code, every function and every source file. We can no longer "just guess" where performance is being lost. This is where profiling comes in. In this tutorial we will cover the basics of profiling -- what it is, what its used for and how to understand the output. These basics will be reinforced with demonstrations of two high performance profilers: score-p and TAU.
+</p>
 </div>
 
 <div id="abstract-workshop-13">
