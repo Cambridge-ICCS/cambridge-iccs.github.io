@@ -122,7 +122,7 @@ During the week, you can [book in a session with one of the RSE team](https://do
 | 15:45  | 16:15 | Coffee & Tea |
 | 16:15  | 17:45 | <a class="workshop" name="workshop-3">Scientific Visualisation</a> | Code clinic
 
-Aromi Pizza and beer from 17:30; board games + Lego
+Aromi Pizza and beer from 17:45; board games + Lego
 
 ## Thursday 11th July, Centre for Mathematical Sciences
 
