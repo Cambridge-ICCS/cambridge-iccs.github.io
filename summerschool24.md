@@ -117,9 +117,10 @@ During the week, you can [book in a session with one of the RSE team](https://do
 
 |  Start | End  | Track 1  | Track 2 |
 | ------ | ----- | ------- | ------- |
-| 14:00  | 15:30 | <a class="workshop" name="workshop-1">Introduction to Git and GitHub</a> | <a class="workshop" name="workshop-2">Intermediate Git and GitHub</a> |
-| 15:30  | 16:00 | Coffee & Tea |
-| 16:00  | 17:30 | <a class="workshop" name="workshop-3">Scientific Visualisation</a> | Code clinic
+| 14:00  | 14:15 | Introduction - Please be seated by 2pm |
+| 14:15  | 15:45 | <a class="workshop" name="workshop-1">Introduction to Git and GitHub</a> | <a class="workshop" name="workshop-2">Intermediate Git and GitHub</a> |
+| 15:45  | 16:15 | Coffee & Tea |
+| 16:15  | 17:45 | <a class="workshop" name="workshop-3">Scientific Visualisation</a> | Code clinic
 
 Aromi Pizza and beer from 17:30; board games + Lego
 
