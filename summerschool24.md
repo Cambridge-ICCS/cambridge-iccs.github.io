@@ -289,13 +289,9 @@ Climate software is necessarily complex, often containing thousands of source fi
 
 <div id="abstract-workshop-13">
 <p>
-This introductory lecture provides a comprehensive overview of the Julia programming language, designed for participants with a foundational understanding of programming concepts. The lecture, spanning two hours, aims to systematically introduce participants to the language's core features and capabilities.
-</p><p>
-We begin with an introduction to Julia and the interactive Pluto Notebook environment, followed by an exploration of basic data structures, definition and use of functions, custom data types through structs, and generic programming with parametrized types.
-</p><p>
-The second half of the lecture delves into applications of Julia in scientific computing and machine learning. We cover the essentials of linear algebra, data analysis & visualization, and neural networks using Flux.jl.
-</p><p>
-The lecture ends with a hands-on lab that uses Julia to build a dynamical system using time-stepping methods and physics-informed neural networks.
+This introductory tutorial provides a comprehensive overview of the core features and capabilities of the Julia programming language, designed for participants with a foundational understanding of programming concepts.
+We begin with an introduction to Julia and the interactive Pluto Notebook environment, followed by an exploration of functions, primary and composite data types, and generic programming through multiple dispatch.
+The second half of the tutorial delves into applications of Julia in scientific computing and machine learning. We will provide a hands-on lab that uses Julia to build a dynamical system using time-stepping methods and physics-informed neural networks.
 </p>
 </div>
 </section>
