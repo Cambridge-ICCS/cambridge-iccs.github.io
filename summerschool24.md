@@ -150,8 +150,7 @@ Transposrt from CMS will depart at 17:15.
 | 11:00  | 12:00 | <a class="workshop" name="workshop-4">Introduction to climate and weather modelling</a> | <a class="workshop" name="workshop-6">What can abstract mathematics tell us about programming climate models?</a> |
 | 12:00  | 13:30 | Lunch - Church College |
 | 13:30  | 15:00 | <a class="workshop" name="workshop-12">Profiling and performance testing</a> | <a class="workshop" name="workshop-13">Introduction to Comptuational Science in Julia</a> |
-| 15:00  | 15:30 | Break - tea, coffee |
-| 15:30  | 16:00 | <a class="workshop" name="workshop-12">Profiling and performance testing (lab)</a>  | <a class="workshop" name="workshop-13">Introduction to Comptuational Science in Jula (lab)</a> |
+| 15:30  | 16:00 | Break - tea, coffee |
 | 16:00 | 17:00 | <b>Closing Keynote</b> - Dr Evelina Gabasova - <a class="workshop" name="workshop-14">Transformational power of openness: open source in research and beyond</a>
 
 
