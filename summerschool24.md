@@ -290,8 +290,8 @@ Climate software is necessarily complex, often containing thousands of source fi
 <div id="abstract-workshop-13">
 <p>
 This introductory tutorial provides a comprehensive overview of the core features and capabilities of the Julia programming language, designed for participants with a foundational understanding of programming concepts.
-We begin with an introduction to Julia and the interactive Pluto Notebook environment, followed by an exploration of functions, primary and composite data types, and generic programming through multiple dispatch.
-The second half of the tutorial delves into applications of Julia in scientific computing and machine learning. We will provide a hands-on lab that uses Julia to build a dynamical system using time-stepping methods and physics-informed neural networks.
+We begin with an introduction to Julia and the interactive Pluto Notebook environment, followed by an exploration of functions, primary and composite data types, generic programming through multiple dispatch, and more.
+Afterwards, the tutorial provides several study cases to delve into applications of Julia in scientific computing and machine learning. The last part will be a hands-on lab to build an Earth energy balance model and train a neural network to solve its differential equation.
 </p>
 </div>
 </section>
