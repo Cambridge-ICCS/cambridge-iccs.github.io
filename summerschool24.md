@@ -152,7 +152,7 @@ Transposrt from CMS will depart at 17:15.
 | 13:30  | 15:00 | <a class="workshop" name="workshop-12">Profiling and performance testing</a> | <a class="workshop" name="workshop-13">Introduction to Comptuational Science in Julia</a> |
 | 15:00  | 15:30 | Break - tea, coffee |
 | 15:30  | 16:00 | <a class="workshop" name="workshop-12">Profiling and performance testing (lab)</a>  | <a class="workshop" name="workshop-13">Introduction to Comptuational Science in Jula (lab)</a> |
-| 16:00 | 17:00 | <a class="workshop" name="workshop-14">Transformational power of openness: open source in research and beyond<b>Closing Keynote</b> - Evelina Gabasova</a>
+| 16:00 | 17:00 | <b>Closing Keynote</b> - Dr Evelina Gabasova - <a class="workshop" name="workshop-14">Transformational power of openness: open source in research and beyond</a>
 
 
 Cambridge Wine Merchants and cheese and wine tasting session - 15 min short intro to wines and then wines and nibbles
