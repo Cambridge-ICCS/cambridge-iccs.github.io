@@ -152,7 +152,7 @@ Transposrt from CMS will depart at 17:15.
 | 13:30  | 15:00 | <a class="workshop" name="workshop-12">Profiling and performance testing</a> | <a class="workshop" name="workshop-13">Introduction to Comptuational Science in Julia</a> |
 | 15:00  | 15:30 | Break - tea, coffee |
 | 15:30  | 16:00 | <a class="workshop" name="workshop-12">Profiling and performance testing (lab)</a>  | <a class="workshop" name="workshop-13">Introduction to Comptuational Science in Jula (lab)</a> |
-| 16:00 | 17:00 | <b>Closing Keynote</b> - Evelina Gabasova
+| 16:00 | 17:00 | <a class="workshop" name="workshop-14">Transformational power of openness: open source in research and beyond<b>Closing Keynote</b> - Evelina Gabasova</a>
 
 
 Cambridge Wine Merchants and cheese and wine tasting session - 15 min short intro to wines and then wines and nibbles
@@ -293,6 +293,10 @@ This introductory tutorial provides a comprehensive overview of the core feature
 We begin with an introduction to Julia and the interactive Pluto Notebook environment, followed by an exploration of functions, primary and composite data types, generic programming through multiple dispatch, and more.
 Afterwards, the tutorial provides several study cases to delve into applications of Julia in scientific computing and machine learning. The last part will be a hands-on lab to build an Earth energy balance model and train a neural network to solve its differential equation.
 </p>
+</div>
+
+<div id="abstract-workshop-14">
+Building software tools has become a fundamental aspect of many areas of current research, from environmental modelling to digital humanities. Evelina will talk about how the potential of these tools can be amplified through the principles of open source and open science. Looking at successful and not so successful examples, we will explore the current landscape of open source in academia and research in general: from building collaborative communities to the current struggles to define what open source even means in the world of large language models. On top of that, we will cover some of the best practices for creating robust, reusable and openly accessible tools to maximise the impact of our research work. 
 </div>
 </section>
 
