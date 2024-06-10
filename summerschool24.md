@@ -109,6 +109,12 @@ div {
 
 <div id="layer"></div>
 
+# Locations
+
+Maps will be added shortly
+
+# Schedule
+
 During the week, you can [book in a session with one of the RSE team](https://docs.google.com/spreadsheets/d/1iINWYEOdEytngnanVqyq2gAi8DJq4kMusvY6_BI3N0A/edit?usp=sharing) for advice, or to discuss ongoing projects.
 
 <b class="workshop" onMouseOver="highlightTitles('rgb(250, 242, 92)')" onMouseOut="highlightTitles('rgb(255,255,255)')">Click a title to see its abstract</b>
@@ -117,7 +123,7 @@ During the week, you can [book in a session with one of the RSE team](https://do
 
 |  Start | End  | Track 1  | Track 2 |
 | ------ | ----- | ------- | ------- |
-| 14:00  | 14:15 | Introduction - Please be seated by 2pm |
+| 14:00  | 14:15 | Introduction - Please be seated by 2pm sharp |
 | 14:15  | 15:45 | <a class="workshop" name="workshop-1">Introduction to Git and GitHub</a> | <a class="workshop" name="workshop-2">Intermediate Git and GitHub</a> |
 | 15:45  | 16:15 | Coffee & Tea |
 | 16:15  | 17:45 | <a class="workshop" name="workshop-3">Scientific Visualisation</a> | Code clinic
@@ -138,7 +144,7 @@ Aromi Pizza and beer from 17:45; board games + Lego
 | 15:30  | 17:00 | <a class="workshop" name="workshop-7">OpenMP for GPUs (lab)</a> | <a class="workshop" name="workshop-9">Typing Python with mypy</a> |
 
 Pre-dinner drinks reception and dinner at Madingley Hall.
-Transposrt from CMS will depart at 17:15.
+Transport from CMS will depart at 17:15.
 
 ## Friday 12th July, CMS
 
