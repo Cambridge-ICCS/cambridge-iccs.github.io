@@ -109,9 +109,9 @@ div {
 
 <div id="layer"></div>
 
-# Locations
+# Other information
 
-Maps will be added shortly
+* [Logistics](https://cambridge-iccs.github.io/summerschool24-logistics)
 
 # Schedule
 
