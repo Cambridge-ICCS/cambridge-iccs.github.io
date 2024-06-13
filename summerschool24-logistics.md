@@ -23,7 +23,7 @@ Coming soon.
 
 # Registration on arrival
 
-_Registration_ 
+**_Registration_** 
 
 Everyone must register in Pavilion A ("the core") of the [Centre for Mathematical Sciences](https://map.cam.ac.uk/#52.210003,0.103928,18,52.210149,0.101822).  The CMS is located on Wilberforce Road, Cambridge, CB3 0WA. 
 
@@ -65,7 +65,7 @@ A coach service is the fastest and most direct way to reach central Cambridge (P
 
 You can buy train tickets from both [Trainline](https://www.thetrainline.com/) and [National Rail websites](https://www.nationalrail.co.uk/) for trains from Luton Airport to Cambridge, with a connection at London stations.  Travelling time by train is 2 – 2.5 hours. 
 
-# From Cambridge to your accommodation and the Centre for Mathematical Sciences (CMS)
+## From Cambridge to your accommodation and the Centre for Mathematical Sciences (CMS)
 
 **_Taxis_**
 
@@ -78,6 +78,14 @@ To travel to both the Centre for Mathematical Sciences and the Summer School acc
 The U-bus departs from stop 8 (towards Eddington) at Cambridge train station and stops at [Churchill College/Wilberforce Road on Madingley Road](https://www.cam.ac.uk/system/files/universal_bus_route_map.pdf) which is a five minute walk from **Wychfield/Trinity Hall** and a two minute walk from the Centre for Mathematical Sciences.  The U-bus also stops at the Porter's Lodge of [**Robinson College**](https://www.cam.ac.uk/system/files/universal_bus_route_map.pdf) on Grange Road which is a ten minute walk from the Centre for Mathematical Sciences.  
 
 For the accommodation at **Wyng Gardens** use the [A the Busway Service](https://www.thebusway.info/routes-times.shtml) (from stop 8 at Cambridge station, towards St Ives) or the [number 1 bus](https://www.stagecoachbus.com/routes/east/1/arbury-fulbourn/xeao001.o) (stop 7 at Cambridge train station, towards Arbury).
+
+# Accommodation
+
+**_Wychfield/Trinity Hall_**
+
+[Storey's Way, Cambridge, CB3 0DZ]([https://tours.venueview.co.uk/share/collection/7FRlK?logo=-1&info=0&fs=1&vr=0&zoom=1&thumbs=-1&margin=9&inst=0](https://maps.app.goo.gl/9XHjMryLeMNUBgbx5)
+
+
 
 
 
