@@ -23,11 +23,11 @@ Coming soon.
 
 # Registration on arrival
 
-Registration: everyone must register in Pavilion A ("the core") of the [Centre for Mathematical Sciences](https://map.cam.ac.uk/#52.210003,0.103928,18,52.210149,0.101822) .  The CMS is located on Wilberforce Road, Cambridge, CB3 0WA. 
+_Registration_ 
 
-For those arriving on Saturday 6 July, you can register between 14.00 and 17.00. 
+Everyone must register in Pavilion A ("the core") of the [Centre for Mathematical Sciences](https://map.cam.ac.uk/#52.210003,0.103928,18,52.210149,0.101822).  The CMS is located on Wilberforce Road, Cambridge, CB3 0WA. 
 
-On Sunday 7 July, you can register from 10.00. On Wednesday 10 July, you can register from 9.00. 
+For those arriving on Saturday 6 July, you can register between 14.00 and 17.00. On Sunday 7 July, you can register from 10.00. On Wednesday 10 July, you can register from 9.00. 
 
 If you will arrive outside of these times, please make contact with one of the Summer School organisers, who will be wearing red lanyards or contact (iccs@maths.cam.ac.uk).
 
@@ -73,11 +73,9 @@ You can buy train tickets from both [Trainline](https://www.thetrainline.com/) a
 
 **_Bus_**
 
-**From Cambridge station:**  to get to both the Centre for Mathematical Sciences and the Summer School accommodation at **Wychfield/Trinity Hall** and **Robinson College** catch the the [U-Bus](https://www.environment.admin.cam.ac.uk/files/u_timetable_both_directions_a4_size.pdf).  
+To travel to both the Centre for Mathematical Sciences and the Summer School accommodation at **Wychfield/Trinity Hall** and **Robinson College** catch the the [U-Bus](https://www.environment.admin.cam.ac.uk/files/u_timetable_both_directions_a4_size.pdf).  
 
-The U-bus departs from stop 8 (towards Eddington) at Cambridge train station and stops at [Churchill College/Wilberforce Road on Madingley Road](https://www.cam.ac.uk/system/files/universal_bus_route_map.pdf) which is a five minute walk from **Wychfield/Trinity Hall** and a two minute walk from the Centre for Mathematical Sciences.  
-
-The U-bus also stops at the Porter's Lodge of [**Robinson College**](https://www.cam.ac.uk/system/files/universal_bus_route_map.pdf) on Grange Road which is a ten minute walk from the Centre for Mathematical Sciences.  
+The U-bus departs from stop 8 (towards Eddington) at Cambridge train station and stops at [Churchill College/Wilberforce Road on Madingley Road](https://www.cam.ac.uk/system/files/universal_bus_route_map.pdf) which is a five minute walk from **Wychfield/Trinity Hall** and a two minute walk from the Centre for Mathematical Sciences.  The U-bus also stops at the Porter's Lodge of [**Robinson College**](https://www.cam.ac.uk/system/files/universal_bus_route_map.pdf) on Grange Road which is a ten minute walk from the Centre for Mathematical Sciences.  
 
 For the accommodation at **Wyng Gardens** use the [A the Busway Service](https://www.thebusway.info/routes-times.shtml) (from stop 8 at Cambridge station, towards St Ives) or the [number 1 bus](https://www.stagecoachbus.com/routes/east/1/arbury-fulbourn/xeao001.o) (stop 7 at Cambridge train station, towards Arbury).
 
