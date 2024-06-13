@@ -83,7 +83,7 @@ For the accommodation at **Wyng Gardens** use the [A the Busway Service](https:/
 
 **_Wychfield/Trinity Hall_**
 
-[Storey's Way, Cambridge, CB3 0DZ]([https://tours.venueview.co.uk/share/collection/7FRlK?logo=-1&info=0&fs=1&vr=0&zoom=1&thumbs=-1&margin=9&inst=0](https://maps.app.goo.gl/9XHjMryLeMNUBgbx5)
+[Storey's Way, Cambridge, CB3 0DZ](https://maps.app.goo.gl/9XHjMryLeMNUBgbx5)
 
 
 
