@@ -41,25 +41,25 @@ If you’re planning on driving to Cambridge, we strongly recommend that you use
 
 [Trainline](https://www.thetrainline.com/) is the most widely used and cheapest website to book train travel in the UK.  You can also use the [National Rail website](https://www.nationalrail.co.uk/) to book tickets.  
 
-_Heathrow Airport_
+**_Heathrow Airport_**
 
 Heathrow rail connections [are shown in this map](https://www.heathrow.com/content/dam/heathrow/web/common/documents/transport/Rail-and-tube-map.pdf). The Elizabeth Line, the Heathrow Express (both overground services) and the Piccadilly Line (underground/tube) will all take you into London to catch onward services to Cambridge.  All four operational Heathrow terminals have both overground rail and underground (tube) connections to London stations.  The London stations with services to Cambridge are Farringdon, Kings Cross/St Pancras and London Liverpool Street stations.  Travelling time by train from Heathrow Airport is 2 - 3 hours.
 
 There are also frequent direct coaches to central Cambridge (Parkside stop) from Heathrow, on the [National Express coach service](https://www.nationalexpress.com/en).  Travelling time by coach from Heathrow Airport is 2 - 3 hours.
 
-_Gatwick Airport_
+**_Gatwick Airport_**
 
 There is a direct train service from Gatwick Airport to Cambridge on the Thameslink line (once per hour on Sundays) as well as numerous other services connecting at London stations (London Victoria and Kings Cross/St Pancras) for onward services to Cambridge.  Tickets are available at both 
 [Trainline](https://www.thetrainline.com/) and [National Rail websites](https://www.nationalrail.co.uk/). Travelling time by train from Gatwick Airport is 2 - 2.5 hours.  
 
-_Stansted Airport_
+**_Stansted Airport_**
 
 There is a direct train service from Stansted Airport to Cambridge which takes 30 minutes.  There is another regular service to Cambridge with one connection, which takes 50 minutes.  Tickets are available at both 
 [Trainline](https://www.thetrainline.com/) and [National Rail websites](https://www.nationalrail.co.uk/). 
 
 The [National Express coach service](https://www.nationalexpress.com/en) also runs direct services from Stansted Airport to central Cambridge (Parkside stop) which takes 50 minutes.
 
-_Luton Airport_
+**_Luton Airport_**
 
 A coach service is the fastest and most direct way to reach central Cambridge (Parkside stop) from Luton Airport.  You can book tickets via [National Express](https://www.nationalexpress.com/en). Travelling time by coach is approximately 1 hour and 15 minutes.
 
@@ -67,11 +67,12 @@ You can buy train tickets from both [Trainline](https://www.thetrainline.com/) a
 
 # From Cambridge to your accommodation and the Centre for Mathematical Sciences (CMS)
 
-_Taxis_
+**_Taxis_**
 
 [CamCab](https://camcab.co.uk/) (01223 704704), [Panther](https://www.panthertaxis.co.uk/) (01223 715715) and Uber operate taxi services in Cambridge.
 
-_Bus_
+**_Bus_**
+
 There are buses from Cambridge station: for the Centre for Mathematical Sciences and Summer School accommodation at **Wychfield** and **Robinson College** catch the the [U-Bus](https://www.environment.admin.cam.ac.uk/files/u_timetable_both_directions_a4_size.pdf).  
 
 The U-bus departs from stop 8 at Cambridge train station and stops at [Churchill College/Wilberforce Road on Madingley Road](https://www.cam.ac.uk/system/files/universal_bus_route_map.pdf) which is a five minute walk from **Wychfield/Trinity Hall** and a two minute walk from the Centre for Mathematical Sciences.  
