@@ -31,6 +31,16 @@ For those arriving on Saturday 6 July, you can register between 14.00 and 17.00.
 
 If you will arrive outside of these times, please make contact with one of the Summer School organisers, who will be wearing red lanyards or contact (iccs@maths.cam.ac.uk).
 
+# Centre for Mathematical Sciences
+
+[Wilberforce Road, Cambridge, CB3 0WA](https://maps.app.goo.gl/P9uistum3M7c2koA7)
+
+There are two entries to the CMS for visitors, shown on the map below.
+
+
+
+A map of the CMS [here shows meeting room locations](http://www.cms.cam.ac.uk/files/plan/downloads/meetingrooms.png). 
+
 # Travel to Cambridge
 
 ## Car
@@ -85,7 +95,9 @@ For the accommodation at **Wyng Gardens** use the [A the Busway Service](https:/
 
 [Storey's Way, Cambridge, CB3 0DZ](https://maps.app.goo.gl/9XHjMryLeMNUBgbx5)
 
-Check in from 16.00 on the day of arrival at the Porters’ Lodge and check out by 10.00 on the day of departure.
+Check in from 16.00 on the day of arrival at the Porters’ Lodge and check out by 10.00 on the day of departure. The Porter's Lodge is manned 24 hours.
+
+There is no catering on this site.  Breakfast will be served at Trinity Hall's central site on Trinity Lane from 7.45
 
 _Bus_
 
@@ -113,7 +125,7 @@ Bus number 1 (stop 7 at Cambridge train station, towards Arbury) – alight at E
 
 Check-in after 13.00 and check-out before 9.30 am
 
-Check-in location is the main reception desk located in the Grange Road Porter’s Lodge on site and collect their room key – this is manned 24 hours
+Check-in location is the main reception desk located in the Grange Road Porter’s Lodge – this is manned 24 hours
 
 Breakfast is served on the main site in the Garden restaurant - full English and other options between 7.30 and 9.00am
 
