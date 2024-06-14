@@ -113,7 +113,7 @@ Bus number 1 (stop 7 at Cambridge train station, towards Arbury) – alight at E
 
 Check-in after 13.00 and check-out before 9.30 am
 
-Check-in location is the main reception desk located in the Grange Road Porter’s Lodge on site and collect their room key – this is manned 24hrs
+Check-in location is the main reception desk located in the Grange Road Porter’s Lodge on site and collect their room key – this is manned 24 hours
 
 Breakfast is served on the main site in the Garden restaurant - full English and other options between 7.30 and 9.00am
 
@@ -122,8 +122,6 @@ _Bus_
 U-Bus (stop 8 at Cambridge train station, towards Eddington) – alight at Robinson College on Grange Road
 
 ![assets/images/SummerSchool2024/Robinson-College-Entrance1.jpg](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Robinson-College-Entrance1.jpg)
-
-College Map
 
 ![Robinson College Map](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Robinson%20College%20map1.jpg)
 
