@@ -141,7 +141,7 @@ Bus number 1 (stop 7 at Cambridge train station, towards Arbury) – alight at E
 
 Breakfast will be served in the x at Trinity Hall's central site on [Trinity Lane]( https://maps.app.goo.gl/SkTLfxRHpQ4UPYjc8) from 7.30 or 7.45.  Please use the x entrance shown on the map below.
 
-Trinity Hall 
+Trinity Hall map here 
 
 **_Robinson College_**
 
@@ -160,5 +160,9 @@ U-Bus (stop 8 at Cambridge train station, towards Eddington) – alight at Robin
 ![assets/images/SummerSchool2024/Robinson-College-Entrance1.jpg](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Robinson-College-Entrance1.jpg)
 
 ![Robinson College Map](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Robinson%20College%20map1.jpg)
+
+**_Hilton Hotel_**
+
+[20 Downing Street, Cambridge, CB2 3DT](https://maps.app.goo.gl/avBqXoycpZHBDZux5)
 
 
