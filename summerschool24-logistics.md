@@ -5,7 +5,7 @@ title: Summer School 2024 Logistics
 
 # Contact during the Summer School
 
-General enquiries: iccs@maths.cam.ac.uk
+Questions and assistance: iccs@maths.cam.ac.uk
 
 Slack Channel: 
 
