@@ -85,10 +85,13 @@ For the accommodation at **Wyng Gardens** use the [A the Busway Service](https:/
 
 [Storey's Way, Cambridge, CB3 0DZ](https://maps.app.goo.gl/9XHjMryLeMNUBgbx5)
 
+Check in from 16.00 on the day of arrival at the Porters’ Lodge and check out by 10.00 on the day of departure.
+
+U-bus towards Eddington from stop 8 at Cambridge train station – alight at Churchill College/Wilberforce Road on Madingley Road
 
 
 
-
+[Wychfield/Trinity Hall](https://github.com/Cambridge-ICCS/cambridge-iccs.github.io/blob/main/assets/images/SummerSchool2024/Wychfield%20Trinity%20Hall%20site%20map.PNG)
 
 
 
