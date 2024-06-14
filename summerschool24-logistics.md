@@ -137,6 +137,12 @@ Bus number 1 (stop 7 at Cambridge train station, towards Arbury) – alight at E
 
 ![assets/images/SummerSchool2024/Wychfield Wyng Gardens.PNG](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Wyng_Gardens_Cambridge-003_edit.jpg)
 
+**_Wychfield and Wyng Gardens breakfast location_**
+
+Breakfast will be served in the x at Trinity Hall's central site on [Trinity Lane]( https://maps.app.goo.gl/SkTLfxRHpQ4UPYjc8) from 7.30 or 7.45.  Please use the x entrance shown on the map below.
+
+Trinity Hall 
+
 **_Robinson College_**
 
 [Grange Road, Cambridge, CB3 9AN](https://maps.app.goo.gl/wXdkTEoCCxRHgeFT9)
