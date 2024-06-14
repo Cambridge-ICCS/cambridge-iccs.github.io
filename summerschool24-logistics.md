@@ -109,7 +109,11 @@ U-bus towards Eddington from stop 8 at Cambridge train station – alight at Chu
 
 [Thompson's Lane, Cambridge, CB5 8AQ](https://maps.app.goo.gl/YY3fvEteN4ruwCtw9)
 
-Check in from 16.00 on the day of arrival at the Porters’ Lodge and check out by 10.00 on the day of departure.
+Check in from 16.00 on the day of arrival at the Porters’ Lodge and check out by 10.00 on the day of departure.  Duty Porter telephone extension: 62824. If the Porter’s desk is not manned, then call the Central Site Porter’s Lodge on 01223 332500. 
+
+There is no smoking allowed inside or outside at Wyng Gardens.
+
+If you require luggage storage, please contact the Porter.
 
 _Buses_
 
