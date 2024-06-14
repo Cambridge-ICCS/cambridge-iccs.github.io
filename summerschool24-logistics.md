@@ -121,7 +121,7 @@ _Bus_
 
 U-Bus (stop 8 at Cambridge train station, towards Eddington) – alight at Robinson College on Grange Road
 
-![assets/images/SummerSchool2024/Robinson-College-Entrance.jpg](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Robinson-College-Entrance.jpg)
+![assets/images/SummerSchool2024/Robinson-College-Entrance.jpg](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Robinson-College-Entrance.jpg](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Robinson%20College%20map1.jpg)
 
 College Map
 
