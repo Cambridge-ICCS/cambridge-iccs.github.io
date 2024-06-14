@@ -107,7 +107,7 @@ Bus number 1 (stop 7 at Cambridge train station, towards Arbury) – alight at E
 
 ![assets/images/SummerSchool2024/Wychfield Wyng Gardens.PNG](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Wyng_Gardens_Cambridge-002_edit.jpg)
 
-**_Robinson_**
+**_Robinson College_**
 
 [Grange Road, Cambridge, CB3 9AN](https://maps.app.goo.gl/wXdkTEoCCxRHgeFT9)
 
@@ -122,6 +122,8 @@ Breakfast is served on the main site in the Garden restaurant - full English and
 _Bus_
 
 U-Bus (stop 8 at Cambridge train station, towards Eddington) – alight at Robinson College on Grange Road
+
+![assets/images/SummerSchool2024/Robinson-College-Entrance.jpg](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Robinson-College-Entrance.jpg)
 
 
 
