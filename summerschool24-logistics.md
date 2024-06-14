@@ -87,6 +87,8 @@ For the accommodation at **Wyng Gardens** use the [A the Busway Service](https:/
 
 Check in from 16.00 on the day of arrival at the Porters’ Lodge and check out by 10.00 on the day of departure.
 
+_Bus_
+
 U-bus towards Eddington from stop 8 at Cambridge train station – alight at Churchill College/Wilberforce Road on Madingley Road
 
 ![assets/images/SummerSchool2024/Wychfield Trinity Hall site.PNG](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Wychfield%20Trinity%20Hall%20site.PNG)
@@ -97,12 +99,29 @@ U-bus towards Eddington from stop 8 at Cambridge train station – alight at Chu
 
 Check in from 16.00 on the day of arrival at the Porters’ Lodge and check out by 10.00 on the day of departure.
 
-A the Busway (stop 9 at Cambridge train station, toward St Ives) – alight at Jesus Lane
+_Buses_
 
-Bus number 1 (stop 7 at Cambridge train station, toward Arbury) – alight at Emmanuel Street 
+A the Busway (stop 9 at Cambridge train station, towards St Ives) – alight at Jesus Lane
+
+Bus number 1 (stop 7 at Cambridge train station, towards Arbury) – alight at Emmanuel Street 
 
 ![assets/images/SummerSchool2024/Wychfield Wyng Gardens.PNG](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Wyng_Gardens_Cambridge-002_edit.jpg)
 
+**_Robinson_**
+
+[Grange Road, Cambridge, CB3 9AN](https://maps.app.goo.gl/wXdkTEoCCxRHgeFT9)
+
+Check-in after 13.00
+
+Check-out before 9.30 am
+
+Check-in location is the main reception desk located in the Grange Road Porter’s Lodge on site and collect their room key – this is manned 24hrs
+
+Breakfast is served on the main site in the Garden restaurant - full English and other options between 7.30 and 9.00am
+
+_Bus_
+
+U-Bus (stop 8 at Cambridge train station, towards Eddington) – alight at Robinson College on Grange Road
 
 
 
