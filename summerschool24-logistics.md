@@ -41,6 +41,10 @@ There are two visitor gates at the CMS, shown on the map below.
 
 A map of the CMS [here shows meeting room locations](http://www.cms.cam.ac.uk/files/plan/downloads/meetingrooms.png). 
 
+## Internet access/Wifi
+
+Free guest wifi is available in all Cambridge University and College buildings, including at your accommodation.  You can register for a wireless connection through UniOfCam-Guest https://help.uis.cam.ac.uk/guest-wifi using your email address.
+
 # Travel to Cambridge
 
 ## Car
@@ -95,9 +99,15 @@ For the accommodation at **Wyng Gardens** use the [A the Busway Service](https:/
 
 [Storey's Way, Cambridge, CB3 0DZ](https://maps.app.goo.gl/9XHjMryLeMNUBgbx5)
 
-Check in from 16.00 on the day of arrival at the Porters’ Lodge and check out by 10.00 on the day of departure. The Porter's Lodge is manned 24 hours.
+Check in from 16.00 on the day of arrival at the Porters’ Lodge and check out by 10.00 on the day of departure. The Porter's Lodge is open 24 hours.
 
 There is no catering on this site.  Breakfast will be served at Trinity Hall's central site on Trinity Lane from 7.45
+
+The Porters Lodge telephone number is 01223 339029. 
+
+There is no smoking allowed inside or outside at Wychfield.  There is a designated smoking area near block K, please ask the Porters for more information.
+
+If you require luggage storage, please contact the Porter.
 
 _Bus_
 
@@ -109,7 +119,11 @@ U-bus towards Eddington from stop 8 at Cambridge train station – alight at Chu
 
 [Thompson's Lane, Cambridge, CB5 8AQ](https://maps.app.goo.gl/YY3fvEteN4ruwCtw9)
 
-Check in from 16.00 on the day of arrival at the Porters’ Lodge and check out by 10.00 on the day of departure.  Duty Porter telephone extension: 62824. If the Porter’s desk is not manned, then call the Central Site Porter’s Lodge on 01223 332500. 
+Check in from 16.00 on the day of arrival at the Porters’ Lodge and check out by 10.00 on the day of departure.  
+
+There is no catering on this site.  Breakfast will be served at Trinity Hall's central site on Trinity Lane from 7.45
+
+The Wyng Gardens Duty Porter telephone extension is 62824. If the Porter’s desk is not manned, then call the Central Site Porter’s Lodge on 01223 332500. 
 
 There is no smoking allowed inside or outside at Wyng Gardens.
 
