@@ -177,19 +177,19 @@ The entrance is on Pembroke Street where you will see the Whale Hall at the top 
 
 ![DAB](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Entrance-David%20Attenborough%20Building1.jpg)
 
-![Map](https://github.com/Cambridge-ICCS/cambridge-iccs.github.io/blob/main/assets/images/SummerSchool2024/WhaleHall.jpg)
+![Map](xx)
 
 **_St John's College_**
 
 [St John's College](https://maps.app.goo.gl/SqcSpDT4aScjeA7y5) will be the venue for several days during the Cross-VESRI conference, the entrance to the Old Divinity School is shown in the map below.
 
-![OldDiv](https://github.com/Cambridge-ICCS/cambridge-iccs.github.io/blob/main/assets/images/SummerSchool2024/OldDivinity.JPG)
+![OldDiv](xx)
 
 **_University Centre and Graduate Hotel_**
 
 The Cross-VESRI poster session and closing reception barbecue will be held on 9 July on the first floor at the [University Centre](https://maps.app.goo.gl/HSypSeuUef8NrzncA) CB2 1RU and the [Graduate Hotel](https://maps.app.goo.gl/axXGs1RLKMqDn77U6) CB2 1RT.
 
-![UC Graduate](https://github.com/Cambridge-ICCS/cambridge-iccs.github.io/blob/main/assets/images/SummerSchool2024/UC%20and%20Graduate.jpg)
+![UC Graduate](xx)
 
 
 
