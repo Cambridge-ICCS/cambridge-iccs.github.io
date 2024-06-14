@@ -171,7 +171,7 @@ U-Bus (stop 8 at Cambridge train station, towards Eddington) – alight at Robin
 
 The Cross-VESRI conference will open with drinks and canapes on 7 July at the [Museum of Zoology's Whale Hall](https://maps.app.goo.gl/J4CaBkTGZZeqkYNC8), Downing Street, CB2 3EJ.  
 
-The entrance is on Pembroke Street where you will see the Whale Hall at the top of the first set of stairs, images below.  
+The entrance is on Pembroke Street where you will see the Whale Hall at the top of the first set of stairs in the David Attenborough building, images below.  
 
 ![Entrance via Pembroke Street](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/pembroke_arch_pjh.jpg)
 
