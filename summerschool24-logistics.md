@@ -37,7 +37,7 @@ If you will arrive outside of these times, please make contact with one of the S
 
 There are two entries to the CMS for visitors, shown on the map below.
 
-
+![CMS](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/CMS%20mapcrop.jpg)
 
 A map of the CMS [here shows meeting room locations](http://www.cms.cam.ac.uk/files/plan/downloads/meetingrooms.png). 
 
