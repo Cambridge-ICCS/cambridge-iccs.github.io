@@ -91,6 +91,18 @@ U-bus towards Eddington from stop 8 at Cambridge train station – alight at Chu
 
 ![assets/images/SummerSchool2024/Wychfield Trinity Hall site.PNG](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Wychfield%20Trinity%20Hall%20site.PNG)
 
+**_Wyng Gardens/Trinity Hall_**
+
+[Thompson's Lane, Cambridge, CB5 8AQ](https://maps.app.goo.gl/YY3fvEteN4ruwCtw9)
+
+Check in from 16.00 on the day of arrival at the Porters’ Lodge and check out by 10.00 on the day of departure.
+
+A the Busway (stop 9 at Cambridge train station, toward St Ives) – alight at Jesus Lane
+
+Bus number 1 (stop 7 at Cambridge train station, toward Arbury) – alight at Emmanuel Street 
+
+![assets/images/SummerSchool2024/Wychfield Wyng Gardens.PNG](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Wyng_Gardens_Cambridge-002_edit.jpg)
+
 
 
 
