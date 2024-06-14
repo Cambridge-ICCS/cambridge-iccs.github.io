@@ -35,7 +35,7 @@ If you will arrive outside of these times, please make contact with one of the S
 
 [Wilberforce Road, Cambridge, CB3 0WA](https://maps.app.goo.gl/P9uistum3M7c2koA7)
 
-There are two entries to the CMS for visitors, shown on the map below.
+There are two visitor gates at the CMS, shown on the map below.
 
 ![CMS](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/CMS%20mapcrop.jpg)
 
