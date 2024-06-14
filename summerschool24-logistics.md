@@ -165,4 +165,40 @@ U-Bus (stop 8 at Cambridge train station, towards Eddington) – alight at Robin
 
 [20 Downing Street, Cambridge, CB2 3DT](https://maps.app.goo.gl/avBqXoycpZHBDZux5)
 
+# Other locations
+
+**_Museum of Zoology Whale Hall_**
+
+The Museum of Zoology will host drinks and canapes during the Cross-VESRI event.  The entrance is on Pembroke Street from where you will see the Whale Hall at the top of the stairs on the right.
+
+
+
+**_St John's College_**
+
+St John's College will be the venue for several days during the Cross-VESRI conference, shown in the map below.
+
+
+**_University Centre_**
+
+The Cross-VESRI poster session will be held in the Main Hall on the first floor at the University Centre.
+
+
+**_Graduate Hotel_**
+
+The Cross-VESRI closing reception barbecue will be held at the Graduate Hotel.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
