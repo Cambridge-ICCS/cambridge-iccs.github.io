@@ -43,7 +43,7 @@ A map of the CMS [here shows meeting room locations](http://www.cms.cam.ac.uk/fi
 
 ## Internet access/Wifi
 
-Free guest wifi is available in all Cambridge University and College buildings, including at your accommodation.  You can register for a wireless connection through UniOfCam-Guest https://help.uis.cam.ac.uk/guest-wifi using your email address.
+Free guest wifi is available in all Cambridge University and College buildings, including at your accommodation.  You can register for a wireless connection using your email address through **_UniOfCam-Guest_** in your list of available networks.  Complete instructions here https://help.uis.cam.ac.uk/guest-wifi.
 
 # Travel to Cambridge
 
