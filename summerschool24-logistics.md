@@ -99,11 +99,11 @@ For the accommodation at **Wyng Gardens** use the [A the Busway Service](https:/
 
 [Storey's Way, Cambridge, CB3 0DZ](https://maps.app.goo.gl/9XHjMryLeMNUBgbx5)
 
-Check in from 16.00 on the day of arrival at the Porters’ Lodge and check out by 10.00 on the day of departure. The Porter's Lodge is open 24 hours.
-
-There is no catering on this site.  Breakfast will be served at Trinity Hall's central site on Trinity Lane from 7.45
+Check in from 16.00 on the day of arrival at the Porters’ Lodge and check out by 10.00 on the day of departure. The Porter's Lodge is open 24 hours a day.
 
 The Porters Lodge telephone number is 01223 339029. 
+
+There is no catering on this site.  Breakfast will be served at Trinity Hall's central site on Trinity Lane from 7.45.
 
 There is no smoking allowed inside or outside at Wychfield.  There is a designated smoking area near block K, please ask the Porters for more information.
 
@@ -121,9 +121,9 @@ U-bus towards Eddington from stop 8 at Cambridge train station – alight at Chu
 
 Check in from 16.00 on the day of arrival at the Porters’ Lodge and check out by 10.00 on the day of departure.  
 
-There is no catering on this site.  Breakfast will be served at Trinity Hall's central site on Trinity Lane from 7.45
-
 The Wyng Gardens Duty Porter telephone extension is 62824. If the Porter’s desk is not manned, then call the Central Site Porter’s Lodge on 01223 332500. 
+
+There is no catering on this site.  Breakfast will be served at Trinity Hall's central site on Trinity Lane from 7.45.
 
 There is no smoking allowed inside or outside at Wyng Gardens.
 
@@ -141,11 +141,11 @@ Bus number 1 (stop 7 at Cambridge train station, towards Arbury) – alight at E
 
 [Grange Road, Cambridge, CB3 9AN](https://maps.app.goo.gl/wXdkTEoCCxRHgeFT9)
 
-Check-in after 13.00 and check-out before 9.30 am
+Check in after 13.00 and check out before 9.30 am
 
-Check-in location is the main reception desk located in the Grange Road Porter’s Lodge – this is manned 24 hours
+Check in location is the main reception desk located in the Grange Road Porter’s Lodge which is manned 24 hours a day.
 
-Breakfast is served on the main site in the Garden restaurant - full English and other options between 7.30 and 9.00am
+Breakfast is served in the Garden restaurant between 7.30 and 9.00 am.
 
 _Bus_
 
