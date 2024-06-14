@@ -89,10 +89,7 @@ Check in from 16.00 on the day of arrival at the Porters’ Lodge and check out 
 
 U-bus towards Eddington from stop 8 at Cambridge train station – alight at Churchill College/Wilberforce Road on Madingley Road
 
-
-
-[Wychfield/Trinity Hall](https://github.com/Cambridge-ICCS/cambridge-iccs.github.io/blob/main/assets/images/SummerSchool2024/Wychfield%20Trinity%20Hall%20site%20map.PNG)
-
+![assets/images/SummerSchool2024/Wychfield Trinity Hall site.PNG](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Wychfield%20Trinity%20Hall%20site.PNG)
 
 
 
