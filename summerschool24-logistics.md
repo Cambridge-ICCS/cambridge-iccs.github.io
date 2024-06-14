@@ -173,11 +173,11 @@ The Cross-VESRI conference will open with drinks and canapes on 7 July at the [M
 
 The entrance is on Pembroke Street where you will see the Whale Hall at the top of the first set of stairs, image below.  
 
-
+![Entrance via Pembroke Street](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/pembroke_arch_pjh.jpg)
 
 The Whale Hall is inside the David Attenborough Building, image below.
 
-
+![DAB](
 
 **_St John's College_**
 
