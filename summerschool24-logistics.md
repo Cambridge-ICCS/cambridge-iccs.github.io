@@ -169,7 +169,13 @@ U-Bus (stop 8 at Cambridge train station, towards Eddington) – alight at Robin
 
 **_Museum of Zoology Whale Hall_**
 
-The Cross-VESRI conference will open with drinks and canapes on 7 July at the [Museum of Zoology's Whale Hall](https://maps.app.goo.gl/J4CaBkTGZZeqkYNC8), Downing Street, CB2 3EJ.  The entrance is on Pembroke Street where you will see the Whale Hall at the top of the first set of stairs.
+The Cross-VESRI conference will open with drinks and canapes on 7 July at the [Museum of Zoology's Whale Hall](https://maps.app.goo.gl/J4CaBkTGZZeqkYNC8), Downing Street, CB2 3EJ.  
+
+The entrance is on Pembroke Street where you will see the Whale Hall at the top of the first set of stairs, image below.  
+
+
+
+The Whale Hall is inside the David Attenborough Building, image below.
 
 
 
