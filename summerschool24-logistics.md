@@ -177,7 +177,7 @@ The entrance is on Pembroke Street where you will see the Whale Hall at the top 
 
 The Whale Hall is inside the David Attenborough Building, image below.
 
-![DAB](
+![DAB](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Entrance-David%20Attenborough%20Building1.jpg)
 
 **_St John's College_**
 
