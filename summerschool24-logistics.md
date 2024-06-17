@@ -190,7 +190,7 @@ The entrance is on Pembroke Street, via Pembroke Arch, shown on the map below wi
 
 ![DAB](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Entrance-David%20Attenborough%20Building1.jpg)
 
-![Map](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/WhaleHallmap1.jpg)
+![Map](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/WhaleHallmap2.jpg)
 
 **_St John's College_**
 
