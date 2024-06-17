@@ -50,6 +50,10 @@ Free guest wifi is available in all Cambridge University and College buildings, 
 
 If you’re planning on driving to Cambridge, we strongly recommend that you use the [Park & Ride bus scheme](https://cambridgeparkandride.info/). Parking in the city centre is extremely limited (with no parking at the CMS) and several city centre roads have restricted access with penalties for using them. Those travelling from the north can also use the Guided Busway Park & Ride services (follow signs for Longstanton P&R from Junction 29 of the A14). Disabled parking is available in the city’s car parks and on some streets. Please check in advance with the Cambridge Tourist Information Centre or visit [www.cambridge.gov.uk/parking](www.cambridge.gov.uk/parking).
 
+EScooters, EBikes & Walking
+
+
+
 ## Train
 
 [Trainline](https://www.thetrainline.com/) is the most widely used and cheapest website to book train travel in the UK.  You can also use the [National Rail website](https://www.nationalrail.co.uk/) to book tickets.  
