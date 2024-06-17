@@ -7,7 +7,7 @@ title: Summer School 2024 Logistics
 
 Questions and assistance: iccs@maths.cam.ac.uk
 
-Slack Channel: iccssummerschool24.slack.com
+Slack Channel: iccssummerschool24.slack.com (https://join.slack.com/t/iccssummerschool24/shared_invite/zt-2kspd7rl3-FPlovglmib6g_Qs~D4VslA)
 
 You have been sent an invitation to the Summer School slack channel, please email iccs@maths.cam.ac.uk if you have not received an invitation.
 
@@ -19,8 +19,7 @@ The open exchange of ideas and the freedom of thought and expression are central
 
 There is no tolerance for unwelcome, hostile, or disruptive behaviour or speech that intimidates, creates discomfort, or interferes with a person’s participation or opportunity for participation at the event. Participants asked to stop any harassing behaviour are expected to comply immediately. Participants violating these standards may be expelled from this and future events.
 
-If you witness or are subject to unacceptable behaviour, please talk to one
-of the ICCS leadership: Dominic Orchard or Marla Fuchs.
+If you witness or are subject to unacceptable behaviour, please talk to one of the ICCS leadership: [Dominic Orchard](dao29@cam.ac.uk) or [Marla Fuchs](mf372@cam.ac.uk).
 
 # Registration on arrival
 
