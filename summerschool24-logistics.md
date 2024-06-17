@@ -7,7 +7,8 @@ title: Summer School 2024 Logistics
 
 Questions and assistance: iccs@maths.cam.ac.uk
 
-Slack Channel: iccssummerschool24.slack.com (https://join.slack.com/t/iccssummerschool24/shared_invite/zt-2kspd7rl3-FPlovglmib6g_Qs~D4VslA)
+Slack Channel: iccssummerschool24.slack.com 
+https://join.slack.com/t/iccssummerschool24/shared_invite/zt-2kspd7rl3-FPlovglmib6g_Qs~D4VslA
 
 You have been sent an invitation to the Summer School slack channel, please email iccs@maths.cam.ac.uk if you have not received an invitation.
 
