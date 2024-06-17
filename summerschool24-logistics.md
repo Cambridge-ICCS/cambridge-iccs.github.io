@@ -120,7 +120,7 @@ _Bus_
 
 U-bus towards Eddington from stop 8 at Cambridge train station – alight at Churchill College/Wilberforce Road on Madingley Road
 
-![assets/images/SummerSchool2024/Wychfield Trinity Hall site.PNG](https://github.com/Cambridge-ICCS/cambridge-iccs.github.io/blob/main/assets/images/SummerSchool2024/Wychfield%20general1.jpg)
+![assets/images/SummerSchool2024/Wychfield Trinity Hall site.PNG](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Wychfield%20Trinity%20Hall%20site.PNG)
 
 **_Wyng Gardens/Trinity Hall_**
 
