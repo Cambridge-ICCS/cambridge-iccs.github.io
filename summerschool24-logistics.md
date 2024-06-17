@@ -9,17 +9,16 @@ Questions and assistance: iccs@maths.cam.ac.uk
 
 Slack Channel: 
 
-# Links for virtual participation
-
-## Join Zoom Meeting
-
-Meeting ID and passcode: sent via email
-
 Sessions will be recorded and posted to the [ICCS Youtube Channel](https://www.youtube.com/@instituteofcomputingforcli3982)
 
 # Code of conduct
 
-Coming soon.
+The open exchange of ideas and the freedom of thought and expression are central to the aims and goals of the summer school; these require an environment that recognizes the inherent worth of every person and group, that fosters dignity, understanding, and mutual respect, and that embraces diversity. We are dedicated to providing a safe, hospitable, productive, and harassment-free and discrimination-free environment for everyone attending, regardless of ethnicity, religion, disability, physical appearance, gender, or sexual orientation. In particular, we expect all the participants to use welcoming and inclusive language, to be respectful of differing viewpoints and experiences, to gracefully accept constructive criticism, to focus on what is best for the community, and to show empathy towards other community members. We expect everyone to communicate openly with respect and consideration for others, treating each other as equals. It is important to re- member that a community where people feel uncomfortable or threatened is neither healthy nor productive.
+
+There is no tolerance for unwelcome, hostile, or disruptive behaviour or speech that intimidates, creates discomfort, or interferes with a person’s participation or opportunity for participation at the event. Participants asked to stop any harassing behaviour are expected to comply immediately. Participants violating these standards may be expelled from this and future events.
+
+If you witness or are subject to unacceptable behaviour, please talk to one
+of the ICCS leadership: Dominic Orchard or Marla Fuchs.
 
 # Registration on arrival
 
@@ -27,7 +26,7 @@ Coming soon.
 
 Everyone must register in Pavilion A ("the core") of the [Centre for Mathematical Sciences](https://map.cam.ac.uk/#52.210003,0.103928,18,52.210149,0.101822).  The CMS is located on Wilberforce Road, Cambridge, CB3 0WA. 
 
-For those arriving on Saturday 6 July, you can register between 14.00 and 17.00. On Sunday 7 July, you can register from 10.00. On Wednesday 10 July, you can register from 9.00. 
+For those arriving on Saturday 6 July, you can register between 14.00 and 17.00. On Sunday 7 July, you can register from 10.00. On Wednesday 10 July, you can register from 13.00. 
 
 If you will arrive outside of these times, please make contact with one of the Summer School organisers, who will be wearing red lanyards or contact (iccs@maths.cam.ac.uk).
 
