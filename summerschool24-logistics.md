@@ -142,7 +142,7 @@ A the Busway (stop 9 at Cambridge train station, towards St Ives) – alight at 
 
 Bus number 1 (stop 7 at Cambridge train station, towards Arbury) – alight at Emmanuel Street 
 
-![assets/images/SummerSchool2024/Wychfield Wyng Gardens.PNG][https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Wychfield%20general1.jpg)
+![assets/images/SummerSchool2024/Wychfield Wyng Gardens.PNG](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Wyng_Gardens_Cambridge-003_edit.jpg)
 
 **_Wychfield and Wyng Gardens breakfast location_**
 
