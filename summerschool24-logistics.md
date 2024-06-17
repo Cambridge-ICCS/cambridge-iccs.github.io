@@ -196,13 +196,12 @@ The entrance is on Pembroke Street, via Pembroke Arch, shown on the map below wi
 
 [St John's College](https://maps.app.goo.gl/SqcSpDT4aScjeA7y5) will be the venue for several days during the Cross-VESRI conference, the entrance to the Old Divinity School is shown in the map below.
 
-![OldDiv](xx)
+![OldDiv](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/OldDivinity1.JPG)
 
 **_University Centre and Graduate Hotel_**
 
 The Cross-VESRI poster session and closing reception barbecue will be held on 9 July on the first floor at the [University Centre](https://maps.app.goo.gl/HSypSeuUef8NrzncA) CB2 1RU and the [Graduate Hotel](https://maps.app.goo.gl/axXGs1RLKMqDn77U6) CB2 1RT.
 
-![UC Graduate](xx)
 
 
 
