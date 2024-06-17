@@ -8,7 +8,6 @@ title: Summer School 2024 Logistics
 Questions and assistance: iccs@maths.cam.ac.uk
 
 Slack Channel: iccssummerschool24.slack.com 
-
 https://join.slack.com/t/iccssummerschool24/shared_invite/zt-2kspd7rl3-FPlovglmib6g_Qs~D4VslA
 
 You have been sent an invitation to the Summer School slack channel, please email iccs@maths.cam.ac.uk if you have not received an invitation.
@@ -173,7 +172,13 @@ U-Bus (stop 8 at Cambridge train station, towards Eddington) – alight at Robin
 
 [33A Milton Road, Cambridge, CB4 1UZ](https://maps.app.goo.gl/ozsDvcN5t5o5GpzA6)
 
-# Other locations
+Check in after 16.00 and check out before 11.00 am
+
+Limited Parking off Gilbert Road, Postcode CB4 3NX.
+
+![Hilton the Fellows](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/fellows-house-exterior1.jpg)
+
+# Cross-VESRI Convening Meeting Locations
 
 **_Museum of Zoology Whale Hall_**
 
