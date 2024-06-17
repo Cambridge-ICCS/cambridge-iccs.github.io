@@ -110,7 +110,7 @@ Check in from 16.00 on the day of arrival at the Porters’ Lodge and check out 
 
 The Porters Lodge telephone number is 01223 339029. 
 
-There is no catering on this site.  Breakfast will be served at Trinity Hall's central site on Trinity Lane from 7.45.
+There is no catering on this site.  Breakfast will be served at [Trinity Hall's central site on Trinity Lane](https://maps.app.goo.gl/1QfpsJcetQUPykuMA)
 
 There is no smoking allowed inside or outside at Wychfield.  There is a designated smoking area near block K, please ask the Porters for more information.
 
@@ -130,7 +130,7 @@ Check in from 16.00 on the day of arrival at the Porters’ Lodge and check out 
 
 The Wyng Gardens Duty Porter telephone extension is 62824. If the Porter’s desk is not manned, then call the Central Site Porter’s Lodge on 01223 332500. 
 
-There is no catering on this site.  Breakfast will be served at Trinity Hall's central site on Trinity Lane from 7.45.
+There is no catering on this site.  Breakfast will be served at [Trinity Hall's central site on Trinity Lane](https://maps.app.goo.gl/1QfpsJcetQUPykuMA) from 7.45.
 
 There is no smoking allowed inside or outside at Wyng Gardens.
 
@@ -172,7 +172,7 @@ U-Bus (stop 8 at Cambridge train station, towards Eddington) – alight at Robin
 
 [33A Milton Road, Cambridge, CB4 1UZ](https://maps.app.goo.gl/ozsDvcN5t5o5GpzA6)
 
-Check in after 16.00 and check out before 11.00 am
+Check in after 16.00 and check out before 11.00 am.
 
 Limited Parking off Gilbert Road, Postcode CB4 3NX.
 
