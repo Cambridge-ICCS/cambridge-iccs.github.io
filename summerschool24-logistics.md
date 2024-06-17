@@ -8,6 +8,7 @@ title: Summer School 2024 Logistics
 Questions and assistance: iccs@maths.cam.ac.uk
 
 Slack Channel: iccssummerschool24.slack.com 
+
 https://join.slack.com/t/iccssummerschool24/shared_invite/zt-2kspd7rl3-FPlovglmib6g_Qs~D4VslA
 
 You have been sent an invitation to the Summer School slack channel, please email iccs@maths.cam.ac.uk if you have not received an invitation.
@@ -52,10 +53,6 @@ Free guest wifi is available in all Cambridge University and College buildings, 
 
 If you’re planning on driving to Cambridge, we strongly recommend that you use the [Park & Ride bus scheme](https://cambridgeparkandride.info/). Parking in the city centre is extremely limited (with no parking at the CMS) and several city centre roads have restricted access with penalties for using them. Those travelling from the north can also use the Guided Busway Park & Ride services (follow signs for Longstanton P&R from Junction 29 of the A14). Disabled parking is available in the city’s car parks and on some streets. Please check in advance with the Cambridge Tourist Information Centre or visit [www.cambridge.gov.uk/parking](www.cambridge.gov.uk/parking).
 
-EScooters, EBikes & Walking
-
-
-
 ## Train
 
 [Trainline](https://www.thetrainline.com/) is the most widely used and cheapest website to book train travel in the UK.  You can also use the [National Rail website](https://www.nationalrail.co.uk/) to book tickets.  
@@ -97,6 +94,12 @@ To travel to both the Centre for Mathematical Sciences and the Summer School acc
 The U-bus departs from stop 8 (towards Eddington) at Cambridge train station and stops at [Churchill College/Wilberforce Road on Madingley Road](https://www.cam.ac.uk/system/files/universal_bus_route_map.pdf) which is a five minute walk from **Wychfield/Trinity Hall** and a two minute walk from the Centre for Mathematical Sciences.  The U-bus also stops at the Porter's Lodge of [**Robinson College**](https://www.cam.ac.uk/system/files/universal_bus_route_map.pdf) on Grange Road which is a ten minute walk from the Centre for Mathematical Sciences.  
 
 For the accommodation at **Wyng Gardens** use the [A the Busway Service](https://www.thebusway.info/routes-times.shtml) (from stop 9 at Cambridge station, towards St Ives) or the [number 1 bus](https://www.stagecoachbus.com/routes/east/1/arbury-fulbourn/xeao001.o) (stop 7 at Cambridge train station, towards Arbury).
+
+## Walking
+
+Cambridge is small and compact, and it is usual for people to walk or ride between various parts of the city, especially in summer. There are e-scooters and e-bikes for hire but you may find parking inconvenient during the Summer School.  
+
+Walking distance from the CMS to Wyng Gardens accommodation is 20 minutes, Wychfield 10 minutes and the Hilton (Fellows House on Milton Road) is 25 minutes.  
 
 # Accommodation
 
@@ -166,9 +169,9 @@ U-Bus (stop 8 at Cambridge train station, towards Eddington) – alight at Robin
 
 ![Robinson College Map](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Robinson%20College%20map1.jpg)
 
-**_Hilton Hotel_**
+**_Hilton the Fellows House, Milton Road_**
 
-[20 Downing Street, Cambridge, CB2 3DT](https://maps.app.goo.gl/avBqXoycpZHBDZux5)
+[33A Milton Road, Cambridge, CB4 1UZ](https://maps.app.goo.gl/ozsDvcN5t5o5GpzA6)
 
 # Other locations
 
