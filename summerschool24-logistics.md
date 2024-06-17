@@ -202,7 +202,9 @@ The entrance is on Pembroke Street, via Pembroke Arch, shown on the map below wi
 
 The Cross-VESRI poster session and barbecue will be held on 9 July on the first floor at the [University Centre](https://maps.app.goo.gl/HSypSeuUef8NrzncA) CB2 1RU and the [Graduate Hotel](https://maps.app.goo.gl/axXGs1RLKMqDn77U6) CB2 1RT.
 
+**_All venues for Cross-VESRI convening and ICCS Summer School_**
 
+![all](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/All%20venues.JPG)
 
 
 
