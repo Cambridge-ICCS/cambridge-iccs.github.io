@@ -142,13 +142,13 @@ A the Busway (stop 9 at Cambridge train station, towards St Ives) – alight at 
 
 Bus number 1 (stop 7 at Cambridge train station, towards Arbury) – alight at Emmanuel Street 
 
-![assets/images/SummerSchool2024/Wychfield Wyng Gardens.PNG](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Wyng_Gardens_Cambridge-003_edit.jpg)
+![assets/images/SummerSchool2024/Wychfield Wyng Gardens.PNG][https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Wychfield%20general1.jpg)
 
 **_Wychfield and Wyng Gardens breakfast location_**
 
-Breakfast will be served in the x at Trinity Hall's central site on [Trinity Lane]( https://maps.app.goo.gl/SkTLfxRHpQ4UPYjc8) from 7.30 or 7.45.  Please use the x entrance shown on the map below.
+Breakfast will be served at Trinity Hall's central site on [Trinity Lane]( https://maps.app.goo.gl/SkTLfxRHpQ4UPYjc8) from 7.45. 
 
-Trinity Hall map here 
+![map]
 
 **_Robinson College_**
 
@@ -194,7 +194,7 @@ The entrance is on Pembroke Street, via Pembroke Arch, shown on the map below wi
 
 **_St John's College_**
 
-[St John's College](https://maps.app.goo.gl/SqcSpDT4aScjeA7y5) will be the venue for several days during the Cross-VESRI conference, the entrance to the Old Divinity School is shown in the map below.
+[St John's College](https://maps.app.goo.gl/SqcSpDT4aScjeA7y5) will be the venue for several days during the Cross-VESRI conference, the entrance to the Old Divinity School is shown in the map below.  The entrance to the old Divinity School is a few metres off St John's Street, on All Saints Passage.
 
 ![OldDiv](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/OldDivinity1.JPG)
 
