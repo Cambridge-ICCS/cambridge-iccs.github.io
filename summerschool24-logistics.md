@@ -204,6 +204,7 @@ The Cross-VESRI poster session and barbecue will be held on 9 July on the first 
 
 **_All venues for Cross-VESRI convening and ICCS Summer School_**
 
+
 ![all](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/All%20venues.JPG)
 
 
