@@ -166,6 +166,16 @@ Breakfast is served in the Garden restaurant between 7.30 and 9.00 am.
 
 U-Bus (stop 8 at Cambridge train station, towards Eddington) – alight at Robinson College on Grange Road
 
+**_Walking - Summer School_**
+
+[to Centre for Mathematical Sciences](https://maps.app.goo.gl/VjUSLKvV44TBzfgs9) - approximately 12 minutes
+
+**_Walking - Cross-VESRI Convening_**
+
+[to Trinity Hall central site](https://maps.app.goo.gl/couAFeJnyAgPv3th9) - approximately 10 minutes
+
+[to St John's College](https://maps.app.goo.gl/q7Uapbza2qpLBU3E7) - approximately 15 minutes
+
 ![assets/images/SummerSchool2024/Robinson-College-Entrance1.jpg](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Robinson-College-Entrance1.jpg)
 
 ![Robinson College Map](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Robinson%20College%20map1.jpg)
@@ -198,7 +208,7 @@ Number 1 bus (stop 7 at Cambridge station, towards Arbury) - alight at Westbrook
 
 Thursday evening we will be at Madingley Hall which is just outside the city. Transport will be provided, leaving the CMS at 17.15 with a later bus at 17.45. Please be ready to depart at 17.10 and 17.40. Return transport will depart Madingley Hall at 22.00.
 
-# Cross-VESRI Convening Meeting Locations
+# Cross-VESRI Convening Locations
 
 **_Museum of Zoology Whale Hall_**
 
