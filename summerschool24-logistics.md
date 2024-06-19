@@ -92,9 +92,9 @@ To travel to both the Centre for Mathematical Sciences and the Summer School acc
 
 The U-bus departs from stop 8 (towards Eddington) at Cambridge train station and stops at [Churchill College/Wilberforce Road on Madingley Road](https://www.cam.ac.uk/system/files/universal_bus_route_map.pdf) which is a five minute walk from **Wychfield/Trinity Hall** and a two minute walk from the Centre for Mathematical Sciences.  The U-bus also stops at the Porter's Lodge of [**Robinson College**](https://www.cam.ac.uk/system/files/universal_bus_route_map.pdf) on Grange Road which is a ten minute walk from the Centre for Mathematical Sciences.  
 
-For the accommodation at **Wyng Gardens** use the [A the Busway Service](https://www.thebusway.info/routes-times.shtml) (from stop 9 at Cambridge station, towards St Ives) or the [number 1 bus](https://www.stagecoachbus.com/routes/east/1/arbury-fulbourn/xeao001.o) (stop 7 at Cambridge train station, towards Arbury).
+For the accommodation at **Wyng Gardens** use the [A the Busway Service](https://www.thebusway.info/routes-times.shtml) (from stop 9 at Cambridge station, towards St Ives) or the [number 1 bus](https://www.stagecoachbus.com/routes/east/1/fulbourn-arbury/xeao001.i) (stop 7 at Cambridge train station, towards Arbury).
 
-For the **Hilton the Fellows House** catch the [number 1 bus](https://www.stagecoachbus.com/routes/east/1/arbury-fulbourn/xeao001.o) (stop 7 at Cambridge station, towards Arbury).
+For the **Hilton the Fellows House** catch the [number 1 bus](https://www.stagecoachbus.com/routes/east/1/fulbourn-arbury/xeao001.i) (stop 7 at Cambridge station, towards Arbury).
 
 ## Walking
 
