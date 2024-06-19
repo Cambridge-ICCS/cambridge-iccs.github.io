@@ -24,7 +24,7 @@ If you witness or are subject to unacceptable behaviour, please talk to one of t
 
 # Registration on arrival
 
-**_Registration_** 
+## Registration
 
 Everyone must register in Pavilion A ("the core") of the [Centre for Mathematical Sciences](https://map.cam.ac.uk/#52.210003,0.103928,18,52.210149,0.101822).  The CMS is located on Wilberforce Road, Cambridge, CB3 0WA. 
 
@@ -102,9 +102,15 @@ Cambridge is small and compact, and it is usual for people to walk or ride betwe
 
 Walking distance from the CMS to Wyng Gardens accommodation is 20 minutes, Wychfield 10 minutes and the Hilton (Fellows House on Milton Road) is 25 minutes.  
 
+# Miscellaneous
+
++ Dress code: the dinner does not have a particular dress code. We recommend standard smart-casual business/academic attire.
+
++ All provided dietary requirements are taken into account for the meals and dinners.
+
 # Accommodation
 
-**_Wychfield/Trinity Hall_**
+### Wychfield/Trinity Hall
 
 [Storey's Way, Cambridge, CB3 0DZ](https://maps.app.goo.gl/9XHjMryLeMNUBgbx5)
 
@@ -118,13 +124,13 @@ There is no smoking allowed inside or outside at Wychfield.  There is a designat
 
 If you require luggage storage, please contact the Porter.
 
-_Bus_
+**_Bus_**
 
 U-bus towards Eddington (stop 8 at Cambridge train station) – alight at Churchill College/Wilberforce Road on Madingley Road
 
 ![assets/images/SummerSchool2024/Wychfield Trinity Hall site.PNG](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Wychfield%20Trinity%20Hall%20site.PNG)
 
-**_Wyng Gardens/Trinity Hall_**
+### Wyng Gardens/Trinity Hall
 
 [Thompson's Lane, Cambridge, CB5 8AQ](https://maps.app.goo.gl/YY3fvEteN4ruwCtw9)
 
@@ -138,7 +144,7 @@ There is no smoking allowed inside or outside at Wyng Gardens.
 
 If you require luggage storage, please contact the Porter.
 
-_Buses_
+**_Buses_**
 
 A the Busway (stop 9 at Cambridge train station, towards St Ives) – alight at Jesus Lane
 
@@ -146,7 +152,7 @@ Bus number 1 (stop 7 at Cambridge train station, towards Arbury) – alight at E
 
 ![assets/images/SummerSchool2024/Wychfield Wyng Gardens.PNG](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Wyng_Gardens_Cambridge-003_edit.jpg)
 
-**_Robinson College_**
+### Robinson College
 
 [Grange Road, Cambridge, CB3 9AN](https://maps.app.goo.gl/wXdkTEoCCxRHgeFT9)
 
@@ -156,7 +162,7 @@ Check in location is the main reception desk located in the Grange Road Porter�
 
 Breakfast is served in the Garden restaurant between 7.30 and 9.00 am.
 
-_Bus_
+**_Bus_**
 
 U-Bus (stop 8 at Cambridge train station, towards Eddington) – alight at Robinson College on Grange Road
 
@@ -164,7 +170,7 @@ U-Bus (stop 8 at Cambridge train station, towards Eddington) – alight at Robin
 
 ![Robinson College Map](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Robinson%20College%20map1.jpg)
 
-**_Hilton the Fellows House, Milton Road_**
+### Hilton the Fellows House, Milton Road
 
 [33A Milton Road, Cambridge, CB4 1UZ](https://maps.app.goo.gl/ozsDvcN5t5o5GpzA6)
 
@@ -172,15 +178,15 @@ Check in after 16.00 and check out before 11.00 am.
 
 Limited Parking off Gilbert Road, Postcode CB4 3NX.
 
-### Bus
+**_Bus_**
 
 Number 1 bus (stop 7 at Cambridge station, towards Arbury) - alight at Westbrook Drive/Westbrook Centre stop on Milton Road
 
-### Walking - Summer School
+**_Walking - Summer School_**
 
 [to Centre for Mathematical Sciences](https://maps.app.goo.gl/PvxWe8bDfksYrqEb6) - approximately 25 minutes
 
-### Walking - Cross-VESRI Convening
+**_Walking - Cross-VESRI Convening_**
 
 [to Trinity Hall central site](https://maps.app.goo.gl/39d74z3rMpDGPuup7) - approximately 20 minutes
 
@@ -188,15 +194,9 @@ Number 1 bus (stop 7 at Cambridge station, towards Arbury) - alight at Westbrook
 
 ![Hilton the Fellows](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/fellows-house-exterior1.jpg)
 
-## Thursday Evening Dinner**
+**_Thursday Evening Dinner_**
 
 Thursday evening we will be at Madingley Hall which is just outside the city. Transport will be provided, leaving the CMS at 17.15 with a later bus at 17.45. Please be ready to depart at 17.10 and 17.40. Return transport will depart Madingley Hall at 22.00.
-
-# Miscellaneous
-
-+ Dress code: the dinner does not have a particular dress code. We recommend standard smart-casual business/academic attire.
-
-+ All provided dietary requirements are taken into account for the meals and dinners.
 
 # Cross-VESRI Convening Meeting Locations
 
