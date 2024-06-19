@@ -188,7 +188,7 @@ The entrance is on Pembroke Street, via Pembroke Arch, shown on the map below wi
 
 **_St John's College_**
 
-[St John's College](https://maps.app.goo.gl/SqcSpDT4aScjeA7y5) will be the venue for several days during the Cross-VESRI conference, the entrance to the Old Divinity School is shown in the map below.  The entrance to the old Divinity School is a few metres off St John's Street, on All Saints Passage.
+[St John's College](https://maps.app.goo.gl/SqcSpDT4aScjeA7y5) will be the venue for several days during the Cross-VESRI conference the entrance to the Old Divinity School.  The entrance to the old Divinity School shown in the map below is on All Saints Passage, just off St John's Street.
 
 ![OldDiv](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/OldDivinity1.JPG)
 
