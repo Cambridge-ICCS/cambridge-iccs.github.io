@@ -16,7 +16,7 @@ Sessions will be recorded and posted to the [ICCS Youtube Channel](https://www.y
 
 # Code of conduct
 
-The open exchange of ideas and the freedom of thought and expression are central to the aims and goals of the summer school; these require an environment that recognizes the inherent worth of every person and group, that fosters dignity, understanding, and mutual respect, and that embraces diversity. We are dedicated to providing a safe, hospitable, productive, and harassment-free and discrimination-free environment for everyone attending, regardless of ethnicity, religion, disability, physical appearance, gender, or sexual orientation. In particular, we expect all the participants to use welcoming and inclusive language, to be respectful of differing viewpoints and experiences, to gracefully accept constructive criticism, to focus on what is best for the community, and to show empathy towards other community members. We expect everyone to communicate openly with respect and consideration for others, treating each other as equals. It is important to re- member that a community where people feel uncomfortable or threatened is neither healthy nor productive.
+The open exchange of ideas and the freedom of thought and expression are central to the aims and goals of the summer school; these require an environment that recognizes the inherent worth of every person and group, that fosters dignity, understanding, and mutual respect, and that embraces diversity. We are dedicated to providing a safe, hospitable, productive, and harassment-free and discrimination-free environment for everyone attending, regardless of ethnicity, religion, disability, physical appearance, gender, or sexual orientation. In particular, we expect all the participants to use welcoming and inclusive language, to be respectful of differing viewpoints and experiences, to gracefully accept constructive criticism, to focus on what is best for the community, and to show empathy towards other community members. We expect everyone to communicate openly with respect and consideration for others, treating each other as equals. It is important to remember that a community where people feel uncomfortable or threatened is neither healthy nor productive.
 
 There is no tolerance for unwelcome, hostile, or disruptive behaviour or speech that intimidates, creates discomfort, or interferes with a person’s participation or opportunity for participation at the event. Participants asked to stop any harassing behaviour are expected to comply immediately. Participants violating these standards may be expelled from this and future events.
 
@@ -194,7 +194,7 @@ The entrance is on Pembroke Street, via Pembroke Arch, shown on the map below wi
 
 **_St John's College_**
 
-[St John's College](https://maps.app.goo.gl/SqcSpDT4aScjeA7y5) will be the venue for several days during the Cross-VESRI conference the entrance to the Old Divinity School.  The entrance to the old Divinity School shown in the map below is on All Saints Passage, just off St John's Street.
+[St John's College](https://maps.app.goo.gl/SqcSpDT4aScjeA7y5) will be the venue for several days during the Cross-VESRI convening the entrance to the Old Divinity School.  The entrance to the old Divinity School shown in the map below is on All Saints Passage, just off St John's Street.
 
 ![OldDiv](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/OldDivinity1.JPG)
 
