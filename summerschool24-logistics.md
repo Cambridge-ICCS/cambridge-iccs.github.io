@@ -188,7 +188,7 @@ U-Bus (stop 8 at Cambridge train station, towards Eddington) – alight at Robin
 
 **_Walking - Summer School_**
 
-[to Centre for Mathematical Sciences](https://maps.app.goo.gl/VjUSLKvV44TBzfgs9) - approximately 12 minutes
+[to Centre for Mathematical Sciences](https://maps.app.goo.gl/7jvky5fuZ1fsnkyD7) - approximately 10 minutes
 
 **_Walking - Cross-VESRI Convening_**
 
@@ -216,7 +216,7 @@ Number 1 bus (stop 7 at Cambridge station, towards Arbury) - alight at Westbrook
 
 **_Walking - Cross-VESRI Convening_**
 
-[to Trinity Hall central site](https://maps.app.goo.gl/39d74z3rMpDGPuup7) - approximately 20 minutes
+[to Trinity Hall central site](https://maps.app.goo.gl/39d74z3rMpDGPuup7) - approximately 23 minutes
 
 [to St John's College](https://maps.app.goo.gl/nNSgGsBrZ51wn5nx7) - approximately 20 minutes
 
