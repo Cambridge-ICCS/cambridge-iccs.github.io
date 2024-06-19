@@ -176,6 +176,16 @@ _Bus_
 
 Number 1 bus (stop 7 at Cambridge station, towards Arbury) - alight at Westbrook Drive/Westbrook Centre stop on Milton Road
 
+_Walking_
+
+[to Centre for Mathematical Sciences{(https://maps.app.goo.gl/PvxWe8bDfksYrqEb6) - approximately 30 minutes
+
+Cross-VESRI Convening
+
+[to Trinity Hall central site](https://maps.app.goo.gl/39d74z3rMpDGPuup7) - approximately 20 minutes
+
+[to St John's College](https://maps.app.goo.gl/nNSgGsBrZ51wn5nx7) - approximately 20 minutes
+
 ![Hilton the Fellows](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/fellows-house-exterior1.jpg)
 
 # Cross-VESRI Convening Meeting Locations
