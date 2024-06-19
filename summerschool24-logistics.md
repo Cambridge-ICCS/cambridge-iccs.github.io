@@ -218,7 +218,7 @@ Number 1 bus (stop 7 at Cambridge station, towards Arbury) - alight at Westbrook
 
 **_Thursday Evening Dinner_**
 
-Thursday evening we will be at Madingley Hall which is just outside the city. Transport will be provided, leaving the CMS at 17.15 with a later bus at 17.45. Please be ready to depart at 17.10 and 17.40. Return transport will depart Madingley Hall at 22.00.
+Thursday evening we will be at Madingley Hall which is just outside the city. Transport will be provided, leaving the CMS at 17.15 with a later bus at 17.45. Please be ready to depart at 17.10 and 17.40. The bus will pick up from [this part of Wilberforce Road](https://maps.app.goo.gl/YrLejVjEDxdYhpYU8). Return transport will depart Madingley Hall at 22.00.
 
 # Cross-VESRI Convening Locations
 
