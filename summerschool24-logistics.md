@@ -190,7 +190,7 @@ The entrance is on Pembroke Street, via Pembroke Arch, shown on the map below wi
 
 ![DAB](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/DAB%20WH.JPG)
 
-![Map](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/WhaleHallmap2.jpg)
+![Map](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/map%20New%20Museums.JPG)
 
 **_St John's College_**
 
