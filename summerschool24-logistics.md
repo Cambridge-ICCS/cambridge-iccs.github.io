@@ -178,7 +178,7 @@ Number 1 bus (stop 7 at Cambridge station, towards Arbury) - alight at Westbrook
 
 _Walking_
 
-[to Centre for Mathematical Sciences{(https://maps.app.goo.gl/PvxWe8bDfksYrqEb6) - approximately 30 minutes
+[to Centre for Mathematical Sciences](https://maps.app.goo.gl/PvxWe8bDfksYrqEb6) - approximately 30 minutes
 
 Cross-VESRI Convening
 
