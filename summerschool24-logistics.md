@@ -174,7 +174,7 @@ Limited Parking off Gilbert Road, Postcode CB4 3NX.
 
 _Bus_
 
-[Number 1 bus](stop 7 at Cambridge station, towards Arbury) - alight at Westbrook Drive/Westbrook Centre stop on Milton Road
+Number 1 bus (stop 7 at Cambridge station, towards Arbury) - alight at Westbrook Drive/Westbrook Centre stop on Milton Road
 
 ![Hilton the Fellows](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/fellows-house-exterior1.jpg)
 
