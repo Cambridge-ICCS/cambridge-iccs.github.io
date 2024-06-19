@@ -100,13 +100,7 @@ For the **Hilton the Fellows House** catch the [number 1 bus](https://www.stagec
 
 Cambridge is small and compact, and it is usual for people to walk or ride between various parts of the city, especially in summer. There are e-scooters and e-bikes for hire but you may find parking inconvenient during the Summer School.  
 
-Walking distance from the CMS to Wyng Gardens accommodation is 20 minutes, Wychfield 10 minutes and the Hilton (Fellows House on Milton Road) is 25 minutes.  
-
-# Miscellaneous
-
-+ Dress code: the dinner does not have a particular dress code. We recommend standard smart-casual business/academic attire.
-
-+ All provided dietary requirements are taken into account for the meals and dinners.
+Walking distance to the CMS and any relevant breakfast location is listed in the individual accommodation sections. 
 
 # Accommodation
 
@@ -255,6 +249,10 @@ The Cross-VESRI poster session and barbecue will be held on 9 July on the first 
 
 ![all](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/All%20venues.JPG)
 
+# Miscellaneous
 
++ Dress code: the dinner does not have a particular dress code. We recommend standard smart-casual business/academic attire.
+
++ All provided dietary requirements are taken into account for the meals and dinners.
 
 
