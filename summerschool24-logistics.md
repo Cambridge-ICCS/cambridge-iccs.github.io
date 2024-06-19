@@ -150,6 +150,16 @@ A the Busway (stop 9 at Cambridge train station, towards St Ives) – alight at 
 
 Bus number 1 (stop 7 at Cambridge train station, towards Arbury) – alight at Emmanuel Street 
 
+**_Walking - Summer School_**
+
+[to Centre for Mathematical Sciences](https://maps.app.goo.gl/1uRRrNonCmD72sW6A) - approximately 20 minutes
+
+**_Walking - Cross-VESRI Convening_**
+
+[to Trinity Hall central site](https://maps.app.goo.gl/k2y1tgRMNLMX7bHB8) - approximately 8 minutes
+
+[to St John's College](https://maps.app.goo.gl/LdrJYVN6mYXRv9xx5)) - approximately 3 minutes
+
 ![assets/images/SummerSchool2024/Wychfield Wyng Gardens.PNG](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Wyng_Gardens_Cambridge-003_edit.jpg)
 
 ### Robinson College
