@@ -172,8 +172,6 @@ U-Bus (stop 8 at Cambridge train station, towards Eddington) – alight at Robin
 
 **_Walking - Cross-VESRI Convening_**
 
-[to Trinity Hall central site](https://maps.app.goo.gl/couAFeJnyAgPv3th9) - approximately 10 minutes
-
 [to St John's College](https://maps.app.goo.gl/q7Uapbza2qpLBU3E7) - approximately 15 minutes
 
 ![assets/images/SummerSchool2024/Robinson-College-Entrance1.jpg](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Robinson-College-Entrance1.jpg)
