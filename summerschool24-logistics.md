@@ -94,6 +94,8 @@ The U-bus departs from stop 8 (towards Eddington) at Cambridge train station and
 
 For the accommodation at **Wyng Gardens** use the [A the Busway Service](https://www.thebusway.info/routes-times.shtml) (from stop 9 at Cambridge station, towards St Ives) or the [number 1 bus](https://www.stagecoachbus.com/routes/east/1/arbury-fulbourn/xeao001.o) (stop 7 at Cambridge train station, towards Arbury).
 
+For the **Hilton the Fellows House** catch the [number 1 bus](https://www.stagecoachbus.com/routes/east/1/arbury-fulbourn/xeao001.o) (stop 7 at Cambridge station, towards Arbury).
+
 ## Walking
 
 Cambridge is small and compact, and it is usual for people to walk or ride between various parts of the city, especially in summer. There are e-scooters and e-bikes for hire but you may find parking inconvenient during the Summer School.  
@@ -169,6 +171,10 @@ U-Bus (stop 8 at Cambridge train station, towards Eddington) – alight at Robin
 Check in after 16.00 and check out before 11.00 am.
 
 Limited Parking off Gilbert Road, Postcode CB4 3NX.
+
+_Bus_
+
+[Number 1 bus](stop 7 at Cambridge station, towards Arbury) - alight at Westbrook Drive/Westbrook Centre stop on Milton Road
 
 ![Hilton the Fellows](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/fellows-house-exterior1.jpg)
 
