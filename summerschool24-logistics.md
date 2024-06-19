@@ -172,21 +172,31 @@ Check in after 16.00 and check out before 11.00 am.
 
 Limited Parking off Gilbert Road, Postcode CB4 3NX.
 
-_Bus_
+### Bus
 
 Number 1 bus (stop 7 at Cambridge station, towards Arbury) - alight at Westbrook Drive/Westbrook Centre stop on Milton Road
 
-_Walking - Summer School_
+### Walking - Summer School
 
 [to Centre for Mathematical Sciences](https://maps.app.goo.gl/PvxWe8bDfksYrqEb6) - approximately 25 minutes
 
-_Walking - Cross-VESRI Convening_
+### Walking - Cross-VESRI Convening
 
 [to Trinity Hall central site](https://maps.app.goo.gl/39d74z3rMpDGPuup7) - approximately 20 minutes
 
 [to St John's College](https://maps.app.goo.gl/nNSgGsBrZ51wn5nx7) - approximately 20 minutes
 
 ![Hilton the Fellows](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/fellows-house-exterior1.jpg)
+
+## Thursday Evening Dinner**
+
+Thursday evening we will be at Madingley Hall which is just outside the city. Transport will be provided, leaving the CMS at 17.15 with a later bus at 17.45. Please be ready to depart at 17.10 and 17.40. Return transport will depart Madingley Hall at 22.00.
+
+# Miscellaneous
+
++ Dress code: the dinner does not have a particular dress code. We recommend standard smart-casual business/academic attire.
+
++ All provided dietary requirements are taken into account for the meals and dinners.
 
 # Cross-VESRI Convening Meeting Locations
 
