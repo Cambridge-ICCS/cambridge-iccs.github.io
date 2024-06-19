@@ -182,13 +182,13 @@ Number 1 bus (stop 7 at Cambridge station, towards Arbury) - alight at Westbrook
 
 **_Museum of Zoology Whale Hall_**
 
-The Cross-VESRI convening meeting will hold drinks and canapes on 7 July at the [Museum of Zoology's Whale Hall](https://maps.app.goo.gl/J4CaBkTGZZeqkYNC8), Downing Street, CB2 3EJ.  
+The Cross-VESRI convening will hold drinks and canapes on 7 July at the [Museum of Zoology's Whale Hall](https://maps.app.goo.gl/J4CaBkTGZZeqkYNC8), Downing Street, CB2 3EJ.  
 
 The entrance is on Pembroke Street, via Pembroke Arch, shown on the map below with a red star. You will see the Whale Hall at the top of the first set of stairs in the David Attenborough building, images below.  
 
 ![Entrance via Pembroke Street](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/pembroke_arch_pjh.jpg)
 
-![DAB](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Entrance-David%20Attenborough%20Building1.jpg)
+![DAB](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/David-Attenborough-Arch.jpg)
 
 ![Map](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/WhaleHallmap2.jpg)
 
