@@ -176,11 +176,11 @@ _Bus_
 
 Number 1 bus (stop 7 at Cambridge station, towards Arbury) - alight at Westbrook Drive/Westbrook Centre stop on Milton Road
 
-_Walking_
+_Walking - Summer School_
 
-[to Centre for Mathematical Sciences](https://maps.app.goo.gl/PvxWe8bDfksYrqEb6) - approximately 30 minutes
+[to Centre for Mathematical Sciences](https://maps.app.goo.gl/PvxWe8bDfksYrqEb6) - approximately 25 minutes
 
-Cross-VESRI Convening
+_Walking - Cross-VESRI Convening_
 
 [to Trinity Hall central site](https://maps.app.goo.gl/39d74z3rMpDGPuup7) - approximately 20 minutes
 
