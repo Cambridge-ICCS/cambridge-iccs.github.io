@@ -190,7 +190,7 @@ The entrance is on Pembroke Street, via Pembroke Arch, shown on the map below wi
 
 ![DAB](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/DAB%20WH.JPG)
 
-![Map]([https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/map%20New%20Museums.JPG](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/mapNewMusPAWH.JPG))
+![Map](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/mapNewMusPAWH.JPG)
 
 **_St John's College_**
 
@@ -206,18 +206,6 @@ The Cross-VESRI poster session and barbecue will be held on 9 July on the first 
 
 
 ![all](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/All%20venues.JPG)
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
