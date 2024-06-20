@@ -11,7 +11,7 @@ padding:10px;
 margin:20px;
 }
 div {
-  font-size:11pt;
+  font-size:12pt;
   text-align:left;
 }
 
