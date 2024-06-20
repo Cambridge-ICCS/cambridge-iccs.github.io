@@ -11,14 +11,11 @@ padding:20px;
 margin:20px;
 }
 div {
-  font-size:12pt;
-  text-align:justify;
+  font-size:11pt;
+  text-align:left;
 }
 
 </style>
-
-
-{% include summerschool-head.html %}
 
 # Contact during the Summer School
 
