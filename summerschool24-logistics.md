@@ -2,8 +2,7 @@
 layout:  single
 title: Summer School 2024 Logistics
 ---
-
-[![ICCS Logo](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/iccs-logo.png)](https://iccs.cam.ac.uk/)
+<style> .contents { border: solid 1px; border-color: rgb(140,140,140); background: rgb(245,245,245); padding:10px; margin:10px; margin-right: calv(35vw - 20px); } div { font-size:12pt; text-align:left; } </style> 
 
 ## Contact during the Summer School
 
