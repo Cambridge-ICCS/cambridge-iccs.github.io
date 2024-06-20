@@ -132,6 +132,13 @@ Aromi Pizza and beer from 17:45; board games + Lego
 
 ## Thursday 11th July, Centre for Mathematical Sciences
 
+Optional running execurion in the morning:
+
+* 07:00-07:30 - scenic 4k led by Jack Atkinson
+* 07:00-07:30 - scenic but longer and slightly faster 5k led by Dominic Orchard
+
+Both starting and leaving from the [Faulkes Gatehouse](https://www.google.com/maps/place/52%C2%B012'35.6%22N+0%C2%B006'11.7%22E/@52.2100265,0.1027237,19z/data=!4m12!1m7!3m6!1s0x47d870b5d418f2d9:0xbadd58d1d3b75cfa!2sDepartment+of+Applied+Mathematics+and+Theoretical+Physics,+University+of+Cambridge!8m2!3d52.2103076!4d0.1010554!16s%2Fg%2F11b5zwtgs1!3m3!8m2!3d52.209875!4d0.103257?entry=ttu) at the CMS.
+
 |  Start | End  | Track 1   | Track 2 |
 | ------ | ----- | ------- |
 | 08:15  | 09:00 | Continental breakfast at the CMS |
