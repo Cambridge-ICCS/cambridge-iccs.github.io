@@ -8,10 +8,10 @@ border: solid 1px;
 border-color: rgb(140,140,140);
 background: rgb(245,245,245);
 padding:10px;
-margin:20px;
+margin:10px;
 }
 div {
-  font-size:12pt;
+  font-size:11.5pt;
   text-align:left;
 }
 
