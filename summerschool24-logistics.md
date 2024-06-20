@@ -20,7 +20,7 @@ The open exchange of ideas and the freedom of thought and expression are central
 
 There is no tolerance for unwelcome, hostile, or disruptive behaviour or speech that intimidates, creates discomfort, or interferes with a person’s participation or opportunity for participation at the event. Participants asked to stop any harassing behaviour are expected to comply immediately. Participants violating these standards may be expelled from this and future events.
 
-If you witness or are subject to unacceptable behaviour, please talk to one of the ICCS leadership: Dominic Orchard ([dao29@cam.ac.uk](dao29@cam.ac.uk) or Marla Fuchs ([mf372@cam.ac.uk](mf372@cam.ac.uk)).
+If you witness or are subject to unacceptable behaviour, please talk to one of the ICCS leadership: Dominic Orchard ([dao29@cam.ac.uk](dao29@cam.ac.uk)) or Marla Fuchs ([mf372@cam.ac.uk](mf372@cam.ac.uk)).
 
 ## Registration on arrival
 
