@@ -2,6 +2,23 @@
 layout:  single
 title: Summer School 2024 Logistics
 ---
+<style>
+.contents {
+border: solid 1px;
+border-color: rgb(140,140,140);
+background: rgb(245,245,245);
+padding:20px;
+margin:20px;
+}
+div {
+  font-size:12.5pt;
+  text-align:justify;
+}
+
+</style>
+
+
+{% include summerschool-head.html %}
 
 # Contact during the Summer School
 
