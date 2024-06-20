@@ -4,7 +4,7 @@ title: Summer School 2024 Logistics
 ---
 <style> span.other, span.research, span.sci, span.social, span.workshop, span.hack, span.disc { border-radius: 4px; /* border-style: outset; */ padding: 3pt; } span.other { background: rgb(237, 241, 255); } span.research { background: rgb(250, 238, 210); } span.sci,span.research { background: rgb(255, 227, 243); } span.social { background: rgb(255, 251, 204); } a.workhop:hover { text-decoration: underline; } .workshop { font-weight:700; color: #1d3ddf; cursor: pointer; } span.disc { background: rgb(242, 224, 255); } span.hack { background: rgb(230, 242, 232); } .showButton { font-size: smaller; font-decoration: underline; color: #eee; background: #5d4cfe; display: block-level; clear: left; cursor: pointer; border: outset; padding: 2px; } .showButton:active { border: inset; } .showButton:hover { border: outset; background: #8d8cff }.abstract { margin: 10px; padding: 10px; text-align: justify; width: 50vw; top: 25vh; left: 25vw; background: #eee; position: fixed; z-index: 10; } .opt { color: gray; font-style: italic; } div { font-size:12pt; text-align:justify; } .chairs { display:none; color: purple; font-weight: bold; } #abstracts div { display: none; } body { z-index: 0; } #layer { background: rgba(0,0,0,0.5); z-index: 2; display: none; position: fixed; left: 0; right: 0; top: 0; bottom: 0; height: 100vh; width: 100vw; } td:nth-child(3), td:nth-child(4) { padding-left: 2em; padding-right: 2em; } </style> <style> div { font-size:12pt; text-align:justify; } </style> 
 
-# Contact during the Summer School
+## Contact during the Summer School
 
 Questions and assistance: [iccs@maths.cam.ac.uk](mailto:iccs@maths.cam.ac.uk)
 
@@ -14,7 +14,7 @@ You have been sent an invitation to the Summer School slack channel, please emai
 
 Sessions will be recorded and posted to the [ICCS Youtube Channel](https://www.youtube.com/@instituteofcomputingforcli3982)
 
-# Code of conduct
+## Code of conduct
 
 The open exchange of ideas and the freedom of thought and expression are central to the aims and goals of the summer school; these require an environment that recognizes the inherent worth of every person and group, that fosters dignity, understanding, and mutual respect, and that embraces diversity. We are dedicated to providing a safe, hospitable, productive, and harassment-free and discrimination-free environment for everyone attending, regardless of ethnicity, religion, disability, physical appearance, gender, or sexual orientation. In particular, we expect all the participants to use welcoming and inclusive language, to be respectful of differing viewpoints and experiences, to gracefully accept constructive criticism, to focus on what is best for the community, and to show empathy towards other community members. We expect everyone to communicate openly with respect and consideration for others, treating each other as equals. It is important to remember that a community where people feel uncomfortable or threatened is neither healthy nor productive.
 
@@ -22,9 +22,9 @@ There is no tolerance for unwelcome, hostile, or disruptive behaviour or speech 
 
 If you witness or are subject to unacceptable behaviour, please talk to one of the ICCS leadership: Dominic Orchard ([dao29@cam.ac.uk](dao29@cam.ac.uk) or Marla Fuchs ([mf372@cam.ac.uk](mf372@cam.ac.uk)).
 
-# Registration on arrival
+## Registration on arrival
 
-## Registration
+### Registration
 
 Everyone must register in Pavilion A ("the core") of the [Centre for Mathematical Sciences](https://map.cam.ac.uk/#52.210003,0.103928,18,52.210149,0.101822).  The CMS is located on Wilberforce Road, Cambridge, CB3 0WA. 
 
@@ -32,7 +32,7 @@ For those arriving on Saturday 6 July, you can register between 14.00 and 17.00.
 
 If you will arrive outside of these times, please make contact with one of the Summer School organisers, who will be wearing red lanyards or contact [iccs@maths.cam.ac.uk](mailto:iccs@maths.cam.ac.uk).
 
-# Centre for Mathematical Sciences
+## Centre for Mathematical Sciences
 
 [Wilberforce Road, Cambridge, CB3 0WA](https://maps.app.goo.gl/P9uistum3M7c2koA7)
 
@@ -42,17 +42,17 @@ There are two visitor gates at the CMS, shown on the map below.
 
 A map of the CMS [here shows meeting room locations](http://www.cms.cam.ac.uk/files/plan/downloads/meetingrooms.png). 
 
-## Internet access/Wifi
+### Internet access/Wifi
 
 Free guest wifi is available in all Cambridge University and College buildings, including at your accommodation.  You can register for a wireless connection using your email address by connecting to **UniOfCam-Guest** in your list of available networks.  Full instructions are here [https://help.uis.cam.ac.uk/guest-wifi](https://help.uis.cam.ac.uk/guest-wifi).
 
-# Travel to Cambridge
+## Travel to Cambridge
 
-## Car
+### Car
 
 If you’re planning on driving to Cambridge, we strongly recommend that you use the [Park & Ride bus scheme](https://cambridgeparkandride.info/). Parking in the city centre is extremely limited (with no parking at the CMS) and several city centre roads have restricted access with penalties for using them. Those travelling from the north can also use the Guided Busway Park & Ride services (follow signs for Longstanton P&R from Junction 29 of the A14). Disabled parking is available in the city’s car parks and on some streets. Please check in advance with the Cambridge Tourist Information Centre or visit [www.cambridge.gov.uk/parking](https://www.cambridge.gov.uk/parking).
 
-## Train
+### Train
 
 [Trainline](https://www.thetrainline.com/) is the most widely used and cheapest website to book train travel in the UK.  You can also use the [National Rail website](https://www.nationalrail.co.uk/) to book tickets.  
 
@@ -80,7 +80,7 @@ A coach service is the fastest and most direct way to reach central Cambridge (P
 
 You can buy train tickets from both [Trainline](https://www.thetrainline.com/) and [National Rail websites](https://www.nationalrail.co.uk/) for trains from Luton Airport to Cambridge, with a connection at London stations.  Travelling time by train is 2 – 2.5 hours. 
 
-## From Cambridge to your accommodation and the Centre for Mathematical Sciences (CMS)
+### From Cambridge to your accommodation and the Centre for Mathematical Sciences (CMS)
 
 **_Taxis_**
 
@@ -96,15 +96,15 @@ For the accommodation at **Wyng Gardens** use the [A the Busway Service](https:/
 
 For the **Hilton the Fellows House** catch the [number 1 bus](https://www.stagecoachbus.com/routes/east/1/fulbourn-arbury/xeao001.i) (stop 7 at Cambridge station, towards Arbury).
 
-## Walking
+### Walking
 
 Cambridge is small and compact, and it is usual for people to walk or ride between various parts of the city, especially in summer. There are e-scooters and e-bikes for hire but you may find parking inconvenient during the Summer School.  
 
 Walking distance to the CMS and any relevant breakfast location is listed in the individual accommodation sections. 
 
-# Accommodation
+## Accommodation
 
-### Wychfield/Trinity Hall
+#### Wychfield/Trinity Hall
 
 [Storey's Way, Cambridge, CB3 0DZ](https://maps.app.goo.gl/9XHjMryLeMNUBgbx5)
 
@@ -134,7 +134,7 @@ U-bus towards Eddington (stop 8 at Cambridge train station) – alight at Church
 
 ![assets/images/SummerSchool2024/Wychfield Trinity Hall site.PNG](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Wychfield%20Trinity%20Hall%20site.PNG)
 
-### Wyng Gardens/Trinity Hall
+#### Wyng Gardens/Trinity Hall
 
 [Thompson's Lane, Cambridge, CB5 8AQ](https://maps.app.goo.gl/YY3fvEteN4ruwCtw9)
 
@@ -166,7 +166,7 @@ Bus number 1 (stop 7 at Cambridge train station, towards Arbury) – alight at E
 
 ![assets/images/SummerSchool2024/Wychfield Wyng Gardens.PNG](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Wyng_Gardens_Cambridge-003_edit.jpg)
 
-### Robinson College
+#### Robinson College
 
 [Grange Road, Cambridge, CB3 9AN](https://maps.app.goo.gl/wXdkTEoCCxRHgeFT9)
 
@@ -192,7 +192,7 @@ U-Bus (stop 8 at Cambridge train station, towards Eddington) – alight at Robin
 
 ![Robinson College Map](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Robinson%20College%20map1.jpg)
 
-### Hilton the Fellows House, Milton Road
+#### Hilton the Fellows House, Milton Road
 
 [33A Milton Road, Cambridge, CB4 1UZ](https://maps.app.goo.gl/ozsDvcN5t5o5GpzA6)
 
@@ -216,11 +216,11 @@ Number 1 bus (stop 7 at Cambridge station, towards Arbury) - alight at Westbrook
 
 ![Hilton the Fellows](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/fellows-house-exterior1.jpg)
 
-# Thursday Evening Dinner
+## Thursday Evening Dinner
 
 Thursday evening we will be at Madingley Hall which is just outside the city. Transport will be provided, leaving the CMS at 17.15 with a later bus at 17.45. Please be ready to depart at 17.10 or 17.40. The bus will pick up from [this part of Wilberforce Road](https://maps.app.goo.gl/YrLejVjEDxdYhpYU8). Return transport will depart Madingley Hall at 22.00.
 
-# Cross-VESRI Convening Locations
+## Cross-VESRI Convening Locations
 
 **_Museum of Zoology Whale Hall_**
 
@@ -246,12 +246,12 @@ The entrance is on Pembroke Street, via Pembroke Arch, shown on the map below wi
 
 The Cross-VESRI poster session and barbecue will be held on 9 July on the first floor at the [University Centre](https://maps.app.goo.gl/HSypSeuUef8NrzncA) CB2 1RU and the [Graduate Hotel](https://maps.app.goo.gl/axXGs1RLKMqDn77U6) CB2 1RT.
 
-# All locations for Cross-VESRI Convening and ICCS Summer School
+## All locations for Cross-VESRI Convening and ICCS Summer School
 
 
 ![all](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/All%20venues.JPG)
 
-# Miscellaneous
+## Miscellaneous
 
 + Dress code: the dinner does not have a particular dress code. We recommend standard smart-casual business/academic attire.
 
