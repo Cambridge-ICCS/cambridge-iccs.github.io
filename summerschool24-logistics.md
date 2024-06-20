@@ -2,7 +2,7 @@
 layout:  single
 title: Summer School 2024 Logistics
 ---
-<style> span.other, span.research, span.sci, span.social, span.workshop, span.hack, span.disc { border-radius: 4px; /* border-style: outset; */ padding: 3pt; } span.other { background: rgb(237, 241, 255); } span.research { background: rgb(250, 238, 210); } span.sci,span.research { background: rgb(255, 227, 243); } span.social { background: rgb(255, 251, 204); } a.workhop:hover { text-decoration: underline; } .workshop { font-weight:700; color: #1d3ddf; cursor: pointer; } span.disc { background: rgb(242, 224, 255); } span.hack { background: rgb(230, 242, 232); } .showButton { font-size: smaller; font-decoration: underline; color: #eee; background: #5d4cfe; display: block-level; clear: left; cursor: pointer; border: outset; padding: 2px; } .showButton:active { border: inset; } .showButton:hover { border: outset; background: #8d8cff }.abstract { margin: 10px; padding: 10px; text-align: justify; width: 50vw; top: 25vh; left: 25vw; background: #eee; position: fixed; z-index: 10; } .opt { color: gray; font-style: italic; } div { font-size:12pt; text-align:justify; } .chairs { display:none; color: purple; font-weight: bold; } #abstracts div { display: none; } body { z-index: 0; } #layer { background: rgba(0,0,0,0.5); z-index: 2; display: none; position: fixed; left: 0; right: 0; top: 0; bottom: 0; height: 100vh; width: 100vw; } td:nth-child(3), td:nth-child(4) { padding-left: 2em; padding-right: 2em; } </style> <style> div { font-size:12pt; text-align:justify; } </style> 
+ <style> div { font-size:11.5pt; text-align:left; } </style> 
 
 ## Contact during the Summer School
 
