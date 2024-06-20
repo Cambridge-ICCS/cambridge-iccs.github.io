@@ -230,6 +230,8 @@ The entrance is on Pembroke Street, via Pembroke Arch, shown on the map below wi
 
 ![Entrance via Pembroke Street](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/pembroke_arch_pjh.jpg)
 
+![DAB from Arch](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Pembroke%20Arch%20GMaps.JPG)
+
 ![DAB](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/DAB%20WH.JPG)
 
 ![Map](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/mapNewMusPAWH.JPG)
