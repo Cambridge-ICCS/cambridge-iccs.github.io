@@ -7,7 +7,7 @@ title: Summer School 2024 Logistics
 border: solid 1px;
 border-color: rgb(140,140,140);
 background: rgb(245,245,245);
-padding:20px;
+padding:10px;
 margin:20px;
 }
 div {
@@ -23,7 +23,7 @@ Questions and assistance: [iccs@maths.cam.ac.uk](mailto:iccs@maths.cam.ac.uk)
 
 Slack Channel: [iccssummerschool24.slack.com](https://join.slack.com/t/iccssummerschool24/shared_invite/zt-2kspd7rl3-FPlovglmib6g_Qs~D4VslA)
 
-You have been sent an invitation to the Summer School slack channel, please email iccs@maths.cam.ac.uk if you have not received an invitation.
+You have been sent an invitation to the Summer School slack channel, please email [iccs@maths.cam.ac.uk](mailto:iccs@maths.cam.ac.uk) if you have not received an invitation.
 
 Sessions will be recorded and posted to the [ICCS Youtube Channel](https://www.youtube.com/@instituteofcomputingforcli3982)
 
@@ -33,7 +33,7 @@ The open exchange of ideas and the freedom of thought and expression are central
 
 There is no tolerance for unwelcome, hostile, or disruptive behaviour or speech that intimidates, creates discomfort, or interferes with a person’s participation or opportunity for participation at the event. Participants asked to stop any harassing behaviour are expected to comply immediately. Participants violating these standards may be expelled from this and future events.
 
-If you witness or are subject to unacceptable behaviour, please talk to one of the ICCS leadership: Dominic Orchard (dao29@cam.ac.uk) or Marla Fuchs (mf372@cam.ac.uk).
+If you witness or are subject to unacceptable behaviour, please talk to one of the ICCS leadership: Dominic Orchard ([dao29@cam.ac.uk](dao29@cam.ac.uk) or Marla Fuchs ([mf372@cam.ac.uk](mf372@cam.ac.uk).
 
 # Registration on arrival
 
@@ -43,7 +43,7 @@ Everyone must register in Pavilion A ("the core") of the [Centre for Mathematica
 
 For those arriving on Saturday 6 July, you can register between 14.00 and 17.00. On Sunday 7 July, you can register from 10.00. On Wednesday 10 July, you can register from 13.00. 
 
-If you will arrive outside of these times, please make contact with one of the Summer School organisers, who will be wearing red lanyards or contact (iccs@maths.cam.ac.uk).
+If you will arrive outside of these times, please make contact with one of the Summer School organisers, who will be wearing red lanyards or contact [iccs@maths.cam.ac.uk](mailto:iccs@maths.cam.ac.uk).
 
 # Centre for Mathematical Sciences
 
@@ -57,7 +57,7 @@ A map of the CMS [here shows meeting room locations](http://www.cms.cam.ac.uk/fi
 
 ## Internet access/Wifi
 
-Free guest wifi is available in all Cambridge University and College buildings, including at your accommodation.  You can register for a wireless connection using your email address by connecting to **UniOfCam-Guest** in your list of available networks.  Full instructions are here https://help.uis.cam.ac.uk/guest-wifi.
+Free guest wifi is available in all Cambridge University and College buildings, including at your accommodation.  You can register for a wireless connection using your email address by connecting to **UniOfCam-Guest** in your list of available networks.  Full instructions are here [https://help.uis.cam.ac.uk/guest-wifi](https://help.uis.cam.ac.uk/guest-wifi).
 
 # Travel to Cambridge
 
