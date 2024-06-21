@@ -2,9 +2,7 @@
 layout:  single
 title: Summer School 2024 Logistics
 ---
-<style> span.other, span.research, span.sci, span.social, span.workshop, span.hack, span.disc { border-radius: 4px; /* border-style: outset; */ padding: 3pt; } span.other { background: rgb(237, 241, 255); } span.research { background: rgb(250, 238, 210); } span.sci,span.research { background: rgb(255, 227, 243); } span.social { background: rgb(255, 251, 204); } span.workshop { background: rgb(217, 255, 204); } span.disc { background: rgb(242, 224, 255); } span.hack { background: rgb(230, 242, 232); } .contents { border: solid 1px; border-color: rgb(140,140,140); background: rgb(245,245,245); padding:20px; margin:20px; } div { font-size:12.5pt; text-align:justify; } </style>
-
-{% include summerschool-head.html %}
+<style> .contents { border: solid 1px; border-color: rgb(140,140,140); background: rgb(245,245,245); padding:10px; margin:20px; margin-right: calv(35vw - 20px); } div { font-size:12pt; text-align:justify; } </style> 
 
 ## Contact during the Summer School
 
