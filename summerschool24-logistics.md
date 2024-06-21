@@ -132,7 +132,9 @@ U-bus towards Eddington (stop 8 at Cambridge train station) – alight at Church
 
 [to St John's College](https://maps.app.goo.gl/3jY3AMo4N7Qz45LF6) - approximately 20 minutes
 
-![assets/images/SummerSchool2024/Wychfield Trinity Hall site.PNG](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Wychfield%20Trinity%20Hall%20site.PNG)
+![assets/images/SummerSchool2024/Wychfield Trinity Hall site.PNG](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/WychTH.jpg)
+
+![assets/images/SummerSchool2024/Wychfield Porters Lodge.PNG](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/Wychfield%20Porters%20Lodge.jpg)
 
 #### Wyng Gardens/Trinity Hall
 
