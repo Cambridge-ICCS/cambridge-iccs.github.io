@@ -132,7 +132,7 @@ Aromi Pizza and beer from 17:45; board games + Lego
 
 ## Thursday 11th July, Centre for Mathematical Sciences
 
-Optional running execurion in the morning:
+Optional running excursion in the morning:
 
 * 07:00-07:30 - scenic 4k led by Jack Atkinson
 * 07:00-07:30 - scenic but longer and slightly faster 5k led by Dominic Orchard
