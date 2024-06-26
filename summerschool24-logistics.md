@@ -3,6 +3,8 @@ layout:  single
 title: Summer School 2024 Logistics
 ---
 
+<style> div { font-size:11.5pt; text-align:justify; } </style> 
+
 ## Contact during the Summer School
 
 Questions and assistance: [iccs@maths.cam.ac.uk](mailto:iccs@maths.cam.ac.uk)
