@@ -3,7 +3,7 @@ layout:  single
 title: Summer School 2024 Logistics
 ---
 
-<style> div { font-size:11.5pt; text-align:left; } 
+<style> div { font-size:11.5pt; text-align:left; } </style> 
 
 ## Contact during the Summer School
 
@@ -259,5 +259,5 @@ The Cross-VESRI poster session and barbecue will be held on 9 July on the first 
 + Dress code: the dinner does not have a particular dress code. We recommend standard smart-casual business/academic attire.
 
 + All provided dietary requirements are taken into account for the meals and dinners.
-</style> 
+
 
