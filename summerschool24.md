@@ -243,16 +243,14 @@ Sparse data coverage and the lack of observations covering the full seasonal cyc
 <p class='pre-reqs'>
 <b>Pre-requisites:</b>
 The data required for the practical session is here:
-<quote>
+<blockquote>
 Denvil-Sommer, A. (2024). Dataset for OSSE exercise at ICCS Summer School 2024 Cambridge [Data set]. Zenodo. <a href="https://doi.org/10.5281/zenodo.12567970">https://doi.org/10.5281/zenodo.12567970</a>
-</quote>
+</blockquote>
 You may wish to look at the article:
-<quote>
+<blockquote>
 Denvil-Sommer, A., Gehlen, M., and Vrac, M.: Observation system simulation experiments in the Atlantic Ocean for enhanced surface ocean pCO2 reconstructions, Ocean Sci., 17, 1011–1030, <a href="https://doi.org/10.5194/os-17-1011-2021">https://doi.org/10.5194/os-17-1011-2021</a>, 2021.
-</quote>
-
-Students will need following libraries installed on their laptops:
-<ul>
+</blockquote>
+Students will need following libraries installed on their laptops:<ul>
 <li>numpy</li>
 <li>pandas</li>
 <li>matplotlib.pyplot</li>
