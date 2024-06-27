@@ -182,6 +182,10 @@ This is a hands-on session with live-coding and exercises.
 <p>
 We will use the Unix shell in this course. Previous experience with using the shell would be helpful, but we will help you out if you haven"t used it before.
 </p>
+<p class="pre-reqs">
+<b>Pre-requisites:</b> Install git on your computer, set up a Github account and the SSH key and MFA.<br />
+You can follow the steps from here: https://swcarpentry.github.io/git-novice/ as well as https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+</p>
 </div>
 
 <div id="abstract-workshop-2">
@@ -191,6 +195,12 @@ This session is intended for participants who want to expand their understanding
 This is a hands-on session with live-coding and exercises.
 </p><p>
 We will use the Unix shell in this course.
+</p>
+<p class="pre-reqs">
+<b>Pre-requisites:</b> Attendees will need to have Git installed on their computers, have GitHub accounts, and have SSH keys and MFA set up.<br />
+We are assuming that attendees are familiar with Git commands `git add`, `git commit`, `git pull`, `git push`, and `git log`, and the GitHub concepts of Issues and Pull Requests.
+<br />
+The repository used for the exercises will include some simple Python code but understanding Python is not a requirement. However, attendees will need to have working Python 3 installations on their computers.
 </p>
 </div>
 
@@ -203,7 +213,7 @@ In this session we will look at viewing scientific data using python tools. We w
 <div id="abstract-workshop-4">
 <p>
 This session will include a general lecture to explain what the current approach to weather and climate modelling is, and how it links to supercomputing. This will be followed by a short practical session using a pre-built model, with some tasks via a Jupyter Notebook.
-	
+
 <ol>
   <li>Fundamentals of dynamics and physics for the atmosphere and ocean</li>
   <li>Numerical methods used in weather and climate prediction</li>
@@ -218,7 +228,7 @@ This session will include a general lecture to explain what the current approach
 
 The practical session will be based on _Observation System Simulation Experience for ocean surface pCO2 over the Atlantic Ocean_.
 
-Sparse data coverage and the lack of observations covering the full seasonal cycle challenge mapping methods and result in noisy reconstructions of surface ocean pCO2 and disagreements between different models. We explored design options for a future augmented Atlantic-scale observing system that would optimally combine data streams from various platforms and contribute to reduce the bias in reconstructed surface ocean pCO2 fields and sea–air CO2 fluxes. 
+Sparse data coverage and the lack of observations covering the full seasonal cycle challenge mapping methods and result in noisy reconstructions of surface ocean pCO2 and disagreements between different models. We explored design options for a future augmented Atlantic-scale observing system that would optimally combine data streams from various platforms and contribute to reduce the bias in reconstructed surface ocean pCO2 fields and sea–air CO2 fluxes.
 </p>
 </div>
 
@@ -237,10 +247,18 @@ Category theory is a subfield of mathematics that seeks to expose common underly
 
 <div id="abstract-workshop-7">
 <p>
-To make the best use of today"s massively parallel and heterogeneous (both CPU and GPU) computing resources we need to use several programming models. OpenMP is an open specification for a directive based programming model that can take advantage of all the cores on a processor and offload computations to GPUs making only minimal changes to the C, C++ or Fortran source code.
+To make the best use of today's massively parallel and heterogeneous (both CPU and GPU) computing resources we need to use several programming models. OpenMP is an open specification for a directive based programming model that can take advantage of all the cores on a processor and offload computations to GPUs making only minimal changes to the C, C++ or Fortran source code.
 </p>
 <p>
 This session will serve as an introduction to the OpenMP programming model for GPU acceleration. You will learn how to introduce the directives into your code, and put this into practice using OpenMP to speed up example programs.
+</p>
+<p class="pre-reqs">
+<b>Pre-requisites:</b>
+* As we will be running the practical exercises on the Cambridge HPC system, basic linux shell knowledge is expected
+
+* Expect basis programming skills and the ability to read C or Fortran-style code, and the ability to compile and run code on systems using Makefiles
+
+* Some familiarity with GPU programming is beneficial but not essential
 </p>
 </div>
 
@@ -251,6 +269,17 @@ Python is the tool of choice for many applications in research, from data proces
 However, much of this code is written to a base standard to achieve a single goal. Further, it is often written in a fluid style as interesting science appears. Whilst this is fast in the short-term, it does not lend well to re-usability by others (or even the future author!) or to well-written and structured code.
 </p><p>
 In this session we will explore a number of tools and techniques that can be easily applied to improve your code's quality, readability, reduce bugs, and facilitate re-use.
+</p>
+<p class="pre-reqs">
+<b>Pre-requisites:</b>
+For the RSE Skills we require participants to:
+<ul>
+<li>Have a working Python 3 installation on their system.</li>
+<li>Ideally clone the workshop repository in advance of the session: https://github.com/Cambridge-ICCS/rse-skills-python</li>
+<li>
+We expect basic programming skills, the ability to read and follow python code, and an enthusiasm to learn better practice - it is worth emphasising that many of the concepts will map across to other languages besides python.
+</li>
+</ul>
 </p>
 </div>
 
@@ -274,6 +303,30 @@ We will demonstrate the application of machine learning with examples from the g
 <p>
 <b>Required Pre-Reading</b>: To make the most of the session we expect participants to arrive with a (minimal) base-level understanding of machine learning concepts. In addition to this we will also assume knowledge of some basic mathematics and python abilities.
 </p>
+<p class='pre-reqs'>
+<b>Pre-requisites</b>:
+Participants will have the choice of executing the material on Colab or locally on their own system. The latter will require familiarity with virtual environments and code deployment.<br />
+
+<i> Mathematics and Machine Learning</i>
+We will not focus on the mathematics of ML too heavily but we expect some familiarty with calculus (differentiating a function), matrix algebra (matrix multiplication and representing data as a matrix) and the concept of regression (fitting a function to data)<br />
+
+<i>Neural Networks</i><br />
+High level concepts can be obtained by watching the the [video series by 3Blue1Brown](https://www.3blue1brown.com/topics/neural-networks), at least chapters 1-3.<br />
+
+<i>Python</i>
+The course will be taught in python using pyTorch. Whilst no prior knowledge of pyTorch is expected we assume users are familiar with the basics of Python3 which includes:
+
+- Basic mathematical operations
+- Writing and using functions
+The concept of [object orientation](https://eli5.gg/Object-oriented%20programming)
+i.e. that an object, e.g. a dataset, can have associated functions/methods associated with it.
+
+Basic use of the following libraries:
+- [numpy](https://numpy.org/) for mathematical and array operations
+- [matplotlib](https://matplotlib.org/) for ploting and visualisation
+- [pandas](https://pandas.pydata.org/docs/getting_started/index.html) for storing and accessing tabular data
+- Familiarity with the [concept of a jupyter notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html)
+</p>
 </div>
 
 <div id="abstract-workshop-11">
@@ -285,7 +338,21 @@ A key focus of many scientific computing domains at present is how to use machin
 There may also be time for questions/discussion from those seeking to use FTorch in their work, and the developers will be available for code-clinics and discussions throughout the week.
 
 Further information can be found in <a href="https://www.youtube.com/watch?v=-NJGuV6Rz6U">this video</a> or <a href="https://www.youtube.com/watch?v=Ei6H_BoQ7g4&list=PL27mQJy8eDHmibt_aL3M68x-4gnXpxvZP&index=33">this video</a>.
-</p></div>
+</p>
+<p class="pre-reqs">
+<b>Pre-requisites:</b>
+
+- A python installation
+  - Preferably with pytorch pip installed in advance
+- Compilers (the gnu suite would be ideal)
+  - A Fortran Compiler
+  - A C compiler
+  - A C++ compiler
+- Internet access
+- Windows users are encouraged to use Windows Subsystem for Linux, or review the Windows guidance on the FTorch documentation in advance.
+
+</p>
+</div>
 
 <div id="abstract-workshop-12">
 <p>
@@ -296,7 +363,20 @@ Have you ever found yourself in a position where your code feels slow but you ca
 * or that new awesome feature you pushed to main branch last week without tests 😳 ?
 
 Climate software is necessarily complex, often containing thousands of source files and millions of lines of code. These projects are often developed collaboratively by a large number of scientists over a significant number of years. It is no longer possible to know every line of code, every function and every source file. We can no longer "just guess" where performance is being lost. This is where profiling comes in. In this tutorial we will cover the basics of profiling -- what it is, what its used for and how to understand the output. These basics will be reinforced with demonstrations of two high performance profilers: score-p and TAU.
+<p class="pre-reqs">
+<b>Pre-requisites:</b>
+
+* Bring a code that you would like to profile (we can provide example code but it's always better to use your own)
+
+* No need to install any profilers or tools prior to the workshop
+
+* Access to a Unix machine would be ideal (if using Windows, please install Windows Subsystem for Linux WSL)
+
+* Optional - score-p/cube, valgrind, clang/gnu compiler, tau profiler, python
+
 </p>
+</p>
+
 </div>
 
 <div id="abstract-workshop-13">
@@ -305,10 +385,17 @@ This introductory tutorial provides a comprehensive overview of the core feature
 We begin with an introduction to Julia and the interactive Pluto Notebook environment, followed by an exploration of functions, primary and composite data types, generic programming through multiple dispatch, and more.
 Afterwards, the tutorial provides several study cases to delve into applications of Julia in scientific computing and machine learning. The last part will be a hands-on lab to build an Earth energy balance model and train a neural network to solve its differential equation.
 </p>
+<p class="pre-reqs">
+<b>Pre-requisites:</b>
+
+- Basic experience in programming
+- A Julia installation (instruction can be found in [README.md](https://github.com/Cambridge-ICCS/Summer-school-Julia-tutorial))
+- Some knowledge in calculus and linear algebra would be desirable
+</p>
 </div>
 
 <div id="abstract-workshop-14">
-Building software tools has become a fundamental aspect of many areas of current research, from environmental modelling to digital humanities. Evelina will talk about how the potential of these tools can be amplified through the principles of open source and open science. Looking at successful and not so successful examples, we will explore the current landscape of open source in academia and research in general: from building collaborative communities to the current struggles to define what open source even means in the world of large language models. On top of that, we will cover some of the best practices for creating robust, reusable and openly accessible tools to maximise the impact of our research work. 
+Building software tools has become a fundamental aspect of many areas of current research, from environmental modelling to digital humanities. Evelina will talk about how the potential of these tools can be amplified through the principles of open source and open science. Looking at successful and not so successful examples, we will explore the current landscape of open source in academia and research in general: from building collaborative communities to the current struggles to define what open source even means in the world of large language models. On top of that, we will cover some of the best practices for creating robust, reusable and openly accessible tools to maximise the impact of our research work.
 </div>
 </section>
 
