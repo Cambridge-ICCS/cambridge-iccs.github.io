@@ -112,7 +112,6 @@ div {
 # Other information
 
 * [Logistics and Accommodation](https://cambridge-iccs.github.io/summerschool24-logistics)
-* [Full Program](https://iccs.cam.ac.uk/files/2024_iccs_summer_school_program.pdf)
 
 # Schedule
 
@@ -170,6 +169,8 @@ Transport from CMS will depart at 17:15.
 
 
 Cambridge Wine Merchants and cheese and wine tasting session - 15 min short intro to wines and then wines and nibbles
+
+* [Full Program](https://iccs.cam.ac.uk/files/2024_iccs_summer_school_program.pdf)
 
 <section id="abstracts">
 <div id="abstract-workshop-1">
