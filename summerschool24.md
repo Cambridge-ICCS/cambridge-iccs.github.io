@@ -112,7 +112,7 @@ div {
 # Other information
 
 * [Logistics and Accommodation](https://cambridge-iccs.github.io/summerschool24-logistics)
-* [Full Program}(https://iccs.cam.ac.uk/files/2024_iccs_summer_school_program.pdf)
+* [Full Program](https://iccs.cam.ac.uk/files/2024_iccs_summer_school_program.pdf)
 
 # Schedule
 
