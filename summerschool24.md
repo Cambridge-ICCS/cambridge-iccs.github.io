@@ -101,6 +101,9 @@ td:nth-child(3), td:nth-child(4) {
   padding-left: 2em;
   padding-right: 2em;
 }
+.pre-reqs {
+  background: #e1e5e0;
+}
 </style>
 
 <style>
@@ -235,6 +238,28 @@ This session will include a general lecture to explain what the current approach
 The practical session will be based on _Observation System Simulation Experience for ocean surface pCO2 over the Atlantic Ocean_.
 
 Sparse data coverage and the lack of observations covering the full seasonal cycle challenge mapping methods and result in noisy reconstructions of surface ocean pCO2 and disagreements between different models. We explored design options for a future augmented Atlantic-scale observing system that would optimally combine data streams from various platforms and contribute to reduce the bias in reconstructed surface ocean pCO2 fields and sea–air CO2 fluxes.
+</p>
+
+<p class='pre-reqs'>
+<b>Pre-requisites:</b>
+The data required for the practical session is here:
+<quote>
+Denvil-Sommer, A. (2024). Dataset for OSSE exercise at ICCS Summer School 2024 Cambridge [Data set]. Zenodo. <a href="https://doi.org/10.5281/zenodo.12567970">https://doi.org/10.5281/zenodo.12567970</a>
+</quote>
+You may wish to look at the article:
+<quote>
+Denvil-Sommer, A., Gehlen, M., and Vrac, M.: Observation system simulation experiments in the Atlantic Ocean for enhanced surface ocean pCO2 reconstructions, Ocean Sci., 17, 1011–1030, <a href="https://doi.org/10.5194/os-17-1011-2021">https://doi.org/10.5194/os-17-1011-2021</a>, 2021.
+</quote>
+
+Students will need following libraries installed on their laptops:
+<ul>
+<li>numpy</li>
+<li>pandas</li>
+<li>matplotlib.pyplot</li>
+<li>cartopy</li>
+<li>torch</li>
+<li>sklearn</li>
+</ul>
 </p>
 </div>
 
