@@ -43,6 +43,8 @@ There are two visitor gates at the CMS, shown on the map below.
 
 A map of the CMS [here shows meeting room locations](http://www.cms.cam.ac.uk/files/plan/downloads/meetingrooms.png). 
 
+[CMS Facilities map.](https://github.com/Cambridge-ICCS/cambridge-iccs.github.io/blob/main/assets/images/SummerSchool2024/CMSPavilionsFacilities.PNG)
+
 ### Internet access/Wifi
 
 Free guest wifi is available in all Cambridge University and College buildings, including at your accommodation.  You can register for a wireless connection using your email address by connecting to **UniOfCam-Guest** in your list of available networks.  Full instructions are here [https://help.uis.cam.ac.uk/guest-wifi](https://help.uis.cam.ac.uk/guest-wifi).
