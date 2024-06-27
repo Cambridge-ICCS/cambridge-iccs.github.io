@@ -58,7 +58,7 @@ span.hack {
     text-align: justify;
     width: 60vw;
     top: 20vh;
-    bottom: 10vh;
+    max-height: 60vh;
     left: 25vw;
     background: #eee;
     position: fixed;
