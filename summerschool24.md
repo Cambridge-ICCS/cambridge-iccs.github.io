@@ -117,7 +117,8 @@ div {
 
 During the week, you can [book in a session with one of the RSE team](https://docs.google.com/spreadsheets/d/1iINWYEOdEytngnanVqyq2gAi8DJq4kMusvY6_BI3N0A/edit?usp=sharing) for advice, or to discuss ongoing projects.
 
-<b class="workshop" onMouseOver="highlightTitles('rgb(250, 242, 92)')" onMouseOut="highlightTitles('rgb(255,255,255)')">Click a title to see its abstract</b>
+<b class="workshop" onMouseOver="highlightTitles('rgb(250, 242, 92)')" onMouseOut="highlightTitles('rgb(255,255,255)')">Click a title to see its abstract
+and <u>suggested pre-requisites</u> for each session.</b>
 
 ## Wednesday 10th July, Centre for Mathematical Sciences
 
