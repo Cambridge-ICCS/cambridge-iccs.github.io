@@ -145,7 +145,7 @@ Both starting and leaving from the [Faulkes Gatehouse](https://www.google.com/ma
 | 09:00  | 10:30 | <a class="workshop" name="workshop-10">Introduction to Neural Networks with PyTorch</a> | <a class="workshop" name="workshop-11">Coupling PyTorch with Fortran via FTorch</a>
 | 10:30  | 11:00 | Break - tea, coffee, pastries |
 | 11:00  | 12:00 | <a class="workshop" name="workshop-10">Introduction to Neural Networks with PyTorch</a> | Code clinic |
-| 12:00  | 13:30 | Lunch - Church College |
+| 12:00  | 13:30 | Lunch - Churchill College |
 | 13:30  | 15:00 | <a class="workshop" name="workshop-7">OpenMP for GPUs</a> | <a class="workshop" name="workshop-8">Research Sofware Engineering with Python</a> |
 | 15:00  | 15:30 | Break - tea, coffee |
 | 15:30  | 17:00 | <a class="workshop" name="workshop-7">OpenMP for GPUs (lab)</a> | <a class="workshop" name="workshop-9">Typing Python with mypy</a> |
@@ -161,7 +161,7 @@ Transport from CMS will depart at 17:15.
 | 09:00  | 10:30 | <a class="workshop" name="workshop-4">Introduction to climate and weather modelling</a> | <a class="workshop" name="workshop-5">Explainable data science with the Fluid language</a> |
 | 10:30  | 11:00 | Break - tea, coffee, pastries |
 | 11:00  | 12:00 | <a class="workshop" name="workshop-4">Introduction to climate and weather modelling</a> | <a class="workshop" name="workshop-6">What can abstract mathematics tell us about programming climate models?</a> |
-| 12:00  | 13:30 | Lunch - Church College |
+| 12:00  | 13:30 | Lunch - Churchill College |
 | 13:30  | 15:30 | <a class="workshop" name="workshop-12">Profiling and performance testing</a> | <a class="workshop" name="workshop-13">Introduction to Computational Science in Julia</a> |
 | 15:30  | 16:00 | Break - tea, coffee |
 | 16:00 | 17:00 | <b>Closing Keynote</b> - Dr Evelina Gabasova - <a class="workshop" name="workshop-14">Transformational power of openness: open source in research and beyond</a>
