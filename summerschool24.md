@@ -56,7 +56,7 @@ span.hack {
     margin: 10px;
     padding: 10px;
     text-align: justify;
-    width: 50vw;
+    width: 60vw;
     top: 20vh;
     bottom: 10vh;
     left: 25vw;
