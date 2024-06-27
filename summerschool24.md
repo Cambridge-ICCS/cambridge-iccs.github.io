@@ -57,12 +57,14 @@ span.hack {
     padding: 10px;
     text-align: justify;
     width: 50vw;
-    top: 25vh;
+    top: 20vh;
     bottom: 10vh;
     left: 25vw;
     background: #eee;
     position: fixed;
     z-index: 10;
+    overflow: scroll;
+
 }
 .opt {
 	color: gray;
