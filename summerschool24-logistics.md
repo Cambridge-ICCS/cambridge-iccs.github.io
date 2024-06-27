@@ -43,7 +43,7 @@ There are two visitor gates at the CMS, shown on the map below.
 
 A map of the CMS [here shows meeting room locations](http://www.cms.cam.ac.uk/files/plan/downloads/meetingrooms.png). 
 
-[CMS Facilities map.](https://github.com/Cambridge-ICCS/cambridge-iccs.github.io/blob/main/assets/images/SummerSchool2024/CMSPavilionsFacilities.PNG)
+[CMS Facilities map.](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/CMSPavilionsFacilities.PNG)
 
 ### Internet access/Wifi
 
