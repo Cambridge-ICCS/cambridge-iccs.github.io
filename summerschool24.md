@@ -369,21 +369,25 @@ Further information can be found in <a href="https://www.youtube.com/watch?v=-NJ
 <p>
 Have you ever found yourself in a position where your code feels slow but you can't quite put your finger on it.
 
-* is it the new system your running on?
-* the new dependencies installed by your system admin?
-* or that new awesome feature you pushed to main branch last week without tests 😳 ?
+<ul>
+<li>is it the new system your running on?</li>
+<li>the new dependencies installed by your system admin?</li>
+<li>or that new awesome feature you pushed to main branch last week without tests 😳 ?</li>
+</ul>
 
 Climate software is necessarily complex, often containing thousands of source files and millions of lines of code. These projects are often developed collaboratively by a large number of scientists over a significant number of years. It is no longer possible to know every line of code, every function and every source file. We can no longer "just guess" where performance is being lost. This is where profiling comes in. In this tutorial we will cover the basics of profiling -- what it is, what its used for and how to understand the output. These basics will be reinforced with demonstrations of two high performance profilers: score-p and TAU.
 <p class="pre-reqs">
 <b>Pre-requisites:</b>
 
-* Bring a code that you would like to profile (we can provide example code but it's always better to use your own)
+<ul>
+<li>Bring a code that you would like to profile (we can provide example code but it's always better to use your own)</li>
 
-* No need to install any profilers or tools prior to the workshop
+<li>No need to install any profilers or tools prior to the workshop</li>
 
-* Access to a Unix machine would be ideal (if using Windows, please install Windows Subsystem for Linux WSL)
+<li>Access to a Unix machine would be ideal (if using Windows, please install Windows Subsystem for Linux WSL)</li>
 
-* Optional - score-p/cube, valgrind, clang/gnu compiler, tau profiler, python
+<li>Optional - score-p/cube, valgrind, clang/gnu compiler, tau profiler, python</li>
+</ul>
 
 </p>
 </p>
