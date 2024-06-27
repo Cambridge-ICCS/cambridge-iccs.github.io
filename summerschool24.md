@@ -362,6 +362,7 @@ Further information can be found in <a href="https://www.youtube.com/watch?v=-NJ
   <li>A C compiler</li>
   <li>A C++ compiler</li>
   </ul>
+  </li>
 <li>Internet access</li>
 <li>Windows users are encouraged to use Windows Subsystem for Linux, or review the Windows guidance on the FTorch documentation in advance.</li>
 </ul>
