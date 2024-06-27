@@ -184,7 +184,7 @@ We will use the Unix shell in this course. Previous experience with using the sh
 </p>
 <p class="pre-reqs">
 <b>Pre-requisites:</b> Install git on your computer, set up a Github account and the SSH key and MFA.<br />
-You can follow the steps from here: https://swcarpentry.github.io/git-novice/ as well as https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+You can follow the steps from here: <a href="https://swcarpentry.github.io/git-novice/">https://swcarpentry.github.io/git-novice/</a> as well as <a href="https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account">https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account</a>.
 </p>
 </div>
 
@@ -197,9 +197,9 @@ This is a hands-on session with live-coding and exercises.
 We will use the Unix shell in this course.
 </p>
 <p class="pre-reqs">
-<b>Pre-requisites:</b> Attendees will need to have Git installed on their computers, have GitHub accounts, and have SSH keys and MFA set up.<br />
+<b>Pre-requisites:</b> Attendees will need to have Git installed on their computers, have GitHub accounts, and have SSH keys and MFA set up.<br /><br />
 We are assuming that attendees are familiar with Git commands `git add`, `git commit`, `git pull`, `git push`, and `git log`, and the GitHub concepts of Issues and Pull Requests.
-<br />
+<br /><br />
 The repository used for the exercises will include some simple Python code but understanding Python is not a requirement. However, attendees will need to have working Python 3 installations on their computers.
 </p>
 </div>
@@ -254,11 +254,13 @@ This session will serve as an introduction to the OpenMP programming model for G
 </p>
 <p class="pre-reqs">
 <b>Pre-requisites:</b>
-* As we will be running the practical exercises on the Cambridge HPC system, basic linux shell knowledge is expected
+<ul>
+<li>As we will be running the practical exercises on the Cambridge HPC system, basic linux shell knowledge is expected.</li>
 
-* Expect basis programming skills and the ability to read C or Fortran-style code, and the ability to compile and run code on systems using Makefiles
+<li>Expect basis programming skills and the ability to read C or Fortran-style code, and the ability to compile and run code on systems using Makefiles.</li>
 
-* Some familiarity with GPU programming is beneficial but not essential
+<li>Some familiarity with GPU programming is beneficial but not essential</li>
+</ul>
 </p>
 </div>
 
@@ -275,7 +277,7 @@ In this session we will explore a number of tools and techniques that can be eas
 For the RSE Skills we require participants to:
 <ul>
 <li>Have a working Python 3 installation on their system.</li>
-<li>Ideally clone the workshop repository in advance of the session: https://github.com/Cambridge-ICCS/rse-skills-python</li>
+<li>Ideally clone the workshop repository in advance of the session: <a href="https://github.com/Cambridge-ICCS/rse-skills-python">https://github.com/Cambridge-ICCS/rse-skills-python</a></li>
 <li>
 We expect basic programming skills, the ability to read and follow python code, and an enthusiasm to learn better practice - it is worth emphasising that many of the concepts will map across to other languages besides python.
 </li>
@@ -286,6 +288,10 @@ We expect basic programming skills, the ability to read and follow python code, 
 <div id="abstract-workshop-9">
 <p>
 Many compiled languages include a 'type checker' as part of their compilation process which applies automated checks to source code to rule out potential runtime errors due to mismatches in the format of data ('type errors'). The Python language does not include such a check: its types are 'dynamic', with type errors occurring only if encountered at runtime. Python however supports type annotations (since Python 3.0) which allows a programmer to insert optional type information into code which external tools can then use to type check a program. This session will teach how to use Python types alongside the mypy tool for ruling out program bugs and better documenting source code. We will also talk about some fundamental concepts in typing and program verification.
+<p class='pre-reqs'>
+<b>Pre-requisites</b><br/>
+Python 3 and <a href="https://mypy.readthedocs.io/en/stable/getting_started.html#installing-and-running-mypy">mypy</a> should be installed before the session.
+</p>
 </p>
 </div>
 
@@ -305,27 +311,27 @@ We will demonstrate the application of machine learning with examples from the g
 </p>
 <p class='pre-reqs'>
 <b>Pre-requisites</b>:
-Participants will have the choice of executing the material on Colab or locally on their own system. The latter will require familiarity with virtual environments and code deployment.<br />
+Participants will have the choice of executing the material on Colab or locally on their own system. The latter will require familiarity with virtual environments and code deployment.<br /><br />
 
-<i> Mathematics and Machine Learning</i>
-We will not focus on the mathematics of ML too heavily but we expect some familiarty with calculus (differentiating a function), matrix algebra (matrix multiplication and representing data as a matrix) and the concept of regression (fitting a function to data)<br />
+<i><u>Mathematics and Machine Learning</u></i>
+We will not focus on the mathematics of ML too heavily but we expect some familiarty with calculus (differentiating a function), matrix algebra (matrix multiplication and representing data as a matrix) and the concept of regression (fitting a function to data)<br /><br />
 
-<i>Neural Networks</i><br />
-High level concepts can be obtained by watching the the [video series by 3Blue1Brown](https://www.3blue1brown.com/topics/neural-networks), at least chapters 1-3.<br />
+<i><u>Neural Networks</u></i><br />
+High level concepts can be obtained by watching the the [video series by 3Blue1Brown](https://www.3blue1brown.com/topics/neural-networks), at least chapters 1-3.<br /><br />
 
-<i>Python</i>
+<i><u>Python</u></i>
 The course will be taught in python using pyTorch. Whilst no prior knowledge of pyTorch is expected we assume users are familiar with the basics of Python3 which includes:
 
 - Basic mathematical operations
 - Writing and using functions
-The concept of [object orientation](https://eli5.gg/Object-oriented%20programming)
+The concept of <a href="https://eli5.gg/Object-oriented%20programming">object orientation</a>
 i.e. that an object, e.g. a dataset, can have associated functions/methods associated with it.
 
 Basic use of the following libraries:
-- [numpy](https://numpy.org/) for mathematical and array operations
-- [matplotlib](https://matplotlib.org/) for ploting and visualisation
-- [pandas](https://pandas.pydata.org/docs/getting_started/index.html) for storing and accessing tabular data
-- Familiarity with the [concept of a jupyter notebook](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html)
+- <a href="https://numpy.org/">numpy</a> for mathematical and array operations
+- <a href="https://matplotlib.org">matplotlib</a> for ploting and visualisation
+- <a href="https://pandas.pydata.org/docs/getting_started/index.html">pandas</a> for storing and accessing tabular data
+- Familiarity with the <a href="https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/index.html">concept of a jupyter notebook</a>.
 </p>
 </div>
 
@@ -342,15 +348,17 @@ Further information can be found in <a href="https://www.youtube.com/watch?v=-NJ
 <p class="pre-reqs">
 <b>Pre-requisites:</b>
 
-- A python installation
-  - Preferably with pytorch pip installed in advance
-- Compilers (the gnu suite would be ideal)
-  - A Fortran Compiler
-  - A C compiler
-  - A C++ compiler
-- Internet access
-- Windows users are encouraged to use Windows Subsystem for Linux, or review the Windows guidance on the FTorch documentation in advance.
-
+<ul>
+<li> A python installation. Preferably with pytorch pip installed in advance</li>
+<li> Compilers (the gnu suite would be ideal)
+ <ul>
+  <li>A Fortran Compiler</li>
+  <li>A C compiler</li>
+  <li>A C++ compiler</li>
+  </ul>
+<li>Internet access</li>
+<li>Windows users are encouraged to use Windows Subsystem for Linux, or review the Windows guidance on the FTorch documentation in advance.</li>
+</ul>
 </p>
 </div>
 
