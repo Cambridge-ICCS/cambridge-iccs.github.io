@@ -268,4 +268,4 @@ The Cross-VESRI poster session and barbecue will be held on 9 July on the first 
 
 + All provided dietary requirements are taken into account for the meals and dinners.
 
-
+* [Return to Schedule](https://cambridge-iccs.github.io/summerschool24)
