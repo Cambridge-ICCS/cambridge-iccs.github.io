@@ -430,9 +430,11 @@ Afterwards, the tutorial provides several study cases to delve into applications
 <p class="pre-reqs">
 <b>Pre-requisites:</b>
 
-- Basic experience in programming
-- A Julia installation (instruction can be found in [README.md](https://github.com/Cambridge-ICCS/Summer-school-Julia-tutorial))
-- Some knowledge in calculus and linear algebra would be desirable
+<ul>
+<li> Basic experience in programming </li>
+<li> A Julia installation with Pluto.jl. <b>Please following the <a href="https://github.com/Cambridge-ICCS/Summer-school-Julia-tutorial">setup instructios on the material for this session</a></b></li>
+<li>Some knowledge in calculus and linear algebra would be desirable</li>
+</ul>
 </p>
 </div>
 
