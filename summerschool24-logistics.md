@@ -223,7 +223,10 @@ Number 1 bus (stop 7 at Cambridge station, towards Arbury) - alight at Westbrook
 
 ## Thursday Evening Dinner
 
-Thursday evening we will be at Madingley Hall which is just outside the city. Transport will be provided, leaving the CMS at 17.15 with a later bus at 17.45. Please be ready to depart at 17.10 or 17.40. The bus will pick up from [this part of Wilberforce Road](https://maps.app.goo.gl/YrLejVjEDxdYhpYU8). Return transport will depart Madingley Hall at 22.00.
+Thursday evening we will be at [Madingley Hall, Madingley, Cambridge CB23 8AQ](https://maps.app.goo.gl/fMfXirfsq7G3YaW16) which is just outside the city.  Madingley Hall is also the home of the University's Institute of Continuing Education (ICE). Transport will be provided, leaving the CMS at 17.15 with a later bus at 17.45. Please be ready to depart at 17.10 or 17.40. The bus will pick up from [this part of Wilberforce Road](https://maps.app.goo.gl/YrLejVjEDxdYhpYU8). Return transport will depart Madingley Hall at 22.00; there will be one bus returning at 22.00 so taxis will be arranged to transport the remaining attendees.  Please monitor the Summer School slack channel for information.  
+
+The dress code will be smart casual and there will not be time between the final Summer School session and the bus departure to return to your accommodation to change or leave your belongings.  Please bring a backpack if you will have a laptop or other items on Thursday at the Summer School. 
+![Madingley Hall](https://raw.githubusercontent.com/Cambridge-ICCS/cambridge-iccs.github.io/main/assets/images/SummerSchool2024/madingley-hall.jpg)
 
 ## Cross-VESRI Convening Locations
 
