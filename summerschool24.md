@@ -157,7 +157,7 @@ Both starting and leaving from the [Faulkes Gatehouse](https://www.google.com/ma
 | 15:00  | 15:30 | Break - tea, coffee |
 | 15:30  | 17:00 | <a class="workshop" name="workshop-7">OpenMP for GPUs (lab)</a> | <a class="workshop" name="workshop-9">Typing Python with mypy</a> |
 
-Pre-dinner drinks reception and dinner at [Madingley Hall](https://maps.app.goo.gl/TQS7L9brtSCKwHAaA), Madingley, Cambridge CB23 8AQ.
+Dinner at [Madingley Hall](https://maps.app.goo.gl/TQS7L9brtSCKwHAaA), Madingley, Cambridge CB23 8AQ.
 Transport from CMS will depart at 17:15.
 
 ## Friday 12th July, CMS
