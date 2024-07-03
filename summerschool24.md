@@ -153,7 +153,7 @@ Both starting and leaving from the [Faulkes Gatehouse](https://www.google.com/ma
 | 10:30  | 11:00 | Break - tea, coffee, pastries |
 | 11:00  | 12:00 | <a class="workshop" name="workshop-10">Introduction to Neural Networks with PyTorch</a> | Code clinic |
 | 12:00  | 13:30 | Lunch - Churchill College |
-| 13:30  | 15:00 | <a class="workshop" name="workshop-7">OpenMP for GPUs</a> | <a class="workshop" name="workshop-8">Research Sofware Engineering with Python</a> |
+| 13:30  | 15:00 | <a class="workshop" name="workshop-7">OpenMP for GPUs</a> | <a class="workshop" name="workshop-8">Research Sofware Engineering Skills (in Python)</a> |
 | 15:00  | 15:30 | Break - tea, coffee |
 | 15:30  | 17:00 | <a class="workshop" name="workshop-7">OpenMP for GPUs (lab)</a> | <a class="workshop" name="workshop-9">Typing Python with mypy</a> |
 
