@@ -378,7 +378,8 @@ Further information can be found in <a href="https://www.youtube.com/watch?v=-NJ
 <b>Pre-requisites:</b>
 
 <ul>
-<li> A python installation. Preferably with pytorch pip installed in advance</li>
+<li> A <i>python</i> installation. Preferably with pytorch pip installed in advance</li>
+<li> <i>CMake</i> installed</li>
 <li> Compilers (the gnu suite would be ideal)
  <ul>
   <li>A Fortran Compiler</li>
@@ -387,7 +388,7 @@ Further information can be found in <a href="https://www.youtube.com/watch?v=-NJ
   </ul>
   </li>
 <li>Internet access</li>
-<li>Windows users are encouraged to use Windows Subsystem for Linux, or review the Windows guidance on the FTorch documentation in advance.</li>
+<li>Windows users are encouraged to use Windows Subsystem for Linux, or <a href="https://github.com/Cambridge-ICCS/FTorch/?tab=readme-ov-file#windows-support">review the Windows guidance on the FTorch documentation in advance.</a></li>
 </ul>
 </p>
 </div>
