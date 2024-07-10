@@ -131,9 +131,9 @@ and <u>suggested pre-requisites</u> for each session.</b>
 |  Start | End  | Track 1  | Track 2 |
 | ------ | ----- | ------- | ------- |
 | 14:00  | 14:15 | Introduction - Please be seated by 2pm sharp |
-| 14:15  | 15:45 | <a class="workshop" name="workshop-1">Introduction to Git and GitHub</a> | <a class="workshop" name="workshop-2">Intermediate Git and GitHub</a> |
+| 14:15  | 15:45 | <a class="workshop" name="workshop-1">Introduction to Git and GitHub</a> (MR4) | <a class="workshop" name="workshop-2">Intermediate Git and GitHub</a> (MR2) |
 | 15:45  | 16:15 | Coffee & Tea |
-| 16:15  | 17:45 | <a class="workshop" name="workshop-3">Scientific Visualisation</a> | Code clinic
+| 16:15  | 17:45 | <a class="workshop" name="workshop-3">Scientific Visualisation</a> (MR2) | Code clinic (MR4 & 5)
 
 Aromi Pizza and beer from 17:45; board games + Lego
 
@@ -149,13 +149,13 @@ Both starting and leaving from the [Faulkes Gatehouse](https://www.google.com/ma
 |  Start | End  | Track 1   | Track 2 |
 | ------ | ----- | ------- |
 | 08:15  | 09:00 | Continental breakfast at the CMS |
-| 09:00  | 10:30 | <a class="workshop" name="workshop-10">Introduction to Neural Networks with PyTorch</a> | <a class="workshop" name="workshop-11">Coupling PyTorch with Fortran via FTorch</a>
+| 09:00  | 10:30 | <a class="workshop" name="workshop-10">Introduction to Neural Networks with PyTorch</a> (MR2) | <a class="workshop" name="workshop-11">Coupling PyTorch with Fortran via FTorch</a> (MR4)
 | 10:30  | 11:00 | Break - tea, coffee, pastries |
-| 11:00  | 12:00 | <a class="workshop" name="workshop-10">Introduction to Neural Networks with PyTorch</a> | Code clinic |
+| 11:00  | 12:00 | <a class="workshop" name="workshop-10">Introduction to Neural Networks with PyTorch</a> (MR2) | Code clinic (MR4 & 5) |
 | 12:00  | 13:30 | Lunch - Churchill College |
-| 13:30  | 15:00 | <a class="workshop" name="workshop-7">OpenMP for GPUs</a> | <a class="workshop" name="workshop-8">Research Sofware Engineering Skills (in Python)</a> |
+| 13:30  | 15:00 | <a class="workshop" name="workshop-7">OpenMP for GPUs</a> (MR4) | <a class="workshop" name="workshop-8">Research Sofware Engineering Skills (in Python)</a> (MR2) |
 | 15:00  | 15:30 | Break - tea, coffee |
-| 15:30  | 17:00 | <a class="workshop" name="workshop-7">OpenMP for GPUs (lab)</a> | <a class="workshop" name="workshop-9">Typing Python with mypy</a> |
+| 15:30  | 17:00 | <a class="workshop" name="workshop-7">OpenMP for GPUs (lab)</a> (MR4) | <a class="workshop" name="workshop-9">Typing Python with mypy</a> (MR2) |
 
 Dinner at [Madingley Hall](https://maps.app.goo.gl/TQS7L9brtSCKwHAaA), Madingley, Cambridge CB23 8AQ.
 Transport from CMS will depart at 17:15.
@@ -165,13 +165,13 @@ Transport from CMS will depart at 17:15.
 |  Start | End  | Track 1   | Track 2 |
 | ------ | ----- | ------- |
 | 08:15  | 09:00 | Continental breakfast at the CMS |
-| 09:00  | 10:30 | <a class="workshop" name="workshop-4">Introduction to climate and weather modelling</a> | <a class="workshop" name="workshop-5">Explainable data science with the Fluid language</a> |
+| 09:00  | 10:30 | <a class="workshop" name="workshop-4">Introduction to climate and weather modelling</a> (MR2) | <a class="workshop" name="workshop-5">Explainable data science with the Fluid language</a> (MR4) |
 | 10:30  | 11:00 | Break - tea, coffee, pastries |
-| 11:00  | 12:00 | <a class="workshop" name="workshop-4">Introduction to climate and weather modelling</a> | <a class="workshop" name="workshop-6">What can abstract mathematics tell us about programming climate models?</a> |
+| 11:00  | 12:00 | <a class="workshop" name="workshop-4">Introduction to climate and weather modelling</a> (MR2) | <a class="workshop" name="workshop-6">What can abstract mathematics tell us about programming climate models?</a> (MR4) |
 | 12:00  | 13:30 | Lunch - Churchill College |
-| 13:30  | 15:30 | <a class="workshop" name="workshop-12">Profiling and performance testing</a> | <a class="workshop" name="workshop-13">Introduction to Computational Science in Julia</a> |
+| 13:30  | 15:30 | <a class="workshop" name="workshop-12">Profiling and performance testing</a> (MR2) | <a class="workshop" name="workshop-13">Introduction to Computational Science in Julia</a> (MR4) |
 | 15:30  | 16:00 | Break - tea, coffee |
-| 16:00 | 17:00 | <b>Closing Keynote</b> - Dr Evelina Gabasova - <a class="workshop" name="workshop-14">Transformational power of openness: open source in research and beyond</a>
+| 16:00 | 17:00 | <b>Closing Keynote</b> - Dr Evelina Gabasova - <a class="workshop" name="workshop-14">Transformational power of openness: open source in research and beyond</a> (MR2)
 
 
 Cambridge Wine Merchants and cheese and wine tasting session - 15 min short intro to wines and then wines and nibbles
