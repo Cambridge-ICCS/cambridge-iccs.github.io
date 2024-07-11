@@ -252,14 +252,7 @@ You may wish to look at the article:
 <p>
 Denvil-Sommer, A., Gehlen, M., and Vrac, M.: Observation system simulation experiments in the Atlantic Ocean for enhanced surface ocean pCO2 reconstructions, Ocean Sci., 17, 1011–1030, <a href="https://doi.org/10.5194/os-17-1011-2021">https://doi.org/10.5194/os-17-1011-2021</a>, 2021.
 </p>
-Students will need following libraries installed on their laptops:<ul>
-<li>numpy</li>
-<li>pandas</li>
-<li>matplotlib.pyplot</li>
-<li>cartopy</li>
-<li>torch</li>
-<li>sklearn</li>
-</ul>
+<a href="https://github.com/AnnaDSMS/Cambridge-Summer-School-2024">The code (including notebooks and install instructions) can be found here.</a>
 </p>
 </div>
 
