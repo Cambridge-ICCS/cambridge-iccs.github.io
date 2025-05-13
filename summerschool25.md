@@ -115,7 +115,7 @@ div {
 
 <div id="layer"></div>
 
-<h3><a href="summerschool25-programme.htm>Full programme here</a></h3>
+<h3><a href="summerschool25-programme.htm">Full programme here</a></h3>
 
 ## List of Topics
 
