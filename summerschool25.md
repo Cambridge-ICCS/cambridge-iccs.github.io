@@ -115,9 +115,9 @@ div {
 
 <div id="layer"></div>
 
-## List of Topics
+<h3><a href="summerschool25-programme.htm>Full programme here</a></h3>
 
-__Exact schedule to be announced soon!__
+## List of Topics
 
 * **Version control (Git and GitHub)** – both introductory and intermediate sessions  
 * **RSE Skills** – how to apply research software engineering principles to write higher-quality code, reduce bugs, and facilitate re-use  
@@ -127,7 +127,6 @@ __Exact schedule to be announced soon!__
 * **Introduction to High Performance Computing** – hardware, performance limits, programming models, profiling, debugging  
 * **Practical Machine Learning with PyTorch** – understanding the structure of a PyTorch model, ML pipeline for classification/regression  
 * **Observation System Simulation Experiences** – using ML for optimal sampling strategy  
-* **Bayesian ML and Uncertainty Quantification** – from uncertainty quantification to physics-informed networks and Bayesian model calibration  
 * **Introduction to Julia** – a brief introduction to the Julia language for computational science  
 * **Explainable data science with Fluid** – building transparent, interactive data science visualisations using the Fluid language  
 * **FTorch** – coupling ML and numerical models in Fortran with FTorch  
