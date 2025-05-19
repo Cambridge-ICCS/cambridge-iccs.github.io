@@ -115,9 +115,9 @@ div {
 
 <div id="layer"></div>
 
-<h3><a href="summerschool25-programme.htm">Full programme here</a></h3>
+<h3><a href="summerschool25-programme.htm">Full programme</a></h3>
 
-## List of Topics
+## List of Topics in brief
 
 * **Version control (Git and GitHub)** – both introductory and intermediate sessions  
 * **RSE Skills** – how to apply research software engineering principles to write higher-quality code, reduce bugs, and facilitate re-use  
