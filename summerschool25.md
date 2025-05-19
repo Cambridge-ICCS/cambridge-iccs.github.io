@@ -137,6 +137,27 @@ div {
 
 As in previous years, we will be running a hackathon at the summer school on the Friday. The idea of a hackathon is to spend focussed time working on a mini-project for a day in a small group (e.g., 3-6 people). Projects are proposed by participants and can be based on something you are currently working on, or an idea that could be reasonably tackled in a day (at least to make some progress). This is a fantastic opportunity to learn from each other ‘by doing’, forge new connections, and even make progress on a project. As part of the registration, you will be asked for your GitHub login. We will add everyone to [the Summer School hackathon repository](https://github.com/Cambridge-ICCS/hackathon-2025) in which people can propose topics ahead of time by posting an issue, enabling discussion and forming groups by responding to the issue. We will have a short session to discuss the summer school arrangements, but our hope is that there will be a sufficient number of projects submitted ahead of time to enable groups to be formed by the Friday. We will send out a reminder to submit project ideas ahead of the summer school.
 
+### Code of Conduct
+
+The open exchange of ideas and the freedom of thought and expression are central to the aims and goals of the
+summer school; these require an environment that recognizes the inherent worth of every person and group, that
+fosters dignity, understanding, and mutual respect, and that embraces diversity. We are dedicated to providing a
+safe, hospitable, productive, and harassment-free and discrimination-free environment for everyone attending,
+regardless of ethnicity, religion, disability, physical appearance, gender, or sexual orientation. In particular, we
+expect all the participants to use welcoming and inclusive language, to be respectful of differing viewpoints and
+experiences, to gracefully accept constructive criticism, to focus on what is best for the community, and to show
+empathy towards other community members. We expect everyone to communicate openly with respect and
+consideration for others, treating each other as equals. It is important to remember that a community where people
+feel uncomfortable or threatened is neither healthy nor productive.
+
+There is no tolerance for unwelcome, hostile, or disruptive behaviour or speech that intimidates, creates discomfort,
+or interferes with a person’s participation or opportunity for participation at the event. Participants asked to stop
+any harassing behaviour are expected to comply immediately. Participants violating these standards may be
+expelled from this and future events.
+
+If you witness or are subject to unacceptable behaviour, please talk to one of the ICCS leadership: [Dominic Orchard](mailto:dao29@cam.ac.uk)
+or [Marla Fuchs](mailto:mf372@cam.ac.uk).
+
 <script>
 // Helper to add a HTML after another
 function insertAfter(newNode, existingNode) {
