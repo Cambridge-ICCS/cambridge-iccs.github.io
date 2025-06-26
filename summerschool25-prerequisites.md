@@ -115,7 +115,7 @@ div {
 
 <div id="layer"></div>
 
-<h3><a href="summerschool25.htm"><- Back</a></h3>
+<h3><a href="summerschool25.htm">← Back to Summer School 2025 page</a></h3><br />
 
 # Pre-requisites list 
 
@@ -142,6 +142,8 @@ div {
 * Basic programming skills, namely the ability to read Python code.
 * Familiarity with basic git commands (namely: clone, add, commit, push, pull) is assumed, with a brief recap in the session.
 
+## Introduction to High Performance Computing (Monday, Tuesday)
+
 ## AI for Software Engineering (Tuesday)
 
 * Install [Cursor](https://www.cursor.com)
@@ -152,20 +154,18 @@ div {
 * Basic knowledge of C or Fortran.
 * Either download and install the [Tapenade AD tool](https://tapenade.gitlabpages.inria.fr/tapenade/) or just check you can access the [web interface](http://tapenade.inria.fr:8080/tapenade/index.jsp). 
 
-## Debugging
+## Debugging (Tuesday)
 
 * Unix command line
 * Experience with a compiled language (C/C++/Fortran or Rust)
 * No prior knowledge of debuggers is assumed
 * (optional) Experience with MPI programs
 
-## AI for Software Engineering
+## AI for Software Engineering (Tuesday)
 
 - Install [Cursor](https://www.cursor.com)
 
-## Introduction to High Performance Computing
-
-## Practical Machine Learning with PyTorch
+## Practical Machine Learning with PyTorch (Wednesday, Thursday)
 
 * The materials can be found along with a detailed description of prerequisites [here](https://github.com/Cambridge-ICCS/practical-ml-with-pytorch).
 * Important: On the day there will be two options to explore the material. To avoid any setup complications, choose to either:
@@ -176,30 +176,30 @@ div {
    - Maths (calculus, matrix algebra, regression)
    - Neural networks: See YouTube series by 3blue1brown, chapters 1-3.
 
-## Observation System Simulation Experiences: how to use ML for optimal sampling strategy
+## Observation System Simulation Experiences: how to use ML for optimal sampling strategy (Wednesday)
 
 * Have a working Python 3 installation on their system
 * Ideally download the data in advance of the session: [https://zenodo.org/records/12567970](https://zenodo.org/records/12567970).
 * Ideally clone the repository in advance of the session: [https://github.com/lcimoli/OSSE_pCO2](https://github.com/lcimoli/OSSE_pCO2)
 
-## Introduction to Julia
+## Introduction to Julia (Wednesday)
 
-* A Julia installation with Pluto.jl. Please following the setup instructions on the material for this session
+* A Julia installation with Pluto.jl. Please following the setup instructions [on the material for this session](https://github.com/Cambridge-ICCS/Summer-School-Julia-Tutorial).
 * Basic programming skills
 
-## Testing and correctness
+## Testing and correctness (Thursday)
 
 The concepts discussed in this course can be applied to almost any programming language, however we will use Python as a vehicle for specific examples and exercises.
 Therefore having at least a basic knowledge of Python will be useful as well as a working Python 3 installation on your system. 
 Follow the instructions on the [workshop material GitHub to get setup with the examples](https://github.com/Cambridge-ICCS/testing-workshop/blob/main/example/).
 
-## FTorch
+## FTorch (Thursday)
 
 - A GitHub account.
 - Some previous experience with PyTorch and machine learning is useful but not essential.
 - Previous exposure to Fortran or a similar compiled language is useful but not essential.
 
-## Random Forests and Decision Trees
+## Random Forests and Decision Trees (Thursday)
 
 Undergraduate level knowledge of linear algebra and calculus.
 - Have a working Python 3 installation on their system.
