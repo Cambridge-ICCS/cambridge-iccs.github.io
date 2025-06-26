@@ -123,7 +123,7 @@ div {
 ## RSE Skills (Monday)
 
 * Have a working Python 3 installation on your system.
-* Clone the workshop repository in advance of the session: https://github.com/jatkinson1000/rse-skills-workshop
+* Clone the workshop repository in advance of the session: [https://github.com/jatkinson1000/rse-skills-workshop](https://github.com/jatkinson1000/rse-skills-workshop)
 * An expectation of basic programming skills, the ability to read and follow python code, and an enthusiasm to learn better practices - it is worth emphasising that many of the concepts will map across to other languages with pointers provided.
 
 ## Explainable data science with Fluid (Monday)
@@ -132,25 +132,25 @@ div {
 
 ## Introduction to Git and GitHub for beginners (Monday)
 
-* Install git on your computer, set up a Github account and the SSH key and MFA. You can follow the steps from here: https://swcarpentry.github.io/git-novice/ as well as https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account.
+* Install git on your computer, set up a Github account and the SSH key and MFA. You can follow the steps from here: [https://swcarpentry.github.io/git-novice/](https://swcarpentry.github.io/git-novice/) as well as [https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
 * It would be useful for participants to watch this video from a previous summer school before the course.
 
 ## Intermediate Git and GitHub (Monday)
 
 * Have a working Python 3 installation on your system.
-* Have Git on your system. Installed by default on Linux and most mac systems, see https://github.com/git-guides/install-git for details.
+* Have Git on your system. Installed by default on Linux and most mac systems, see [https://github.com/git-guides/install-git](https://github.com/git-guides/install-git) for details.
 * Basic programming skills, namely the ability to read Python code.
 * Familiarity with basic git commands (namely: clone, add, commit, push, pull) is assumed, with a brief recap in the session.
 
-## AI for Software Engineering (Tuesday)
+## AI for Software Engineering (Tuesday)
 
-* 
+* Install [Cursor](https://www.cursor.com)
 
 ## Differentiable programming (Tuesday, Wednesday)
 
 * Undergraduate level knowledge of linear algebra and calculus.
 * Basic knowledge of C or Fortran.
-* Either download and install the Tapenade AD tool (https://tapenade.gitlabpages.inria.fr/tapenade/) or just check you can access the web interface (http://tapenade.inria.fr:8080/tapenade/index.jsp). 
+* Either download and install the [Tapenade AD tool](https://tapenade.gitlabpages.inria.fr/tapenade/) or just check you can access the [web interface](http://tapenade.inria.fr:8080/tapenade/index.jsp). 
 
 ## Debugging
 
@@ -167,7 +167,7 @@ div {
 
 ## Practical Machine Learning with PyTorch
 
-* The materials can be found along with a detailed description of prerequisites here:  https://github.com/Cambridge-ICCS/practical-ml-with-pytorch
+* The materials can be found along with a detailed description of prerequisites [here](https://github.com/Cambridge-ICCS/practical-ml-with-pytorch).
 * Important: On the day there will be two options to explore the material. To avoid any setup complications, choose to either:
    - Clone and install the repo locally ahead of time.
    - Be ready with a Google account to use Google Colab.
@@ -179,8 +179,8 @@ div {
 ## Observation System Simulation Experiences: how to use ML for optimal sampling strategy
 
 * Have a working Python 3 installation on their system
-* Ideally download the data in advance of the session: https://zenodo.org/records/12567970
-* Ideally clone the repository in advance of the session: https://github.com/lcimoli/OSSE_pCO2 
+* Ideally download the data in advance of the session: [https://zenodo.org/records/12567970](https://zenodo.org/records/12567970).
+* Ideally clone the repository in advance of the session: [https://github.com/lcimoli/OSSE_pCO2](https://github.com/lcimoli/OSSE_pCO2)
 
 ## Introduction to Julia
 
@@ -191,7 +191,7 @@ div {
 
 The concepts discussed in this course can be applied to almost any programming language, however we will use Python as a vehicle for specific examples and exercises.
 Therefore having at least a basic knowledge of Python will be useful as well as a working Python 3 installation on your system. 
-Follow the instructions on the workshop material GitHub to get setup with the examples: https://github.com/Cambridge-ICCS/testing-workshop/blob/main/example/
+Follow the instructions on the [workshop material GitHub to get setup with the examples](https://github.com/Cambridge-ICCS/testing-workshop/blob/main/example/).
 
 ## FTorch
 
