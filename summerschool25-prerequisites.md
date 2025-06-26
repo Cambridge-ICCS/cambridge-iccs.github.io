@@ -115,7 +115,7 @@ div {
 
 <div id="layer"></div>
 
-<h3><a href="summerschool25.htm">← Back to Summer School 2025 page</a></h3><br />
+<h3><a href="summerschool25">← Back to Summer School 2025 page</a></h3><br />
 
 # Pre-requisites list 
 
