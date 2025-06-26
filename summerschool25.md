@@ -117,6 +117,8 @@ div {
 
 <h3><a href="summerschool25-programme.htm">Full programme</a></h3>
 
+<h3><a href="summerschool24-prerequisites.htm">Collected list of pre-requisities</a></h3>
+
 ## List of Topics in brief
 
 * **Version control (Git and GitHub)** – both introductory and intermediate sessions  
