@@ -117,7 +117,7 @@ div {
 
 <h3><a href="summerschool25-programme.htm">Full programme</a></h3>
 
-<h3><a href="summerschool25-prerequisites.htm">Collected list of pre-requisities</a></h3>
+<h3><a href="https://cambridge-iccs.github.io/summerschool25-prerequisites">Collected list of pre-requisities</a></h3>
 
 ## List of Topics in brief
 
