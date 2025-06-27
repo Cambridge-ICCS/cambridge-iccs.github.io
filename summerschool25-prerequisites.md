@@ -157,10 +157,15 @@ div {
 
 ## Debugging (Tuesday)
 
-* Unix command line
-* Experience with a compiled language (C/C++/Fortran or Rust)
+### Background knowledge
+* Unix command line (things like `cd`ing, running the `make` command and running binaries like this `./myprogram.exe`)
+* Basic experience with a compiled language (C/C++/Fortran or Rust)
 * No prior knowledge of debuggers is assumed
 * (optional) Experience with MPI programs
+
+### Software
+* (optional but recommended) install [VS Code](https://code.visualstudio.com/)
+* If you do not have VS Code, you will need a browser (Firefox/Chrome have been tested) 
 
 ## AI for Software Engineering (Tuesday)
 
