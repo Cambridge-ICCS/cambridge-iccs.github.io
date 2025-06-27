@@ -133,6 +133,7 @@ div {
 ## Introduction to Git and GitHub for beginners (Monday)
 
 * Install git on your computer, set up a Github account and the SSH key and MFA. You can follow the steps from here: [https://swcarpentry.github.io/git-novice/](https://swcarpentry.github.io/git-novice/) as well as [https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
+ - Detailed setup instructions to prepare before the course can be found [on this page in the course repository](https://github.com/Cambridge-ICCS/Summer-school-Intro-Git/blob/main/PREPARATION.md)
 * It would be useful for participants to watch this video from a previous summer school before the course.
 
 ## Intermediate Git and GitHub (Monday)
