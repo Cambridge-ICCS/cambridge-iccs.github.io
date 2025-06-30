@@ -152,8 +152,8 @@ div {
 ## Differentiable programming (Tuesday, Wednesday)
 
 * Undergraduate level knowledge of linear algebra and calculus.
-* Basic knowledge of C or Fortran.
-* Either download and install the [Tapenade AD tool](https://tapenade.gitlabpages.inria.fr/tapenade/) or just check you can access the [web interface](http://tapenade.inria.fr:8080/tapenade/index.jsp). 
+* Basic knowledge of Python and Fortran.
+* A GitHub account (for access to Codespaces).
 
 ## Debugging (Tuesday)
 
@@ -201,7 +201,7 @@ Follow the instructions on the [workshop material GitHub to get setup with the e
 
 ## FTorch (Thursday)
 
-- A GitHub account.
+- A GitHub account (for access to Codespaces).
 - Some previous experience with PyTorch and machine learning is useful but not essential.
 - Previous exposure to Fortran or a similar compiled language is useful but not essential.
 
