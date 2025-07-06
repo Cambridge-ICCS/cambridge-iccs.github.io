@@ -130,7 +130,7 @@ div {
 
 * Basic familiarity with functional programming and data types
 * If you want to build and run the examples yourself:
-  - clone `https://github.com/explorable-viz/fluid-article` and install the software mentioned in the `README`
+  - clone the [fluid-article](https://github.com/explorable-viz/fluid-article) template repo and install the software mentioned in the `README`
   - complete the `yarn install` step and ideally verify the installation with `yarn bundle` and `yarn test`
 
 ## Introduction to Git and GitHub for beginners (Monday)
