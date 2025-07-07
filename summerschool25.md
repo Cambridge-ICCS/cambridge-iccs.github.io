@@ -119,23 +119,25 @@ div {
 
 <h3><a href="https://cambridge-iccs.github.io/summerschool25-prerequisites">Collected list of pre-requisities</a></h3>
 
+<br />
+
 During the week, you can <a href="https://docs.google.com/spreadsheets/d/1v8y2GodI9JZoHrFRpLW2tD135MurDBMIcr-ArBFIT3A/edit">book in a session</a> with one of the RSE team for advice, or to discuss ongoing projects.
 
 ## List of Topics in brief
 
-* **Version control (Git and GitHub)** – both introductory and intermediate sessions  
-* **RSE Skills** – how to apply research software engineering principles to write higher-quality code, reduce bugs, and facilitate re-use  
-* **Debugging** – leveraging debugging tools for effectively understanding program behaviour and diagnosing problems  
-* **AI for Software Engineering** – leveraging generative AI tools effectively for software engineering  
-* **Differentiable programming** – foundations of working with automatic differentiation and deploying in code  
-* **Introduction to High Performance Computing** – hardware, performance limits, programming models, profiling, debugging  
-* **Practical Machine Learning with PyTorch** – understanding the structure of a PyTorch model, ML pipeline for classification/regression  
-* **Observation System Simulation Experiences** – using ML for optimal sampling strategy  
-* **Introduction to Julia** – a brief introduction to the Julia language for computational science  
-* **Explainable data science with Fluid** – building transparent, interactive data science visualisations using the Fluid language  
-* **FTorch** – coupling ML and numerical models in Fortran with FTorch  
-* **Testing and correctness** – deploying unit tests, regression tests, property-based tests  
-* **Random Forests and Decision Trees** – how and when to use these ensemble methods  
+* **Version control (Git and GitHub)** – both introductory and intermediate sessions
+* **RSE Skills** – how to apply research software engineering principles to write higher-quality code, reduce bugs, and facilitate re-use
+* **Debugging** – leveraging debugging tools for effectively understanding program behaviour and diagnosing problems
+* **AI for Software Engineering** – leveraging generative AI tools effectively for software engineering
+* **Differentiable programming** – foundations of working with automatic differentiation and deploying in code
+* **Introduction to High Performance Computing** – hardware, performance limits, programming models, profiling, debugging
+* **Practical Machine Learning with PyTorch** – understanding the structure of a PyTorch model, ML pipeline for classification/regression
+* **Observation System Simulation Experiences** – using ML for optimal sampling strategy
+* **Introduction to Julia** – a brief introduction to the Julia language for computational science
+* **Explainable data science with Fluid** – building transparent, interactive data science visualisations using the Fluid language
+* **FTorch** – coupling ML and numerical models in Fortran with FTorch
+* **Testing and correctness** – deploying unit tests, regression tests, property-based tests
+* **Random Forests and Decision Trees** – how and when to use these ensemble methods
 
 ### Hackathon
 
