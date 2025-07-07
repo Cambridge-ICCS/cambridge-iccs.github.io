@@ -115,13 +115,19 @@ div {
 
 <div id="layer"></div>
 
-<h3><a href="summerschool25-programme.htm">Full programme</a></h3>
+<ul>
 
-<h3><a href="https://cambridge-iccs.github.io/summerschool25-prerequisites">Collected list of pre-requisities</a></h3>
+<li><h3><a href="summerschool25-programme.htm">Full programme</a></h3></li>
 
-<br />
+<li><h3><a href="https://drive.google.com/file/d/1AhnH0r0HiQdzLBw4uBgo8AeZRM891zxP/view">Handbook</a></h3></li>
 
+<li><h3><a href="https://cambridge-iccs.github.io/summerschool25-prerequisites">Collected list of pre-requisities</a></h3></li>
+
+<li>
 During the week, you can <a href="https://docs.google.com/spreadsheets/d/1v8y2GodI9JZoHrFRpLW2tD135MurDBMIcr-ArBFIT3A/edit">book in a session</a> with one of the RSE team for advice, or to discuss ongoing projects.
+</li>
+
+</ul>
 
 ## List of Topics in brief
 
