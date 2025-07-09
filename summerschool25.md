@@ -124,7 +124,7 @@ div {
 <li><h3><a href="https://cambridge-iccs.github.io/summerschool25-prerequisites">Collected list of pre-requisities</a></h3></li>
 
 <li>
-During the week, you can <a href="https://docs.google.com/spreadsheets/d/1v8y2GodI9JZoHrFRpLW2tD135MurDBMIcr-ArBFIT3A/edit">book in a session</a> with one of the RSE team for advice, or to discuss ongoing projects.
+During the week, you can <a href="https://docs.google.com/spreadsheets/d/1v8y2GodI9JZoHrFRpLW2tD135MurDBMIcr-ArBFIT3A/edit">book in a session</a> with one of the RSE team for advice, or to discuss ongoing projects. If you'd rather not put your e-mail address here, you can just put your name then send a direct message to the relevant RSE on the summer school Slack.
 </li>
 
 </ul>
